@@ -1,0 +1,35 @@
+{
+    "PHONE": {
+        "score": [
+            0.5,
+            -0.1,
+            1.0
+        ],
+        "percent": [
+            27,
+            27,
+            46
+        ],
+        "positive": [
+            "I've chatting OnePlus line warranty good party purchased phone them.",
+            "I really excited get phone much memory.",
+            "Best phone ever If looking save koney phone.",
+            "I really like things hier phones seem they've come straight future."
+        ],
+        "negative": [
+            "And phone less two months' old!!",
+            "I big hopes phone, sadly disappointment day 1.",
+            "One multiple \"John Smith\" \"Philip Smith\" told hard reset phone.",
+            "Another glitch started today: phone silent, volume down, even media output."
+        ],
+        "neutral": [
+            "I call phone 'wake' up.",
+            "This phone stuck mute!",
+            "I think 1+ Makes competitive phones I've always wanted one.",
+            "After saving wifi networks I connect work home, I started realize I get work I get back home phone would connect automatically show interrogation mark status bar.",
+            "Basically go process backing data, wiping phone, reinstalling everything.",
+            "Shipping phone pauses multiple concerns: 1/ I need wipe data, I want anyone access - means annoyance again.",
+            "2/ I NO phone entire time repair."
+        ]
+    }
+}
