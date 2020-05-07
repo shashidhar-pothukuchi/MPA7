@@ -1,2 +1,6 @@
 frontend
 scraper
+
+.gitignore
+.gitmodules
+
