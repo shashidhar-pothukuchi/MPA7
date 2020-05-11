@@ -1,0 +1,17 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon"
+  ],
+  "author": "shashidhar",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-reviews-crawler": "^1.0.4"
+  }
+}
