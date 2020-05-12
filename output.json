@@ -2,34 +2,167 @@
     "PHONE": {
         "score": [
             0.5,
+            -0.3,
+            1.0
+        ],
+        "percent": [
+            49,
+            15,
+            36
+        ],
+        "positive": [
+            "My iPhone locked Straight Talk financed balance!",
+            "It works fine problems This product compatible telephone carrier.",
+            "Very inconvenient.. Loved brand new phone fast shipping day delivery Thank you, I love phone works well.",
+            "Ordered came SIM card everything fine phone, turned worked.",
+            "AWESOME phone, I looking for.",
+            "Comes original box phone, earbuds, charger.",
+            "This cell phone work, tfw cannot unlocked, good, great scam.",
+            "It abel For T Mobile network Is What liked\u2026but love product fast delivery The phone perfect thing SIM card bad overall son love phone El tel\u00e9fono est\u00e1 en muy buen estado, gust\u00f3.",
+            "Love phone don\u2019t need upgrade while!!",
+            "Love iphone 7, came described perfect condition.. happy Ay\u00fademe desbloqueando la banda, para Ecuador ya que yo compre dos iPhones 7 un Amazon A30 I like pond Girlfriend se loves far Bought son loves Hola Mi nombre es Mar\u00eda Ram\u00edrez estoy preguntando C\u00f3mo hago para regresar el iPhone que compre Nice phone Love got it...so far everything great Est\u00e1 bloqueado yo lo quiero desbloqueado Worth Tel\u00e9fono bloqueado .",
+            "NEW CABLES EVERYWHERE AT ALL TIMES OR YOU CANNOT CHARGE YOUR PHONE.",
+            "That cable monster sneaks home, car, work, travel bag, gym bag, camping gear, boat, wife car, parents house, in-laws house arbitrarily disables cables nobody watching... 20-30 cables per year probably safe use phone routinely.... don\u2019t want buy maintain supply cables every possible location use one, don\u2019t buy Apple phone This works SIMPLE MOBIL PLAN ONLY!!!!!!!!!!",
+            "Love The unlocked didn\u2019t get turn SIM card can\u2019t used phone Very good phones It looks like ok phone.",
+            "Matte black iPhone 7 32GB perfect condition.",
+            "Phone works great!",
+            "Phone works great."
+        ],
+        "negative": [
+            "Before buying phone, I read reviews skeptical phone.",
+            "Disaster This device may supported, prepared forced buy rebuy new proprietary charging cables every 60 days.... ludicrous exploitation consumers.... Microsoft got nailed preloading internet explorer, could choose use it... Apple clowns still building software cannot bypass intentionally disables WORKING ORDER cables, FORCING YOU TO BUY MORE DESIGNED TO FAIL CABLES... I\u2019ve owned iPhones since beginning... I love phone, I\u2019ll never able demonstrate much I hate way company deliberately abuses consumers.... don\u2019t start iPhone, you\u2019ll never deal losing everything accustomed never deal cable bedstand working next day NOTHING HAPPENED TO THE CABLE EXCEPT APPLE TURNED IT OFF... I literally MAINTAIN ENDLESS STOCK OF NEW CABLES EVERYWHERE I RELY cable.",
+            "The phone received locked simple moble says system cannot unlock No headphonesNo back buttonAnd 6 At first, I skeptical buying phone.",
+            "Packaging little strange phone come accessories SIM card expected.",
+            "So frustrated I waited unusable phone."
+        ],
+        "neutral": [
+            "Phone locked.",
+            "I wanted phone.",
+            "Finally got SIM carrier phone power cycled numerous times even make call.",
+            "Should went carrier phone.",
+            "The phone came T-Mobile chip blocked carrier.",
+            "This locked phone simple mobile pre-paid carrier.",
+            "Upgraded iPhone se iPhone seven amazed performance aces ability.",
+            "Don\u2019t buy phone, I received apple IOPdate phone stopped working!",
+            "I'm going buy 10 phones use $150 I save buy iPhone XR.",
+            "Got phone yesterday tried set up.",
+            "I wanted This iphone locked sprint phone.",
+            "Phone work lukid"
+        ]
+    },
+    "IPHONE": {
+        "score": [
+            0.4,
             -0.1,
             1.0
         ],
         "percent": [
-            27,
-            27,
-            46
+            43,
+            14,
+            43
         ],
         "positive": [
-            "I've chatting OnePlus line warranty good party purchased phone them.",
-            "I really excited get phone much memory.",
-            "Best phone ever If looking save koney phone.",
-            "I really like things hier phones seem they've come straight future."
+            "My iPhone locked Straight Talk financed balance!",
+            "Love iphone 7, came described perfect condition.. happy Ay\u00fademe desbloqueando la banda, para Ecuador ya que yo compre dos iPhones 7 un Amazon A30 I like pond Girlfriend se loves far Bought son loves Hola Mi nombre es Mar\u00eda Ram\u00edrez estoy preguntando C\u00f3mo hago para regresar el iPhone que compre Nice phone Love got it...so far everything great Est\u00e1 bloqueado yo lo quiero desbloqueado Worth Tel\u00e9fono bloqueado .",
+            "Matte black iPhone 7 32GB perfect condition."
         ],
         "negative": [
-            "And phone less two months' old!!",
-            "I big hopes phone, sadly disappointment day 1.",
-            "One multiple \"John Smith\" \"Philip Smith\" told hard reset phone.",
-            "Another glitch started today: phone silent, volume down, even media output."
+            "Disaster This device may supported, prepared forced buy rebuy new proprietary charging cables every 60 days.... ludicrous exploitation consumers.... Microsoft got nailed preloading internet explorer, could choose use it... Apple clowns still building software cannot bypass intentionally disables WORKING ORDER cables, FORCING YOU TO BUY MORE DESIGNED TO FAIL CABLES... I\u2019ve owned iPhones since beginning... I love phone, I\u2019ll never able demonstrate much I hate way company deliberately abuses consumers.... don\u2019t start iPhone, you\u2019ll never deal losing everything accustomed never deal cable bedstand working next day NOTHING HAPPENED TO THE CABLE EXCEPT APPLE TURNED IT OFF... I literally MAINTAIN ENDLESS STOCK OF NEW CABLES EVERYWHERE I RELY cable."
         ],
         "neutral": [
-            "I call phone 'wake' up.",
-            "This phone stuck mute!",
-            "I think 1+ Makes competitive phones I've always wanted one.",
-            "After saving wifi networks I connect work home, I started realize I get work I get back home phone would connect automatically show interrogation mark status bar.",
-            "Basically go process backing data, wiping phone, reinstalling everything.",
-            "Shipping phone pauses multiple concerns: 1/ I need wipe data, I want anyone access - means annoyance again.",
-            "2/ I NO phone entire time repair."
+            "Upgraded iPhone se iPhone seven amazed performance aces ability.",
+            "I'm going buy 10 phones use $150 I save buy iPhone XR.",
+            "I wanted This iphone locked sprint phone."
         ]
+    },
+    "SIM CARD": {
+        "score": [
+            0.4,
+            -0.1,
+            1.0
+        ],
+        "percent": [
+            63,
+            12,
+            25
+        ],
+        "positive": [
+            "It came it\u2019s original Apple packaging shrink wrap SIM card attached it.",
+            "I call Simple Mobile verified line perfectly fine, I could get SIM card function properly.",
+            "Ordered came SIM card everything fine phone, turned worked.",
+            "It abel For T Mobile network Is What liked\u2026but love product fast delivery The phone perfect thing SIM card bad overall son love phone El tel\u00e9fono est\u00e1 en muy buen estado, gust\u00f3.",
+            "Love The unlocked didn\u2019t get turn SIM card can\u2019t used phone Very good phones It looks like ok phone."
+        ],
+        "negative": [
+            "Packaging little strange phone come accessories SIM card expected."
+        ],
+        "neutral": [
+            "No SIM card included.",
+            "I devices run Simple Mobile soon I put SIM card register."
+        ]
+    },
+    "CARRIER": {
+        "score": [
+            0.4,
+            0,
+            1.0
+        ],
+        "percent": [
+            17,
+            0,
+            83
+        ],
+        "positive": [
+            "It works fine problems This product compatible telephone carrier."
+        ],
+        "negative": [],
+        "neutral": [
+            "Finally got SIM carrier phone power cycled numerous times even make call.",
+            "Should went carrier phone.",
+            "The phone came T-Mobile chip blocked carrier.",
+            "It carrier locked simple mobile that\u2019s I looking anyways since activated them.",
+            "This locked phone simple mobile pre-paid carrier."
+        ]
+    },
+    "PRODUCT": {
+        "score": [
+            0.3,
+            0,
+            1.0
+        ],
+        "percent": [
+            67,
+            0,
+            33
+        ],
+        "positive": [
+            "It works fine problems This product compatible telephone carrier.",
+            "It abel For T Mobile network Is What liked\u2026but love product fast delivery The phone perfect thing SIM card bad overall son love phone El tel\u00e9fono est\u00e1 en muy buen estado, gust\u00f3."
+        ],
+        "negative": [],
+        "neutral": [
+            "Tiene que acomodar eso got defect product."
+        ]
+    },
+    "EVERYTHING": {
+        "score": [
+            0.6,
+            -0.1,
+            0
+        ],
+        "percent": [
+            75,
+            25,
+            0
+        ],
+        "positive": [
+            "Ordered came SIM card everything fine phone, turned worked.",
+            "Everything came perfect condition.",
+            "Love iphone 7, came described perfect condition.. happy Ay\u00fademe desbloqueando la banda, para Ecuador ya que yo compre dos iPhones 7 un Amazon A30 I like pond Girlfriend se loves far Bought son loves Hola Mi nombre es Mar\u00eda Ram\u00edrez estoy preguntando C\u00f3mo hago para regresar el iPhone que compre Nice phone Love got it...so far everything great Est\u00e1 bloqueado yo lo quiero desbloqueado Worth Tel\u00e9fono bloqueado ."
+        ],
+        "negative": [
+            "Disaster This device may supported, prepared forced buy rebuy new proprietary charging cables every 60 days.... ludicrous exploitation consumers.... Microsoft got nailed preloading internet explorer, could choose use it... Apple clowns still building software cannot bypass intentionally disables WORKING ORDER cables, FORCING YOU TO BUY MORE DESIGNED TO FAIL CABLES... I\u2019ve owned iPhones since beginning... I love phone, I\u2019ll never able demonstrate much I hate way company deliberately abuses consumers.... don\u2019t start iPhone, you\u2019ll never deal losing everything accustomed never deal cable bedstand working next day NOTHING HAPPENED TO THE CABLE EXCEPT APPLE TURNED IT OFF... I literally MAINTAIN ENDLESS STOCK OF NEW CABLES EVERYWHERE I RELY cable."
+        ],
+        "neutral": []
     }
 }
