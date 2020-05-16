@@ -1,0 +1,814 @@
+{
+    "reviews": [
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 25, 2018",
+            "id": "amzn1.account.AE62N5STWI4423GQIXDWN6VW2ZKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE62N5STWI4423GQIXDWN6VW2ZKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This drive is fine for storing your files, but it has a big flaw that almost made me return the 2 that I had purchased, and that is the USB cables they come with.While backing up and transferring files, without being moved, both drives would become unresponsive and lose connection. I thought it was both drives that were defective and almost declared them garbage. But I decided to try new cables before returning, and I'm glad I did. Both drives now work flawlessly.So if you decide to buy this drive, you must not rely on the cable it comes with. I advise you to buy a good cable to go with it. For this, I decided to take 2 stars off.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    The drive itself is good but...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 17, 2018",
+            "id": "amzn1.account.AEGPUFOKIWZYOAKMLAMQQNY5LJAA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGPUFOKIWZYOAKMLAMQQNY5LJAA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Thanks to Amanda who shared how to format this for a current Mac. Here is a slightly updated version of her instructions:Open Disk Utilities.From the View menu, choose \"Show All Devices.\"Select WD Elements on the left side of the window.Right click and choose \"Erase\" from the pop-up menu.Create a name and choose \"Mac OS Extended (Journaled)\" assuming you have a current vision of OS-X.It will reformat the drive in about a minute.I followed these directions, and it was effortless. I am using this as a Time Machine backup disk. I keep it plugged into the USB hub that I connect my computer to when it is on my desk. From reviews, I see that some people have had disk failures, but I also do a cloud-based backup. But that only backs up my most recent version of each file. Time Machine gives me hourly backups for the last 24 hours, so I can recover something I've inadvertently overwritten.I was using an old Synology 212+ for Time Machine, but after moving, it asked me to reinstall, crashed in the process of doing that, and lost all my data. RAID is useless in that situation. I've thought about buying a newer, faster NAS, but that's expensive, and decided to go this route at least for the time being. Unlike the Synology, which was accessible by WiFi, this won't do backups when I take my laptop away from my desk, but I do my most critical work at my desk in any event.I bought this rather than the $5 cheaper, newer version because I prefer the rounded corners to sharp edges. The rough surface doesn't seem to show fingerprints, a problem reported by users of the shiny newer version. Amazing that 4TB can fit into such a tiny form factor and be such a reasonable price. I am delighted.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    FOR MAC USERS! Working great on my 2012 Macbook Pro\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 5, 2018",
+            "id": "amzn1.account.AF36J6AHUGPBGRMM4M6XJD47AG4Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF36J6AHUGPBGRMM4M6XJD47AG4Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Windows 10 recognizes the drive, so if you want to manually move files from your primary drive, that's fine, I guess. What it will NOT support are the only reasons I bought an external HDD: the Windows 10 File History and System Backup features. For some bizarre reason, Windows makes you choose an external drive or a network location--it won't support backing up to an internal HDD. The trouble is that it doesn't automatically back up to this drive either. It starts to--it adds a couple of configuration files--but then just stops, with 0 actual data on the file. It may be an issue with this WD HDD and Windows naming conventions. Windows doesn't like long file paths (one of the reasons I can't really use OneDrive; I never know which files, in some sub-sub-folder somewhere, will be excluded), and saving files to this external HDD makes the file path even longer--so that every file, even if you call it \"a\" or \"b,\" will be excluded. That's a dealbreaker. They should not advertise this HDD as working with Windows 10 if it doesn't work with File History or System Backup. Merely being recognized by the system is a start, but that's not what I want to this for. If I want to do manual file dumps, I can use one of my two internal HDDs. Not worth the time or aggravation.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Does NOT work with Windows 10 File History or System Backup features\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 14, 2018",
+            "id": "amzn1.account.AGGKAHEA7H2IKAQVH6FSHCL7CY3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGKAHEA7H2IKAQVH6FSHCL7CY3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Bought for my boyfriend. The 4TB external worked great for his PS4. He said some of the memory was used for converting but he has 7x the amount of space he started with. He is very happy with this item and I will update my review if he comes across any problems.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    PS4 Memory\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 16, 2018",
+            "id": "amzn1.account.AGXVS224BLYLTWWMCBHKXFRUQQNA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGXVS224BLYLTWWMCBHKXFRUQQNA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    **FOR MAC USERS!! After 2 \"failed\" drives were sent back, I called customer support to find out why I wasn't able to troubleshoot via any online methods, and get this to work for my mac! Apparently the solution was insanely easy, but I never saw this eeeasy solution online in any of the forums I found. The issue with erasing/formatting for a mac just has to do with the view you have open in Disk Utility. Make sure you go to View > Show All Devices, and then \"erase\" the top tier drive. Problem solved.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    **MAC USERS- TAKE NOTE!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 12, 2018",
+            "id": "amzn1.account.AEGRRK2SQEDX4QAU6SQZO6YPGPJA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGRRK2SQEDX4QAU6SQZO6YPGPJA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    SO. SO. SOOOO GLAD I finally purchased this thing. I've been looking to get this for my PS4 since that 500GB wasn\u2019t cutting it anymore. I had to go through deleting games I played from time to time just to play new ones. Now, I can make the choice of letting it stay there for a while since I have the space.Set up was SUPER EASY on PS4 as it already has the settings to format it. Not only that, it was quick in the formatting process. It's such a relief to know that I have so much extra space now. 500GB to 2TB? That's a nice jump I'll say.Lastly, the price is right in my range of what I was looking for. I didn't want to go too expensive, but I knew I wanted something good. I knew about this external hard drive because of my roommate. He got it during Black Friday (I completely missed out; I regretted it) and has no issues out of it. The opportunity came for me to purchase it for myself and got it here at a nice price.Overall, I definitely recommend it!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    2 TB Heaven\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 17, 2018",
+            "id": "amzn1.account.AEW42HJSZJ4LA3KRMF6FRV65AAAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEW42HJSZJ4LA3KRMF6FRV65AAAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    First drive was dead on arrival with the click of death.  I figured I'd give them another shot, since failures happen.  Sent it back to Amazon, got a replacement.  Second drive lasted less than a week before *click* *click* *click*, it too was dead.  Sent it back for a refund.Two failures out of two drives is too high for a third chance.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Click of Death\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 1, 2018",
+            "id": "amzn1.account.AGRKU4P57FTHJ4EKZBZYV4AKCIXA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGRKU4P57FTHJ4EKZBZYV4AKCIXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Easy setup with Xbox One X.  Got the 4TB version... I figure I can hold 35+ 4K HDR games between the external drive and the 1TB on the machine, which will give me a number of years of game acquisition capability, and have another USB port if I need additional expansion years down the road.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Perfect Xbox One compliment\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 2, 2018",
+            "id": "amzn1.account.AEDKXFNNFCRC7GQMUBHP4EJHMFCA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEDKXFNNFCRC7GQMUBHP4EJHMFCA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The 1 star reviews here are correct that the device will potentially fail. The drive started making a clicking sound and isn't recognized by my computer, which is what other people are saying as well. I only had it for 1 week. Now I will have to re-install a data library on a different drive which will take many hours.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Do Not Buy\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 31, 2018",
+            "id": "amzn1.account.AFVWTNZLJREVF7CSGMESKGUQVPAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFVWTNZLJREVF7CSGMESKGUQVPAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I am using this USB external hard driver as an extended storage device for the Sony's PS4-Pro. The process to install it is very simple, the storage is very reliable, and the data transference seems very stable.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Fast, reliable and with excellent size external USB Hard Drive\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 14, 2018",
+            "id": "amzn1.account.AEB427MPU7CNR74BMIJSGO4FZNRQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEB427MPU7CNR74BMIJSGO4FZNRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I love this hard drive. It works great for all my docs that were cramming up my computer. I have uploaded a pic for you Mac users to see how to reformat the hard drive to be able to use it. It takes only like 4 clicks. \ud83d\ude01 Type in your Mac search bar for \u201cdisk utility\u201d app, select the new hard drive, and then in the popup box where you see \u201cFormat\u201d, in that drop down menu select \u201cMac OS Extended\u201d then click \u201cErase\u201d. That\u2019s it, you can start dragging docs to the drive. Super easy. :) I\u2019m glad I bought it cuz its affordable & has a lot of storage! \ud83d\ude01\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Love it, small & speedy\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 5, 2018",
+            "id": "amzn1.account.AEJMZABDQBXM767QSGGHTCC7R2XA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEJMZABDQBXM767QSGGHTCC7R2XA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I ordered this drive on February 1, 2018 and it failed on March 1, 2018 with very little use.  I should have listened to the negative reviews about this drive.  Now all my data on this drive is gone due to a \"Device I/O error.\"\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Died in one month!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 31, 2018",
+            "id": "amzn1.account.AET6Z3L3FWUUCMVWJ6LM3F5UOGMA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AET6Z3L3FWUUCMVWJ6LM3F5UOGMA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This crashed (I mean, literally, without warning) within 2 months. I started receiving \"SMART Utility\" warnings about bad segments, I/O errors, etc., and before I could make a backup copy of this drive, it just stopped working. It refused to mount on any of my computers. Just Dead. And rather deal with the warranty (would YOU want a strange company to have eventual access to what's on your computer drives?), I destroyed it, and ordered a similar product from Toshiba, a much more reliable disk manufacturer.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    No more Western Digital\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 16, 2018",
+            "id": "amzn1.account.AG2AOUYP5YNJVIEJSIPTVX2BK5TA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG2AOUYP5YNJVIEJSIPTVX2BK5TA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    As my headline states, I bought two of these external hard drives to use as additional storage for both my PS4 and Xbox One.  The setup was easy and only requires a quick format by navigating through each consoles respective settings.  They are particularly handy since they do not require their own power source.  It's really too soon for me to remark about durability and drive longevity, but speaking as one who has put together several PCs from individual components, sometimes hard drives fail but this really should only be the case after several years.Just to be clear, I do not have a PS4 Pro or an Xbox One S/X, so I can't vouch for compatibility with these consoles, although I can't imagine there would be an issue.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Yes, this works as an external hard drive for both the PS4 and the Xbox One\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 3, 2018",
+            "id": "amzn1.account.AE4VLNUKDJ4EVJLNBI7M7TUUJOGQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4VLNUKDJ4EVJLNBI7M7TUUJOGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I put this drive into use immediately upon receipt.  The included in the package, which is quite small, is the drive itself, the connecting cable, and a rudimentary, fold-out sheet of instructions in several languages.  The instructions are unnecessary, as setup is extremely simple.  Connect one end of the cable to the drive and the other end of a USB port.  There's only one way to connect the cable, as you will discover.  Wait a few minutes for plug and play to recognize the device and pretty soon it shows up on Windows Explorer (or, as I use it, Q-Dir, with the next consecutive drive letter assigned.  Presto, about 4tb of extra space.  I use a Targus AWE55US Chill Mat Cooling Stand under my laptop, and this drive fits in the void between the top and bottom of the stand and butts up against the fan.  The cable is easily routed to an adjacent USB port.  It's small enough to be easily portable in a briefcase, purse, laptop bag. or the pocket of your cargo pants.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Small, Light Weight, Easily Portable, Plenty of Capacity\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 27, 2018",
+            "id": "amzn1.account.AESCM6PAVYAGHPLYXVW6GGO6FJOA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AESCM6PAVYAGHPLYXVW6GGO6FJOA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I ordered the 4 terabyte portable elements drive directly from Amazon but despite what the box said, or the serial number on the back of the drive enclosure, it actually had a 2 terabyte hard drive inside. It registers as having only 1.63 TB capacity when plugged into my pc. Unfortunately, I didn't realize this in time to return it. Make sure you check it right away.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    2 TB drive in a 4 TB box\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 20, 2018",
+            "id": "amzn1.account.AHAULBKDRUUGGZOW2RR7BFFEWL6Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHAULBKDRUUGGZOW2RR7BFFEWL6Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Do you want your USB external drive to spin and spin and spin until it burns out?  If you do buy this drive.  Otherwise move on and buy something else.  I've verified with other buyers the Toshiba will sleep:https://www.amazon.com/dp/B079CZJ22T/?coliid=I1V06WSRZL6GE8&colid=1AJW5SVD3OFYI&psc=0&ref_=lv_ov_lig_dp_itIn order to make WD drives sleep when they haven't been accessed in a while, you have to use software called \"WD Drive Utilities software\" which doesn't work with the Elements line of USB drives.Here is a reply from their support:Based on the information provided I would like to inform you that the WD Elements Portable drive does not support WD Drive Utilities software. Also, there is no option to get the drive to sleep as it does not support WD Drive Utilities software.  If you do not want to use the drive then in that case you can safely eject the drive.Umm... no... I can't always reach under the desk and unplug and replug the drive.Come on, it's standard functionality for USB drives.Steer away from this piece of junk.  Now I have 2 of them if anyone wants to buy them...\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DO NOT BUY... It has no sleep mode!!! (unless you like premature hardware failure)\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 9, 2019",
+            "id": "amzn1.account.AG5IAT2HWPJP3C2GAS6UDMIWOLJQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG5IAT2HWPJP3C2GAS6UDMIWOLJQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    \u00a0My first order worked fine no problem, I had backed up a bunch data that was on CD's I had purchased and then this baby accidentally fell off the table 1 time and never worked again. Which sucked because I had just finished getting rid of CD's that I was backing up.I had to order a second drive.This Video is what happened to the original drive. It sounds like it stops spinning and It doesn't show up on computer.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Nice price for the amount of space but very fragile\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 12, 2018",
+            "id": "amzn1.account.AF5PQVZK6NLSHEQR3LMOHRMTIDLQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF5PQVZK6NLSHEQR3LMOHRMTIDLQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Got this to hook up to my Xbox One so I could store more games. Hookup was extremely simple and straightforward. Took less than ten minutes for the whole process of hooking it up and configuring it. Now I have tons of space for my games.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    SUpersimple and compatible with Xbox One\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 24, 2018",
+            "id": "amzn1.account.AG4YKQ2PUCDBAEBUE2NFFKVOD54Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG4YKQ2PUCDBAEBUE2NFFKVOD54Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    After loading 1tb of programs 5 days later died.I have never had a hard drive have a hard failure ever.And I probably have over 50 hard drives.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    not reliable\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 7, 2018",
+            "id": "amzn1.account.AGZV2UPN2MVNRDT3CBWFB4LAVOAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGZV2UPN2MVNRDT3CBWFB4LAVOAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This thing worked for about a month and a half and then stopped for no reason and lost every file I have.  I can no longer get my Mac to recognize this drive or access anything that is on it.  Yes the drive was formatted correctly Western Digital Tech Support.  I would strongly recommend not purchasing this product.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    I would strongly recommend not purchasing this product\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 6, 2018",
+            "id": "amzn1.account.AH2RWELMB4DU4MR4RSKPDNHONXCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2RWELMB4DU4MR4RSKPDNHONXCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This drive is much more than I thought it would be.  Plug in ready and much smaller (physically) than I thought it would be.  I thought 2TB would be a wee bit smaller than I needed but it wasn't until I did the actual math that I realized I'll be using this for years to come.  I loaded some 500 pictures onto the drive and they took up a very tiny slice of the whole drive.  Pleasantly surprised to say the least.  Glad I bought it and would recommend it to anyone that wants one.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    BIG drive in a LITTLE space!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 5, 2018",
+            "id": "amzn1.account.AF5BBBAINA3OJDP2ZJPXAXO5JIFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF5BBBAINA3OJDP2ZJPXAXO5JIFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Macintosh TimeMachine failed to erase the contents of this drive when it prepped the drive to hold a Macintosh system backup. TimeMachine left the drive in an unusable state -- my Mac, my two Win10 boxes, and my Linux box cannot recognize the drive when I connect it now. Oh -- and the WD Elements drive utility cannot see the drive either.For all practical purposes, I have a $57 paperweight that blinks occasionally when I connect it to a computer.I am sure that this is a fine drive for most applications, but seems vulnerable to some fatal interaction with Mac TimeMachine. Boo.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DO NOT PURCHASE TO USE WITH MACINTOSH TIMEMACHINE\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 26, 2017",
+            "id": "amzn1.account.AGC6K5P27STS3DWR7EVMTXFB7FQA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGC6K5P27STS3DWR7EVMTXFB7FQA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Perfect. I'm using for my ps4 to backup games and also to stored my movies. I formatted with my laptop too exfat32. Works perfect\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Perfect\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 25, 2019",
+            "id": "amzn1.account.AERUCLT4KCZBY3A6T7R2VGIZV7OA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AERUCLT4KCZBY3A6T7R2VGIZV7OA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I don\u2019t think I\u2019ve ever written a 1-star review in my life, but I felt like I had to warn others. Got this drive yesterday, reformatted it to use with my Mac, worked beautifully for about 4 hours and then it went completely dark. I\u2019m no longer able to see it on my computer (or any computer), although the drive still lights up as if it\u2019s working.We lost several pieces of important data, but the worst part was when I called customer service and they took zero responsibility (western digital, not amazon) for it. They literally told me that I need to get data recovery services on my own, and that they will not pay for any of it, as if their drive failing is my fault. Causing this much of an inconvenience is one thing, but doing absolutely nothing to help is another.I will never buy another WD drive again after today. I\u2019d like to give my money to a company who will do what it takes to make things right, and not shirk off responsibility for their product failing within 24 hours.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    WARNING - I didn\u2019t believe the negative reviews, but don\u2019t make my mistake\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 28, 2018",
+            "id": "amzn1.account.AGTHY3YPLUZ4HFQSCFV2GE72MMLA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGTHY3YPLUZ4HFQSCFV2GE72MMLA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have read some other reviews on this product that have made many comments about it not being compatible from machine to machine or Windows version to Windows version and I would like to say that I am happy to not have a clue what they are talking about. I bought the 3TB version and this puppy is as easy to use as advertised and quieter than a church mouse.My Tasks: I am attempting to back up all of my personal files as well as a few business ones so I am continually taking this external hard drive from one PC to the next. It is truly plug and play and those that say moving from different Windows versions gives them trouble must be doing something different than me. I did exactly as instructed and just plugged in the hard drive and then opened \"This PC\"/\"My Computer\" and it showed up just like a thumb drive does. I dragged and dropped my files and presto everything is good.Background: I work daily off two HP's and one Surface Pro. I have one HP (work computer) that runs Windows 7 and the other HP (personal) as well as the Surface Pro (work) runs Windows 10. There was no lag and no delay in the different systems with regard to picking up the hard drive via USB. But, the one thing I did notice when connecting to my Windows 7 work HP is that it did not want to read when plugged in via \"USB extender\" (I have 2 USB ports on this computer and several items that run off USB connections so I picked up a generic USB extender from Amazon a while back) like a normal thumb drive does. Instead, it would only read when directly connected to the USB on the laptop. Maybe this is something some other people are doing (not giving it a direct connection). Now, I did not have to google, I did not have to install updates, I did not have to format, or change the drive in any way other than how it arrived in the box. I simply used my many years working on computers (I am 42 and worked on a computer since 2004 in an office setting with only On The Job Training/learning as you go) to employ my common sense and the mantra of  \"if at first you don't succeed consider that the problem might be 'user error' or a PEBCACK (problem exists between chair and keyboard) issue\". In fact, I have discovered that most of the time when something doesn't work like its \"supposed to\" it is usually something I have done wrong by over thinking it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Magnificently Easy to Use!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 26, 2017",
+            "id": "amzn1.account.AEX56EOLKCE7WLQR6HF7CCIOKDNA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEX56EOLKCE7WLQR6HF7CCIOKDNA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    As always, I purchase WD external HDD, better product and better warranties.  As a software developer, I constantly backup code, I usually wait for a good price on a 4TB and purchase a few.  Seagate (in the 80's) did have a better product, but WD has definitely taken over this market.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Excellent exteral HD\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 25, 2017",
+            "id": "amzn1.account.AHZFYPLT2JS25X7A6PDT5OME542A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZFYPLT2JS25X7A6PDT5OME542A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Build quality seems OK. Drive capacity is great, however the drive is not very fast and not a good working drive for my photo archiveI'd like to return the drive but unfortunately it's past 30 days since I received it.I'm getting around 60 MB/s write speed and 65 MB/s read speed\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Drive capacity is great, however the drive is not very fast and ...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 2, 2018",
+            "id": "amzn1.account.AFV57HQWOLRW57FCDF4IJ4TYIRKQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFV57HQWOLRW57FCDF4IJ4TYIRKQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this for my Sony PlayStation 4 and it works like a charm.  The PlayStation was able to format it and utilize it easily.  Easy set up and use.  Warning though don't unplug it while the PlayStation is turned on or in sleep mode.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works great as described.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 26, 2018",
+            "id": "amzn1.account.AELGI6QSCXLEJF2RWX57DY3BIBPQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AELGI6QSCXLEJF2RWX57DY3BIBPQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    \u00a0It is smaller than expected which makes it extremely comfortable to carry around! I am very pleased, it is extremely fast (I have to still fill it with crap (: ). It arrived extremely fast.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Smaller than expected\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 4, 2018",
+            "id": "amzn1.account.AGYKFTNNEBG6POISSRXFP6OFWP3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGYKFTNNEBG6POISSRXFP6OFWP3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've been subscribing to an online/cloud backup company for years. This year, the annual renewal price went up significantly, causing me to look for alternative backup ideas. I knew about external hard drives but they used to be a lot more expensive; I was surprised to see how much they've come down in price since I last looked at them. The price of this 2TB hard drive was less than one year of the online cloud service!The company I was using backed up *everything*, but that isn't really necessary for me. I really only need to back up my photo archive, documents, and my genealogy database. This was the perfect solution. It arrived today and it's amazing how small it is, it could fit into a small purse or the pocket of any bag. It's extremely simple to use, there's no software to install, you simply plug it into your computer's USB port and voila!; a new drive option appears. With it plugged in, you can save things to that drive, or copy and paste items using File Explorer, which is what I'm doing in order to have a spare copy of important items. I purchased the 2TB size, which gives me about 1.81TB usable space.There's so many benefits of this for me: 1. It's cheaper than the online backup company I was using and no more annual subscription expense, 2. It's small enough to take places, so I can share photos and files when I visit family without trying to fit things on a thumb drive, 3. the backup company only covered a single device for the price I paid, now I can back items up to this drive from my desktop AND my laptop, 4. it can also serve as extra storage space if needed, which I realize is why most people probably buy it to begin with, and 5. The online backup software really bogged down my computer as it constantly backed up files, now that annoyance is gone.I love this thing. Zero complaints so far, it's extremely easy to use and worth the price.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    I should have bought this sooner!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 15, 2017",
+            "id": "amzn1.account.AEPILIO22U6MRKGAHRW4WCCNF3EA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEPILIO22U6MRKGAHRW4WCCNF3EA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Got this for my Xbox One X. Those 4K updates sure take a huge chunk of space.Easy setup, and fast transfer speeds. Moved all my games from the 1TB external HDD I was using and it was quick.This thing is small too! Only negative thing I can say is that the proprietary USB cable that this comes with is quite short (1ft or so).Not a problem for me since this just sits next to the Xbox, but for other uses might be an issue.UPDATE 12/12/2018Hard drive still going strong. No issues whatsoever. Running out of space though! :D\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great for Xbox One.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 7, 2018",
+            "id": "amzn1.account.AHKM27ZOXJQGXDJJGPT36GNS6LEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHKM27ZOXJQGXDJJGPT36GNS6LEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This worked out great for my iMac. Great price value. Only a small delay in getting it formatted for the Mac. There's an insert in the package that gives a link to the WD site showing you how to do it. Once you go to their site, the instructions are very simple and the drive works great. I have 8 WD Passport drives I've been using for 6 years and they have served me well.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great value - formats easily for Mac.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 19, 2018",
+            "id": "amzn1.account.AGTUZBWHVKGUBTH4PZOEACCVUWEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGTUZBWHVKGUBTH4PZOEACCVUWEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Started off great. Even loved the black on black. But didn't feel as hefty as my other 1TB units. But for the price point, I thought I had it set.Barely a month later. For maybe twice weekly usage, it has already failed. Not a cord problem or computer problem. Need to look to find a new and more reliable unit. It will fail, just depends how soon.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Seems decent. For only a month.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 6, 2018",
+            "id": "amzn1.account.AFGDPVNTFTSUYZ2OOCSSXAC3TXRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGDPVNTFTSUYZ2OOCSSXAC3TXRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The thing that I disliked about the drive is that it failed after 7 months. I used the product to store shows for when I'm on the road.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    If you are constantly reading and writing things on the  drive, look elsewhere\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 4, 2019",
+            "id": "amzn1.account.AHLOUMLLKSFD3SVACUAJOMV2DAVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHLOUMLLKSFD3SVACUAJOMV2DAVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is the second Western Digital Elements drive I've purchased for external storage in my home network, and I continue to be pleased with this line of products.  The entire case, drive, etc. is only slightly larger than a standard laptop hard drive.  It operates on a USB 3 port of your computer for fastest speeds, but is backward compatible to work on USB 2.0 as well.  It is a physical moving disc and not an SSD, so you'll need to be careful and treat it like you would any other hard drive.It is an example of plug and play functionality at its finest. Simply unbox the drive, plug it in, format it appropriately, and you're good to go.  No software or setup needed.  The drive is small, portable, and does exactly what it is supposed to do.  This is a no frills drive, but if that's what you need then this is your drive.  You could use this as a solid backup drive, or just adding storage to your existing computer.In our home, I use it as a network attached storage device plugged into the USB port in our home router, and multiple users can access the drive quickly through the network for our file storage needs.  This is my second one, as we've already filled our first 2TB unit I bought several years ago.It is portable enough where you could unplug and drop it (carefully) into a bookbag or briefcase to transport lots of data to and from school or work if you've exceeded the ability to do so on regular flash drives.Overall it is exactly what I was looking for - A quick way to add storage to our home network.  I'm giving it four stars instead of five because of the very short cable that comes with the drive. (1ft).  If using the supplied cable, that length really limits where you can put the drive.  However, any USB 3 cable will work i you have a longer one handy.  Great drive overall.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Small and portable external storage\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 24, 2018",
+            "id": "amzn1.account.AFV32GJ5G2WKBCRNK5JBXQJFP44Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFV32GJ5G2WKBCRNK5JBXQJFP44Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I'm writing this review as my ELEMENTS 2T is still in the process of backing up my Dell Windows 7 laptop. I had an HP 1T external hard drive, but it's chock full. So anyway, I have a few things to say about the set up that may help someone else who's replacing a smaller external hard drive, and/or whose PC or laptop isn't the lastest OS. (1) when I plugged the new Elements 2T hard drive into the very same USB that the old HP external hard drive was plugged into, my new Elements hard drive began beeping.  WTH? The complete lack of instructions had me in a frazzle. The box says Plug And Play, right?(2) the new Elements hard drive wasn't being recognized either in Computer. (2) I unplugged it from that extension port and plugged it directly into a USB port of the laptop. No beeping. (3) Still, when I went to the Backup and Restore feature, the old HP was still the recognized external hard drive, although is said disconnected. (4) Tinker tinker. Couldn't find anything that said \"start backup now\". ??? (4) Went back to Computer. Still not recognizing the new Elements hard drive. (5) Went back to Backup and Restore....VOILA! Finally the new external hard drive was recognized and the back up was in progress. The only thing I can say is, IT TAKES A FEW MINUTES for an old laptop, an old OS, to get with the program. (5) Old laptops have USB ports that are kaput. That's why I'm using a USB adapter, one end plugs into an operable USB port, the other end allows 4 USB's to be plugged in. I don't think this new ELEMENTS hard drive liked my adapter. It wants it's own port. The old HP hard drive didn't care. (6) So now been 4 hours, and my laptop is halfway backed up. Afterall, there's at least 1T of stuff to Back up.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Seems to be Excellent!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 28, 2019",
+            "id": "amzn1.account.AHFY3ALOCLVTREI7WNAVFLV6QIRQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHFY3ALOCLVTREI7WNAVFLV6QIRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have had this hard drive only 6 months and already it is failing. It is making the dreaded click of death, and making my life impossible as I struggle to back up and finish a large project where I need these files to work. I called Western Digital to report the issue and they will send me a new one, but I have to jump through hoops as well as PAY THE RETURN SHIPPING of the faulty one. NOT COOL. Plus they are holding $120 fee on my credit card until they receive the faulty one in return, which now I have to spend extra $ on to insure and make sure it is safely returned. I WILL NOT be buying from Western Digital again. Not happy.***UPDATED*** They send me a replacement, a refurbished one, and 3 weeks later it is making THE SAME CLICKING NOISE. Trying to get ahold of someone at WD is super difficult. I am beyond frustrated as this new one has corrupted client files. Furious.  I am asking for my money back.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    FAULTY PRODUCT, RESOLUTION COSTS $ EVEN UNDER WARRANTY\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 20, 2020",
+            "id": "amzn1.account.AFYNHWNTXLQWHATBTK3HA7ZCT6HA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFYNHWNTXLQWHATBTK3HA7ZCT6HA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    First off, I'm not a total idiot with electronics. I've purchased, formatted and used dozens of hard drives over the years. I ordered this WD 5TB drive recently (Jan 10, 2020). The mini-usb cable would not go into the drive. I fussed, I cursed, to no avail. I tried putting its cable into a 4TB WD drive I bought last fall, and it went in on 2nd try. I tried the 4TB cable on the new 5TB, and it went in.  I went back to the new cable on the new drive.... and it went in, if a little reluctantly.Not feeling real good about this, I hooked it to my 2015 13\" Retina MacBook Pro with MacOS 10.14.6 (Mojave).  I used Disk Utility to format the drive, then tried to partition it into 4 volumes. After the 1st volume, it failed, the Black Screen of Death (kernel panic). Reboot, try again. This time I get 3 volumes created before BSoD. Reboot. Try once more, and it successfully completes. Boot machine up and start migrating 2 volumes from 4TB drive to new 5TB drive. First works perfectly. The 2nd volume is a disk image created with Carbon Copy Cloner, which I am also using to copy the disk. At the end, when it tries to resize the partition for a boot sector, I get the BSD again.  I call WD who say to call Amazon, who say to ship it back. They send me a new one.The new one arrived today. Again, the cable will not go in. The 4TB cable will go in with a little fussing, and the new cable will go in the 4TB drive, but I can not get the new cable in to the new drive. This time I notice that the port for the cable in the new drive is recessed further and to the side than the 4TB drive is. This makes me think the internal port is actually to blame.  I call Amazon again and this time they say I should just return it and they will refund me. They will only do a replacement once.I would NOT recommend purchasing the 5TB drive until someone says it's all clear to do so. You won't lose any money, but I wasted a lot of time partitioning and transferring the data before it failed. No one was any help in understanding why partitioning (and resizing) volumes would result in a BSD.The sad thing? I paid $99 for the one I originally ordered, and I see the price is up to $109. Sigh.I love WD external drives.  I currently have 4 of them as well as an 8TB desktop external, and have had dozens over the years. I have never had a problem with any of these WD drives until now. I suspect I just got a bad batch...If the cable doesn't go in firmly and easily, JUST SEND IT BACK! Amazon says they are reviewing them now.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    BE CAREFUL OF LATEST (Jan 2020) 5TB DRIVES!!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 18, 2018",
+            "id": "amzn1.account.AEHSOMIVRRDFPDT6IEOSQ2LCPGSQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEHSOMIVRRDFPDT6IEOSQ2LCPGSQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is the second WD 4TB Elements Portable HD that has failed on me! The first one failed in 20 days, rendering everything on it unretrievable.  I got it replaced with same thinking it was just bad luck as I have had good luck with WD over the years. Now, 6 months into using the replacement (same model), it FAILS AGAIN!. DON'T BUY THIS HARD DRIVE! This time, I had some files on it that I dod not have time to back up ... gone forever! Not even Data Rescue worked (which is a POA and time staking endeavor to go though).Of note: I am in a habit of properly eject a drive before disconnecting it and always carry in a protective case. These drives have never been dropped or jolted around carelessly. I carry them in my knapsack with my other drive when out of the studio and all other drive are fine.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DON'T BUY THIS HARD DRIVE.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 2, 2018",
+            "id": "amzn1.account.AGQQPF5N6AMP6S6DOPQPKJIRK3YA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGQQPF5N6AMP6S6DOPQPKJIRK3YA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Feels very solid, doesn't attract fingerprints. It's not as bulky as I feared.  Sequential write speeds average about 115MB/s. It does have a more noticeable vibration than my old 1TB and 2TB drives, but that may be expected as I assume the internal drive has more platters. Small rubber feet absorb the vibration, and the drive is still whisper quiet.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Feels very solid, doesn't attract fingerprints. It's not ...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 18, 2018",
+            "id": "amzn1.account.AHVAF5ITBGUQNVWKW4ETCEUM65LQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHVAF5ITBGUQNVWKW4ETCEUM65LQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this in July. After loading it with the folders I rarely need to access, I put it aside. When I recently tried to access those files, I had a helluva time getting the drive to stay connected. I'd plug it in, it would connect and the moment I moved it or tried to put it down, it would disconnect. Tried it on both my desktop and laptop without success, and I was afraid I had lost all that data. I was finally able to recover the files by firmly pushing the connector into the unit with one hand while I copied and pasted the files on to my laptop with the other hand. What I thought would be a useful drive is now, essentially, garbage.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Stopped working\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 15, 2018",
+            "id": "amzn1.account.AFGSSSKD34UZ7PGG3UVSNSIM73BQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGSSSKD34UZ7PGG3UVSNSIM73BQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this for my kids xbox, it is nice I plugged it into the back of the xbox and it asked me how I wanted to format it.  Then I was able to move the games easily on the screen from the internal hard drive of the xbox to this external drive.  It is nice now they have all of the games in one spot and when they go to their dad's house they can pick up where they left off instead of having multiple saves at each location.  I told my kids if they fill this up, that means they have way too many games. ;)\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    it is nice I plugged it into the back of the xbox ...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 24, 2019",
+            "id": "amzn1.account.AEPM4G5Q4BQ6WB2VE55QARCZRWEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEPM4G5Q4BQ6WB2VE55QARCZRWEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this because I have a WD Elements 1 TB HD that has worked flawlessly since I bought it 8 years ago, but these newer models have been nothing but frustration.This is the third newer model I have tried (the second was defective and I got a refund; the first one was past warranty). Every time I use this last one to simply copy large amounts of files to it, I get error messages and freezes, no matter whether I try to copy them all at once or a 1GB or less folder at a time. Then when I try to eject it using \"Safely Remove Hardware and Eject Media\", it won't stop working, so I have to just unplug the USB cable. I've run checkdisk numerous times on all three and each time, there are file corruptions and bad sectors.Goodbye WD, a 25% success rate is not good enough.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Finished with WD external hard drives\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 13, 2018",
+            "id": "amzn1.account.AG5VMTCDTPPSMHPFJWTRAHELYDIA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG5VMTCDTPPSMHPFJWTRAHELYDIA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The USB-3 speed is definitely wasted on this disk, which runs at 1990s speeds, barely gives 6MB/sec when writing.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Very, very slow.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 19, 2018",
+            "id": "amzn1.account.AGBQYYHDT32RIYMZL67Q6J5TL56Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGBQYYHDT32RIYMZL67Q6J5TL56Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this hard drive, loaded my stuff onto it, and a month later, it is no longer accessible. I called customer service and they sent me a new cord in hopes that would resolve the issue, but it did not. Apparently they are happy to give a referral to a data recovery company, but they \"aren't responsible\" for the cost of that or the fact that their product is total garbage. Such a waste of time and money. Do not buy.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Died after a month with my data\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 11, 2018",
+            "id": "amzn1.account.AFWM26ITW4RMT5GNMA2UXVHSSLQA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFWM26ITW4RMT5GNMA2UXVHSSLQA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    When I bought this HD, I was looking for something that would cover my immediate need to back up files on the cheap.  I didn't base my decision on transfer speed or other bells and whistles like encryption or backup software.  My top 3 choices included drives from Seagate, WD and Toshiba, which were all about the same price for the same amount of storage.  I chose WD because of the brand's reputation and good past experiences, without even caring to read the reviews.To my surprise, the drive feels cheaper than I expected.  In terms of storage and speed, it gets the job done pretty well, but the enclosure feels hollow and the plastic feels cheap and flimsy.  Even the edges are rough and sharp.  For a second, I thought I had received an empty enclosure.After reading all the reviews and finding that the same drive has failed badly to other people, I'm considering moving my data to a more permanent storage.  I will still use this drive, so my $64 don't go to waste, but it was definitely not a good purchase.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Gets the job done, but feels cheap\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 19, 2020",
+            "id": "amzn1.account.AHUMNGVZJL737BFUP3PGM753NCXA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHUMNGVZJL737BFUP3PGM753NCXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've steered clear of WD products for several years due to bad customer service / warranty problems in the past, but I've heard that their support had improved over the years so I thought I'd give them another try.But I was recently in need of a small, high-capacity external drive for a project with a Raspberry Pi, so I pulled the trigger on this.To borrow a phrase, \"Purchase in haste repent at leisure\". I really wish I had not wasted my money on this junk.The capacity is fine. It comes pre-formatted with NTFS, and that's fine. It's quiet, and that's fine.The problem is that this device consumes a LOT of USB power. So much, in fact that a Raspberry Pi 4, with an external 3-amp power supply, won't boot with this power hog attached. And, due to the high power consumption, it runs quite warm, too.I have a similar Seagate 5GB external drive installed on another system and it is working just fine in an otherwise identical application.I wish I'd done just a little more homework, and remembered all the times I've regretted purchasing WD consumer-grade junk.Now I'm in the position of just having to bite the bullet and purchase a different drive with lower power requirements or insert a self-powered USB hub (adding yet another item to fail!) to the composition.Fool me once, shame on you. Fool me twice, shame on ME!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Will I ever I learn???\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 11, 2019",
+            "id": "amzn1.account.AFJKKRPFHZPJ6HJVXLNJJDJFATPA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJKKRPFHZPJ6HJVXLNJJDJFATPA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    We buy multiple external hard drives to store our raw video that we edit into YouTube videos and other purposes.These Western Digital Drives are the perfect solution. Compact and highly reliable, we have never had an issue with multiple purchases. We literally have hundreds of hours of video stored and indexed for easy retrieval.Speed and function were exactly as expected, and formatting in ANY OS format is without issue. We have some in exFAT and others in OSX formats. Never a problem.*If you found my review helpful to you, please let Amazon know by clicking the \"HELPFUL\" button below!These drives are an easy FIVE STAR rating and an honest and very hearty recommendation. We will start buying these drives in 3 and 4 TB sizes as well.  Superb!!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Perfect external drive on USB 3.0. Great for video storage!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 31, 2018",
+            "id": "amzn1.account.AEFHTIE77DS2HMB4PMNIH7QMLMJA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEFHTIE77DS2HMB4PMNIH7QMLMJA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n    Cuando lo utilic\u00e9 por primera vez, no logr\u00e9 conectarle el cable con el cual ven\u00eda.  Not\u00e9 que el conector no era fijo, sino que ten\u00eda un cierto movimiento.  Con otro cable logr\u00e9 conectarlo a mi equipo de escritorio, e hice una copia de otro disco.  En una segunda oportunidad cuando trat\u00e9 de conectarlo de nuevo para buscar algo, no logr\u00e9 que funcionara.  Afortunadamente, es muy f\u00e1cil de destapar, lo cual hice y logr\u00e9 comprobar que la unidad est\u00e1 mal dise\u00f1ada, porque el conector se soporta directamente sobre la tarjeta unida al disco. No hay ning\u00fan tipo de soporte en la carcasa que permita asegurar el conector y que impida que la tarjeta absorba la fuerza al intentar conectar el cable USB 3.  Creo que la tarjeta donde va el conector sufri\u00f3 lo cual hizo que la unidad no volviera a funcionar.  Ahora, no s\u00e9 c\u00f3mo recuperar lo que tengo en ella.\n  \n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n    Conector USB 3\n  \n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 18, 2019",
+            "id": "amzn1.account.AF73PZG2HIKDCTEUKOKNP6TUHBRQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF73PZG2HIKDCTEUKOKNP6TUHBRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I plugged it into a USB 3.0 port on my Windows laptop and it mounted immediately, 4,000GB free. There was nothing on the drive at all, which I like. I immediately copied a folder containing over 10,000 JPG pictures, spread across 32 folders within the top level folder. The copy took about 6 minutes, averaging almost 100MB/s. See the photo which is a screen capture I took just as the copy completed. You can see the transfer rate was very consistent. I should mention that the source folder was stored in an SSD (M2).My first impression is very positive, especially for the price. The drive is a bit chunky, but seems well made. If anything crops up to change my opinion I will revisit this review, but for now I am very happy with this drive and would buy it again.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great first impression\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 7, 2018",
+            "id": "amzn1.account.AHJTQEPWDY677AW6UMQIT3F5WGCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHJTQEPWDY677AW6UMQIT3F5WGCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Using it for my Xbox One to store more games. Easy set up. Turn on Xbox. When Xbox boots up plug this in. Format for games or music. I chose games. Installs all games on it now. Simple.Once you set it up you do not need to unplug. Plugged in all the times works flawlessly\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Easy set up\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 30, 2018",
+            "id": "amzn1.account.AFPBLJNGF5G2LEWWO2EI5UPEZQBA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFPBLJNGF5G2LEWWO2EI5UPEZQBA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I like the look of this hard drive. As this is not a solid state hard drive it does not have stellar read and write speed, but it's good enough. 4TB gets really hot when writing files compared to the 2TB. Heat is worrying to the longevity of the device. I have owned a 2TB for about 4 years now and it is still going strong with no issues. I am hoping the 4TB will perform just as well.*Update: Have used 4TB drive for 1 year now. I report no issues other than it gets hot when copying large volumes.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Looks Nice, Gets Hot\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 6, 2019",
+            "id": "amzn1.account.AEVJRWZTFTCGASAHQNHMSDZSGOGQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEVJRWZTFTCGASAHQNHMSDZSGOGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    All specs look good. The price is right. Shipment is fast. It won\u2019t make any difference if it is not reliable.I bought it a month ago. The first impression was it is much lighter in weight compared with previous products. I used it to connect to a Windows 10 desktop. I  stored about 70GB mp4 files. It is also can be read by MacBook. After several weeks of use, it suddenly cannot be recognized by either Windows desktop or MacBooks. The light was on and there were some noise at first. But doesn\u2019t show on file explorer. I am lucky to still have original files. It would be terrible after storing 2TB data and counting on it as backups.One\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Unreliable to use as backup devices\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 24, 2019",
+            "id": "amzn1.account.AGH4JXATCZ7QPW62H3SHIF2IXPSQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGH4JXATCZ7QPW62H3SHIF2IXPSQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Received the drive on 2/17/2019 to bring on a trip 2/19/2019.  Attempted to perform transfers from an updated Windows 10 PC via USB 3.0 totaling approximately 1.8 TB.  Half way through the transfer, the drive disconnect and was no longer visible to the PC.  In disk management, no MBR or GPT structure could be located.  Cleaned and repartitioned the drive followed by scans.  Scanned could not complete due to HDD failures.After attempting to find a solution, the death rattle of the drive stated, as an audible clicking started.  Needless to say this drive cost me at least TEN TIMES the price in lost man hours and productivity.  The drive was junk out of the box.NOTE - Started warranty/return claim with WD.  Even if their service is flawless, it will not compensate for loss of use.  This product is a solid ONE STAR.  For the record, I typically always purchase WD internal drives and never experienced any similar issues.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Hard Drive FAILED on First Use\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 12, 2020",
+            "id": "amzn1.account.AHMHKIPEHQVWDNJMZLC4IMYDXKNQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHMHKIPEHQVWDNJMZLC4IMYDXKNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Step 1) I received WD Element Model #2820B revealing on the case. First thing I did when I received the package was inspect the drive and cables for issues.STEP 2) Plug cable in securely to WD Element HD and then plug in securely to USB 3.0 port.ISSUE: Mouse suddenly misbehaving. No prior issues with mouse. Doesnt appear to be a boost cable, which I would recommend to others.STEP3) Format the WD Element HD to a NTFS file system on Windows 10 OS.Step 4) Open Disk Management to review data capacity. (QUESTIONING DATA INTEGRITY USED BY WD)Actual Drive Size: 931.48 GB (NTFS) WIN 10 reads Healthy Partition.Step 5) Run Device Management  (QUESTIONING DEVICE INTEGRITY OF WD ELEMENT 2621QUESTIONING  DRIVER INTEGRITY OF VERSION: 10.0.18362.1 LAST UPDATED 06/21/2006Step 6) Check Microsoft for driver updates on WD Element HD  (NO UPDATES AVAILABLE AT THIS TIME)TODAYS DATE: 03/11/2020 ; 12:00am/PSTStep 7) Create new folder on WD Element HD to accommodate Origin for playing online games.Step 8)  Install (.EXE) Origin on WD Element HDIssue: Windows 10 does not recognize this drive as a storage drive for installation files upon completion of file. I do hold WD responsible for making assertive claims that this drive is compatible when it doesn't behave like a real drive should.Step 9) Set up WD.com account and registered product for support. Not so easy. After setting up my account online and registering my product, I created a case for my issues. Within 10 minutes of being on the My WD Portal, my account information and registered product was no longer available to me. I now am unrecognizable to their system which makes no sense at all other than someone on the other end chose not to deal with my case and deleted it as well as my registered product. Quite frustrating. If no response within 24 hours, I will be returning back to Amazon.CONCLUSION:After running troubleshooting tips offered via WD, I am reluctant to keep this drive. I am asking others who have professional level experience to offer, I do realize, free pro bono tech advice, to me and possibly others seeking advice, into areas of Windows OS root fixes and ultimately forcing windows 10 to permanently let end user optimize this external drive much like an internal drive is used, as well as create original file backups as well to the WD Element HD? It just seems to me that  Microsoft is not making it easy to allow me to make system wide OS tweaks like I was able to on older platforms. Such a drag. But then again, I could be over stepping here as I have no technical professional level advice to offer for the crazy world of windows 10. All I know is I just want to be able to play my online games and Win 10 really dropped the ball here. Need I mention the graphics problems facing the windows 10 online gaming community? I didn't think so :/ Not all blame should be on WD here as I have been a lifelong fan of WD products. Microsoft, wake up, listen to the complaints of millions who have purchased, or were forced to switch over, to your Windows 10 junkware.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    IS IT WINDOWS 10 OR IS IT WESTERN DIGITAL? I SEE ISSUES WITH BOTH. CURRENTLY, NO FIX, HELP??\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 28, 2020",
+            "id": "amzn1.account.AHGO27VDWFMF64NYPTNQ3R5FWGUQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHGO27VDWFMF64NYPTNQ3R5FWGUQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought a couple of 2TB WD Elements to use as backup drives for Youtube and DVD productions. Each set of production files averages about 40GB with individual file sizes anywhere from a couple of MB to 8GB for the DVD iso files. My computer system uses an internal Samsung 1TB SSD as the system drive which is where the production files reside when I am working on them. When production is complete I copy the approximately 40GB of files to the WD via my USB 3.0 port. The transfer rate averages a steady 110-120 MB/s with no intermittent slowing..I initially purchased the Seagate 2TB Backup Plus as backup drives but found that they had a periodic rhythmic slowing of the data transfer rate throughout the transfer of the files. My guess is that the Seagate suffers from a caching issue that is not present with the WD Element. Needless to say the Seagates were returned (thank you Amazon for your great return policy).A word of caution here to those who complain of the WD drive dropping off intermittently. The USB cable provided with the WD drive is a VERY tight fit so you meed to push with considerable force to seat the cable fully into the drive housing. Failure to insure that the cable is fully seated is most likely the cause of the drive intermittently dropping off.Overall, I don't think you can go wrong with the WD Element when looking for a backup drive. It's speed is fine.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A Not Too Shabby Backup Drive\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 16, 2019",
+            "id": "amzn1.account.AHWJBHLJT7LBV34XS3YB2UUDBKRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHWJBHLJT7LBV34XS3YB2UUDBKRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I wish my past self from last week would read this. I was looking for a backup drive for my home NAS. I saw it has a good overall star rating, so naturally without researching I ordered quickly.  The drive came in a \"pregnant\" box with a \"seal\" anyone could have stuck or re-stuck on, which was sketchy. Against my better judgement, I just reformatted the disk and who wants ntfs when you could have ext4 (okay maybe a Windows user...).  So now that I have read the reviews and almost a quarter of these are 1 star :(, I am not feeling so good.  On top of that for the price I really could have gotten a nas quality \"internal\" disk and used my sata to usb cable and got the same capacity with a significantly higher quality drive for an extra $10.  What was I thinking, *kick*, *kick*, *kick*.  The drive is still \"working\" for me but I think I made a mistake on this one.  Also the drive is super slow with a USB 3 connection a 1 TB transfer took 24 hours, *kick*, *kick*, *kick*.  Dear last weeks self read reviews next time ...\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Thinking about it I am not sure why I ordered this, it's questionable\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 21, 2019",
+            "id": "amzn1.account.AFU7TB5XGYWG76TTLLJWFKCWGSOQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFU7TB5XGYWG76TTLLJWFKCWGSOQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I recently received this and began using it.  It's a hard drive, it's not like I would need to read the tightly wadded piece of paper with it.  When I finally did look at that tiny wad of paper, I found that there is a forced arbitration agreement bound with this hard drive.  So if the hard drive should affect your computer negatively, you're into forced arbitration with a rich corporation that picks the arbitrator.  Terrible, malignant policy.  Not to mention that it isn't a 4TB drive; it's a 3.63TB drive.  Very disappointed and won't buy another WD item again.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Read the fine print\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 2, 2020",
+            "id": "amzn1.account.AGDRIAIS4BOZTX6XBEY3S5QAMRJA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGDRIAIS4BOZTX6XBEY3S5QAMRJA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    After just a couple months' of usage, this thing barely works.  When I connect it to my computer, my computer doesn't see it - I have to keep disconnecting and reconnecting until my computer finally notices it.  (I've tried two different computers and have the same problem.)  Also, once I do get my computer to see the external drive, if the drive is moved even slightly, it loses the connection to my computer.  I thought I had a bad cable but even after swapping out the cables, I still have this problem.  I don't know if the port on the side of the drive is just loose or what but considering it started giving me problems so soon after I got it, I would not recommend it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    After two months, won't connect/stay connected to my computer.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 27, 2018",
+            "id": "amzn1.account.AG6B42Q7N6V2UPYFH3AUUB4MENTA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG6B42Q7N6V2UPYFH3AUUB4MENTA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Other than the extra steps for setting up with Mac, it seems to be worth the money. I bought it to use as my time capsule drive because my actual Apple Time Capsule (G2) was old and getting fussy about being available on High Sierra. (Sorry old girl.) A new Time Capsule is more than $300 and not in my close to the holidays budget. The Elements drive was under $100.No issues using the Elements drive so far. The only close to negative thing I could say about it is I can hear it when it's running. Never had that with the time capsule but you get used to it.The other thing about this drive is I feel confident that I can pick this up and go without worrying where to put it. We live in a hurricane zone and every time we've had to evacuate I've had to lug the big (old) time capsule out with me. The Elements drive can fit in my go bag, wrapped in a sheet of bubble wrap and I'm feeling okay about that. I do have some concerns about how delicate it feels, but I'm hoping that's more about how looks and less about how it holds up.Some of the other reviews say the drive stopped working after a few days or months. It has been almost 2 full months, I'm not having that issue. So far, so good. Knock wood. Fingers crossed.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Requires Extra Steps for Mac Setup\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 13, 2019",
+            "id": "amzn1.account.AFLU35U57BCPFEROJYUA37AOCXMA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFLU35U57BCPFEROJYUA37AOCXMA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Don't trust your precious data (including documents and photos) to the internal hard drive inside your computer. When (not if) the internal hard drive dies, you've just lost everything. Further, if the drive won't \"boot up\", you've lost access to all your data at the same time as you've lost the use of your computer.Instead, keep all your important data on an external hard drive. Then if there's a problem with your computer, it's a simple matter to move the hard drive to another computer (a matter of minutes), and you're back up and running.Further, make regular backups to a second external hard drive (disconnect it from your computer when not backing up). Finally, have a \"traveling\" hard drive that you take with you and leave at another safe location (a friend or relative's house, or work, or a safety deposit box. (In other words, you have to have three external hard drives, two on-site and one off-site at all times.)By making your data portable and not dependent on your computer's hard drive, you're protecting it better. The multiple backups on multiple hard drives means almost no set of circumstances will result in the total loss of your precious documents and irreplaceable pictures.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Back up your computer the smart way--get multiple external hard drives\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 30, 2018",
+            "id": "amzn1.account.AHEPR4TWJYEGHOOX5SZNVSMJIN5Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHEPR4TWJYEGHOOX5SZNVSMJIN5Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Except for the fact my 4 TB Elements Portable didn't make it a full year.(I think I should add that I'm an adult and treated/transported this thing carefully.)It's fast, reliable [was], plenty of storage, and good value. However, it started acting funny: slow transfer speeds, clicking, etc. I happened to be looking at the Windows Event Viewer and noticed a drive had bad sectors - traced it down to this thing.Fortunately, they have a pretty good warranty and I would gladly accept an exchange as it's been less than a year since purchase.Decreased overall rating due to the hardware issues of my drive and durability since it lasted a year.Bottom line: Stuff breaks. HDDs have moving parts that won't last forever. I know that it's a bit of a pia, but if WE do OUR due diligence - one hard drive failure won't be curtains for your data.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It's WD, what's there to complain about?!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 15, 2019",
+            "id": "amzn1.account.AFWBUHQDJ7HKXIGO2XZ5E2KB4OUA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFWBUHQDJ7HKXIGO2XZ5E2KB4OUA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is my second one, my first one I had for over 6 years and worked great. I just dropped it one too many times!The thing I don't like about this product is that it has no clear instructions for PC or Mac. I just don't understand why you can't put a piece of paper inside the box with install instructions: if you have a PC this is what you do, If you have a Mac this is how you install. I had to go online on Amazon where I bought the product from and search through the reviews of the product and TWO VERY AWESOME PEOPLE posted instructions on how to install on a Mac. REALLY!!!! Why should I have to search anywhere other then the box the product came in to find install instructions!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Like this product BUT...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 18, 2019",
+            "id": "amzn1.account.AGUJQZJSLZFOVT2SPASXVVB2ETWA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUJQZJSLZFOVT2SPASXVVB2ETWA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this hard drive to transfer my heavy photoshop files to and everything had been working great until the last few months. After connecting it would say that this device was not readable. So I just 'ejected' it (since it gave me to button option to eject it) and connected it to my other usb port and it would work fine. I also had the issue that when I wanted to eject it from my desktop ('right' clicking it so the options to eject would show) so that I could disconnect it from my laptop, it said that no ejection could happen because it was in use yet I had nothing open! ALSO when I would come back to my work (not disconnecting the port whatsoever/still connected), I would try to open up a folder on the drive and no files would show JUST OUT OF NOWHERE! As if everything had been DELETED! I had to eject and reconnect to access my files. SUCH AN INCONVENIENCE. Now I plug it in and neither port will accept it and when it randomly does, it freezes my entire computer. It freezes my Photoshop programs and takes forever to load even though I have enough free laptop space on its own and on the hard drive. I thought it was a virus but I have run programs to detect it and NOTHING. Everything shows up as being fine. I thought this was going to last me which is why I bought the 4TB one but it only lasted me 5 months. I also only use the drive like 1 week per month since it is only for photoshop projects. Truly afraid that everything will just delete..\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    After 5 months of using ISSUES ARE ARISING\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 6, 2019",
+            "id": "amzn1.account.AF3A2K3RPKTPV3MAGCEXINYPVV5A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF3A2K3RPKTPV3MAGCEXINYPVV5A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Bought this to replace a 1TB drive that was acting 'funny' and starting to fill up with photos and audio files.  Have now started to add video files to this drive, and have cleared out about 6 ft of shelf and drawer space of DVDs.  I love having stuff on the hard drive - you know where it is, and there's no issue in putting it away in the same place.  We live in a small apartment, so storage space is critical.  Storing photos, CDs, and DVDs on a hard drive is great.  The physical media is now in boxes elsewhere.  I looked at SSDs but couldn't justify the price difference - probably because I've never had a rotary drive crash on me (now I've said it - I'm cursed).\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works fine!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 5, 2018",
+            "id": "amzn1.account.AHLV35FAYPO2UH4WVUAHSFMKT23Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHLV35FAYPO2UH4WVUAHSFMKT23Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Easy hookup to the Xbox one.  .  Works like a champ.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Four Stars\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 31, 2019",
+            "id": "amzn1.account.AH3V6UP2N3WZ55LBQY2AB2C3USZQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH3V6UP2N3WZ55LBQY2AB2C3USZQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Update as of 5/1/19:I have contacted the WD representative and asked to restore my data. It took a couple of days for them to review my request and they emailed me to confirm that they will take responsibility to recover the data I lost as a result of the crashed disk. They contracted DriveSavers to restore my data, and after a couple of weeks they sent me back a new WD harddrive with my data restored. The process was very smooth and easy. So, if I can't say much about the quality of their drives, I can definitely say that they have good customer support! I raised my rating from 1 to 3 stars - all for customer service!Original review:I should have listened to other reviewers with the same problem that said this hard drive died on them unexpectedly after a couple of months. I thought it must be a random glitch and can\u2019t be happening often, given it\u2019s an SSD drive and doesn\u2019t have fragile parts like fans, etc. that make regular hard drives not as reliable. So I purchased this drive on January 8, set it on my desk, saved all photos and videos from my 11-year old Seagate hard drive, then put it back in its original box and set it in a desk drawer. I did not touch it again until March 30, when I had a free day and decided to dedicate it to backing up 10 years worth of family photos and videos to google photos. I took out the WD 2 TB hard drive, plugged it into my desktop, and opened google photos. But before I could select the folders to back up the WD drive disappeared, and an error message popped up: \u201cerror: fatal hardware failure\u201d. The disk still had the light on but was wheezing and making other noises inside. I tried to plug it into another computer, tried to leave it overnight, tried to use data recovery software but alas, any of our PCs can\u2019t see it anymore.Amazon provides tech support but for 60 days only and we are now outside of that window. The manufacturer said that because of the fatal hardware failure error it is unlikely that we can recover the data now, but we should pay one of the data recovery companies to try. They will replace the drive. But wow! I do t ant to have another one of these!! The quality control is obviously lacking if my Seagate drove worked for over 10 years, including travel and other rough handling, and this thing died on the second use? It was never dropped, it doesn\u2019t even have a scratch on it!So, if you want to save yourself a headache of losing all your family videos and photos or other data, stay away from WD hard drives!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Update: Decent customer service, will restore your data if disk crashes\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 4, 2019",
+            "id": "amzn1.account.AFBHNPSORX5ILYCRGQQ4UZDLDDLQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFBHNPSORX5ILYCRGQQ4UZDLDDLQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Hey everyone! I just bought this to upgrade my girlfriend's storage space in her PS4 and I have to say, it doesn't get any easier than this! You plug it up via a USB cable that comes in the box and then within a few seconds the PS4 will recognize it as expandable storage and from there you have to let your PS4 format the drive which took approximately 30 seconds for the 4tb one. All in all it is a very painless process. The drive so far works great, it doesn't have ground breaking read/write speeds so if you're looking for something that would speed up load/boot times for games I'd look somewhere in the realm of the SSD external. However, for the price and from what I've seen performance wise so far, you can't beat this deal.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great drive!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 28, 2019",
+            "id": "amzn1.account.AGQ7LQEUETUNEAEQ4SEIRCJPS6XQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGQ7LQEUETUNEAEQ4SEIRCJPS6XQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this during Prime Day for a sweet sale with the 3TB version that includes a 32GB flash drive. This will be my fourth WD Elements drive (none have failed on me yet and I can only hope it will continue to be that way!).For this review I'd like to point out a few things that could be relevant to the next person who considers purchasing it..1. If you're considering the portable drive for the purpose of shucking it, DON'T BOTHER! While the Elements series do not contain hardware encryption (compared to My Passport), the drive inside does not use a standard SATA connector and it will only be a waste of time outside of curiosity. On top of that, the warranty will likely be voided.2. Transfer speeds are 2-3x faster compared to USB 2.0. Because this portable drive receives all its power from the USB port, the transfer rates are a little lower compared to the desktop version. I tested with about 1 TB of files transferred over and was able to get between 50-90MB/s (desktop version can go as high as 140MB/s). All while remaining silent.3. Try not to confuse TERABYTE with TEBIBYTE. Drive manufacturers tend to use the former for their storage capacity, while the operating system reports the latter. For example, actual space reported after formatting will be 2.72TB (for the 3TB model). But if you right click on your drive and go to Properties, under the General tab the capacity reports a little over 3,000,000,000,000 bytes (for the 3TB model).4. You CAN plug in a micro-USB 2.0 cable to this thing and it will still power up normally. While I can't question the reason for this (since it will be limited to USB 2.0 transfer speeds... on a large capacity drive), this should be avoided at all costs unless it is that really desperate moment (maybe you lost/damaged the original cable and needed a quick solution while a replacement is arriving, etc...). On the reverse side, you can plug the included cable with into a USB 2.0 port (only do this if you have no other choice at the moment). Computers made within the last several years comes with USB 3.0 ports so using that is pretty much a no-brainer.5. If you did purchase the HDD + Flash Drive combo, it comes with a Sandisk Cruzer Blade 32GB flash drive (USB 2.0). Again, the combo was on sale during PRIME Day and it was a better deal compared to the other options.This is still a good drive and should be great for any laptop user. Just make sure you're getting the most out of it by using a USB 3.0 port. It's compact and lightweight for portability.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    My old USB 2.0 WD Elements drive (640GB) needed an upgrade...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 12, 2020",
+            "id": "amzn1.account.AF7YNQWY3DCKFJCISYGW7SINQUWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF7YNQWY3DCKFJCISYGW7SINQUWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Under windows 10, I'm unable to format this drive.  Storage managers sees it. I'm able to give it a drive letter, but it won't format.  Right out of the box you can drag files to it, sure, but if you every try to delete the volume and reform it, you'll probably have a brick on your hands.Note the firmware version is from december 2006...  Note also that -- maybe I somehow missed it but there is no newer firware available for it.Note also that I discovered all this by trying to use the drive as a backup drive with Acronis. Acronis has a feature that places a small partition on the external drive that you can boot from.  This gives you enough of an OS to run acronis recovery and recover your system. I've actually had to do this once - it works. But with this WD drive, the automatic but required re-partitioning and formatting can't be done.  Afterwards, I tried everything to reformat manually, but no success.Then I purchased a similar 2T drive from Seagate. Ran Acronis. All good. easy, no problem.This is the second time in 3 years I've bought a WD product that has had a fatal flaw that was not at first apparent. Ouch. So WD, we are breaking up; please leave and don't come back.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Will not format\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 29, 2019",
+            "id": "amzn1.account.AE4Z3FIQMK3NQYEUEABSHOZ5VRLA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4Z3FIQMK3NQYEUEABSHOZ5VRLA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I love this thing. I plug it into my PC or laptop and it gets instantly recognized. The form factor is spot on and not obstructively bulky. The case shell doesn't feel flimsy / cheap. The transfer speeds feel extremely fast for someone normally used to USB 2.0 devices.I already considered this Drive to be a 5 star product before finding out its best feature: Acting as a content server for my TV. I was able to get my Roku TV to recognize it by adding a Powered USB Hub (The TV's USB socket doesn't output enough power on its own). I've been having issues streaming content to my TV and now I can have an entire library attached to it in tip top quality.I'm very happy with this hard drive and am definitely considering buying another to act as my dedicated TV server.My Setup:TCL 55S405 55-Inch 4K Ultra HD Roku Smart LED TV (2017 Model)AmazonBasics 4 Port USB to USB 3.0 Hub with 5V/2.5A power adapterSyncwire USB 3.0 Extension Cable 6.5ft [Gold Plated, Super Speed] A-Male to A-Female Extender Cord with 5Gbps Data Transfer and Charging\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great for Roku TV\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 22, 2020",
+            "id": "amzn1.account.AHKVMO6K476Q5K2AKNHYNZ5ER3WA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHKVMO6K476Q5K2AKNHYNZ5ER3WA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have purchased 6 of these over the past few years for various projects and clients, and I've never been disappointed.  The 5TB size just came out in November 2019 and it just works.  Silent, fast, conveniently portable, no extra power adapters.  I recommend these over the larger drives that, despite having a higher capacity, run louder and hotter and probably won't last as long as these lil' guys.Hint.  The price drops down to eighty nine dollhairs about once a month for a couple of days.  Keep refreshing the page.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Genuinely great hard drive.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 8, 2019",
+            "id": "amzn1.account.AFNSO6HWWASEDJR4SIN5ZIZLTB4A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFNSO6HWWASEDJR4SIN5ZIZLTB4A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I ordered a 2TB WD Elements HHD in September and received it promptly. Things were looking good. When I opened the box, I noticed a couple of small, clear, plastic pieces fell out of the package. I gave it no thought and continued to unwrap the hard drive. I plugged it into my Mac and it wouldn't read. I then plugged it into my PC, no deal. I examined the plastic casing that it arrived in - inside the box - and realized that the pieces that had fallen out were from this internal plastic casing. I knew something was wrong. I tried repeatedly to install the hard drive, with no luck. At this point, I needed proof from a third party. I called Western Digital for tech support and was on the phone with a representative within minutes. After being given vague instructions, being treated like I didn't know what I was doing for about 15 minutes, and searching how to inspect the hard drive online, we finally arrived at a conclusion: the hard drive experienced a fatal error. The details were only accessible on my PC, however, which also indicated that the drive itself was manufactured in 2006. needless to say, a 13 year old piece of equipment was mishandled somewhere along the process - possibly a return item shipped to me as \"new\" - was successfully returned and I had my refund the next week. I wouldn't order it again but I would probably purchase a WD product through a store front retailer.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    At least there are returns available\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 25, 2019",
+            "id": "amzn1.account.AGGY2EAIOAZ2IG7FV7SB2UOXVLAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGY2EAIOAZ2IG7FV7SB2UOXVLAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is my second WD Elements portal ext. hard drive. The first one (500 GB) is almost full. The install instruction says Plug and Play. So I plugged in an USB portal. But nothing has happened. I went WD Support and downloaded drivers. But even the WD BackUp Appt does not recognize it and wants to direct me to DropBox. The Windows 10 cannot \u201cfind\u201d the device. I have to use Add a device to find it. Finally the problem solved by using Back and Restore (Windows 7) function. I am not a computer guy and don\u2019t know if the problem is universal with Windows 10. Just to share my experience.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Plug and Play does no work!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 20, 2019",
+            "id": "amzn1.account.AGERAWEXJCAKZOLRC5LISRPMKAHA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGERAWEXJCAKZOLRC5LISRPMKAHA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    We have a Panasonic Lumix camera with a 128 gb micro SD drive. It takes fantastic photos, worlds better than any phone.Anyway, we use Google photos to store the photos and videos (compressed JPG and MP4 format) to the cloud. I got this WD portable hard drive to store the original RAW, uncompressed MP4/4K, and uncompressed JPG files from the SD drive. On first plugging in the drive using the provided cable, the Chromebook read the drive, but I reformatted it just to be safe. It ended up with 1.8 TB of useable storage space. Copying the files was easy using the built in Files app on the Chromebook. I made folders by the month and file format on the hard drive and copied the files over. We had  a lot of photos from several trips so copying took a while, but it never stalled or died or gave me an error message. With 128 gb of files one has to be patient....this has been worth the investment.  We now have original, uncompressed files in a very accessible and organized format. I will now move the files over after every big trip so I don't have to do 128gb at a time..... Very easy to do.  And now, if we want to print out enlarged prints or edit photos or view 4K videos, we can easily do so.  I have repurposed an old Case Logic GPS case to hold the drive and cable when not in use.  The drive itself doesn't come with a case. I highly recommend this drive!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works perfectly with Chromebook to backup photos & videos\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 22, 2020",
+            "id": "amzn1.account.AFPOW6ZVBQBNFEADF7PFCDILGC6Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFPOW6ZVBQBNFEADF7PFCDILGC6Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I should have read the reviews FIRST! I unboxed the hard drive and plugged it in.  After 5 loud clicks, it died. I never even got to save any files to it! Clearly Amazon is knowingly sending faulty products and does not care.  From now on I will read the 1-star reviews first!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It Was Over Before It Started!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 18, 2019",
+            "id": "amzn1.account.AEGY5TQFUJFNJDD4FJX7JJBEWXWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGY5TQFUJFNJDD4FJX7JJBEWXWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've had many external drives before. I've stuck with WD for the most part because Seagate drives love to take a dive at a moment's notice. Even Toshiba is unreliable. I've only ever gotten rid of WD drives when I buy a new one that dwarfs the old one. This drive is a huge improvement over precious ones I've had though.USB 3 changed the game. I don't need a stupid power supply anymore and this drive can even fit in most pockets. It's also quite far compared with even my older 5tb larger drive. This may be due to the drive speed which I believe is 7200 for this model. My older drive is a 5600, I think. In any case, transfer speeds are great.It's a great price even without the sale I got mine on, too. 4tb is very worth the price.If you need a lot of storage, get this! It's particularly useful if you have an Xbox One. Great to just plug and play with at least 4x the space you already have if not 8x. It took about a minute to format my 2gb version for games, so I imagine this one would take about two minutes if that.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great drive, great price\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 1, 2018",
+            "id": "amzn1.account.AGWVTBOJ3M5MZMXKNLOX5BXNAWMA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGWVTBOJ3M5MZMXKNLOX5BXNAWMA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    It\u2019s a great little External/portable hard drive. I personally use mine for my PS4 since this is USB 3.0 so it works with the console. If you do plan on using it with a PS4 setup is super easy, it\u2019s just plug and play. Just plug it in, turn on your console and it will automatically recognize it and ask if you want to make it an extended storage. Nice you download a lot games and also want to take them to a friends house. Just shutdown your console and then unplug the hard drive. Go to your buddies house, plug the drive in and sign in onto your account. BOOM. All of your games are there.It\u2019s also hardy for anyone not using it on a console.The case is pretty solid/sturdy, dropped it 5ft on to concrete and nothing happened, and it\u2019s not noisy at all. Great for any one looking to easily expand their computers/console storage or just need an easy way to take a lot of files on the go.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Would recommend\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 27, 2020",
+            "id": "amzn1.account.AET2E5KMN3AMJXMRPJIDZ5T3SG4Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AET2E5KMN3AMJXMRPJIDZ5T3SG4Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I purchased the 2TB as extended memory for my PS4.  It was extremely easy to set up and works flawlessly - I have not noticed any delays or issues playing games installed on the drive.  I download most digital games directly to the drive and its just as fast as downloading to the PS4's internal memory.  Its nice to not have to delete games when you want to play something else.  So far, I'm quite happy with this and would recommend.If you are considering purchasing this for use with your PS4 gaming console, here are the installation instructions:1) Plug in the external drive to PS4 USB port2) Go to Settings > Devices > USB Storage3) Select the external memory from menu and click X on the controller4) Format as Extended Storage.That's it.  The PS4 will format the drive and ask if you want to use the external drive for downloads.To move games or other applications from the internal memory to the external memory, follow these steps:1) Settings > Storage > System Storage > Applications2) Select the game/application you want to move, press the Options button on the controller then select Move to Extended Storage.  At this point you will have the option to select multiple applications if desired.  Then click Move.It may take several minutes depending on the size of the application to transfer it to the external drive.The application/game will still show up in any folders, etc so nothing really changes in terms of appearance or access to the game.  You can access the external storage by going into Setting and selecting Storage - you'll see both the internal and external drives listed.Remember - if you want to remove the drive don't just unplug it (this is true for use on a computer as well).Go to Settings > Devices > USB Storage > select external drive then choose Stop Using this External Storage.I hope this helps anyone considering using this drive for the PS4.  Again, so far its worked flawlessly and I would definitely recommend.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great for PS4 Extended Memory\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 10, 2018",
+            "id": "amzn1.account.AHF7QTTV2K7R3TFAXR6VHH6UJNIQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHF7QTTV2K7R3TFAXR6VHH6UJNIQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have always been a thought WD was a good brand,Well I bought  2tb this last July to Hold keep that word in mind. Today I brought it out to share some photos that I keep on it for Safe keeping, and it started up just fine, moved 1 picture all is well ,went to move the second one and stop responding. Hmmm. So I restarted it and to my dismay  I hear nothing but click click click coming from the hard drive,not responding,this can't be happening, So I removed and restarted it about 3 times ,finally no clicking..Now I am transferring  over 300 gigs of family pictures and important stuff to my old one for  temp safe keeping..So remember I the word Hold . well this Hard drive was last updated in August . so with today its only been ran 3 times..I am so upset be careful  if you buy this.it could be a fluke or they have downed their quality\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Trouble\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 6, 2019",
+            "id": "amzn1.account.AE4ITYM5F66XFNZIXF6F4GPPW7OQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4ITYM5F66XFNZIXF6F4GPPW7OQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I'm not a Youtuber, or a Video editor, but I am my family's archivalist. I kept all the tapes and pictures from the last three generations. I had about half a dozen multi-GB flash drives, some 64-GB micro SD's, an old 40-GB hard drive, a few dozen DVD-R's for storage, and a 250-GB SSD laptop.This beast gladly put all that gear in one place, looked at me, and laughed saying \"What else you got?\" And by George, I had nothing else. I greatly overestimated my storage needs and underestimated the technological advancements made in mass media storage.Speed wise, I don't know how it compares. I did everything I needed over the course of a couple days. Is there something better out there... maybe, but this was way more than I actually needed. Highly recommended. There's a reason it was an Amazon Pick.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Digital Hoarders Rejoice\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 1, 2019",
+            "id": "amzn1.account.AG5UC37U53BLTJYVLI6WV37AYFNQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG5UC37U53BLTJYVLI6WV37AYFNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Update: 3-8-2019 4 starWill try to update this after 1 yr.Rcvd replacement very fast. Only used for a few days. It's working as expected. Except it's transfer speeds on a USB 20 is a little bit faster than I expected. Added 1.83 TB of files almost non stop coping in large File folders. Smallest about 50GB & largest 800 GB. I also set my drives on bottle caps for air flow. If you do the same make sure the caps & drive don't slide around..Original review 3 star:Arrived in tact in a bubble bag & rigid cardboard store shelf box. Plug & play add a few GB of movie files to test it. All as expected. (My USB 2 max 50 MBS) it topped out at 34 MBS. Drive is USB 3 backwards compatibile with 2.0PROBLEMS Wouldn't disconnect with Win 7 & Quad core 2.3GHZ.In use light WOULD NOT GO OUT. Even after 10 minutes AFTER PC was shut down..I have 17 USB hard drives Toshiba, And mostly Seagate. They all stop the in use light a few seconds after shut down. Only one drive Won't disconnect from Win 7 (a Seagate refurbished replacement of the newest Seagate drives). The new drive began its rapid demise by not disconnecting..I've returned/exchanged for a new drive same day I received it. Hopefully that was a fluke of mass production. AMAZON RAPID RESHIP NEXT DAY!.AMAZON IS ABSOLUTELY THE BEST RETAILER YOU CAN BUY FROM!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Had to return exchange/ replacement arrived very fast\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 8, 2020",
+            "id": "amzn1.account.AGR5X32JLZTUVA5NGZOU3RJCGY3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGR5X32JLZTUVA5NGZOU3RJCGY3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    My long-time backup drive died after months of agony.  One day, there was the dreaded \"Disk Utility cannot repair\" message.  Ugh!!  So, what to replace it with?  Read a bunch of reviews on Amazon and elsewhere, and decided on this one.  I have a 2011 Mac, so it had to be something that doesn't require a Thunder port, or some other exotic interface.  I'm no computer genius.  Let's get that out there up front.  I wanted something that had sufficient capacity for all the work documents, photos, music, and whatever else, all in one place.  And if it has a small profile?  All the better.Plugged this in and waited... Cannot read disk.  :(  Ok, now what?  Right!  Reformat!  So, I did.  That took a few minutes, then I tried again.  Success!  Click click, and now Time Machine is silently backing up to this new drive.  Perfect!  It takes up almost no space (slightly larger than a deck of playing cards), doesn't use an electrical outlet, doesn't whir and grind next to me (as the former backup disk did), and I'm backed up and ready to go in case of emergency (or the inevitable replacement computer).I've had this now for a couple of weeks, and I can say I'm very pleased.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Almost plug and play for a 2011 Mac desktop!  Excellent!!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 14, 2019",
+            "id": "amzn1.account.AHNLYH5AIEIEB7TIBQQ66OMQV33A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHNLYH5AIEIEB7TIBQQ66OMQV33A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Several Western Digital Passport drives purchased in the past and the reliability made it an easy choice to purchase this Elements WD drive.  It is the same size as the WD Passport drives.  It's the first over 2TB drives owned.  It's great having a greater amount of space rather than multiple smaller drives.  The portability is good as well.  Previous, but not all, WD Passport drives came with a felt carrying case for easy portability along with some protection of the device.  This drive does not come with a protective pouch.  It easily installs and is recognized so no drivers are necessary.  The price was good at the time of purchase.I just wish FedEx or UPS delivered.  Amazon used to have a place or would invite to comment on shipping or packaging.  Since they are hiring anyone to deliver packages I watched the delivery person literally toss the drive from about 8 to 10 ft away onto my porch so I hope this drive doesn't fail as a result of any potential damage.  It arrived in a bubble-wrapped envelope.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Positive results with other Western Digital Portables Made this an Easy Choice\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 9, 2020",
+            "id": "amzn1.account.AGSN2CPGLO53IVJMO36FL5UUTNZA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGSN2CPGLO53IVJMO36FL5UUTNZA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    My bad, I replaced a 5 yr old 1 TB Seagate drive in a WD box -with Thunderbolt connection- with this Elements portable drive.  I should have paid more attention to  the USB3 specs and the 5400 rpm drive speed.  If this drive is operating up to it's ratings, it's slooowww relative to what I was used to.  Maybe I can swap the internal disks with the Thunderbolt box.  hmmm.  Time Machine has taken 18 hours to get to the 12% mark encrypting the drive.  Otherwise, I like the drive.  Everything else is great.  It is easily portable, quiet, and nice looking.  Plug and play.Downgrading my rating.  I've never had a problem like this on a modern external drive.  It took 7 days to encrypt this drive through TimeMachine (TM).  The next TM backup (5 gigs) was estimated at 21 hours.  Perhaps the drive is defective?  Perhaps USB 3 is dysfunctionally slow? Perhaps the cache is too small?  Perhaps it's great for single small files but a large file such as the TM file (or Photos files, or Music files, or any other large bundles) are too big?  I really don't know why it's a problem, but this drive simply will not work for me.  I can't imagine that anyone would be happy with these speeds.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    oh my, it seems slow / Update:  IT IS SLOW.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 5, 2018",
+            "id": "amzn1.account.AEPH6MT522NVW6XPENFUWHGC3CMQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEPH6MT522NVW6XPENFUWHGC3CMQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Tiny but perfect. Data transfer is fast! Was able to partition the drive so I could use both time machine and store actual files, perfect for a MacBook. I have a 500 GB (ish) MacBook Pro, I partioned for 1 GB for time machine and 1 GB for files I want to either save or just be sure they are easy to access otherwise. Feel comforted that my essential files are saved two ways with the tiny drive. I might buy another one in a bigger size to do it all over again but save the drive in a different place. Also for instructions, when in doubt Google! The instructions are great but there\u2019s always more information out there for you.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    So tiny, love perfect for a laptop.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 7, 2018",
+            "id": "amzn1.account.AHY3ABKWXE3TXCWG2W5RTOXUNNAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHY3ABKWXE3TXCWG2W5RTOXUNNAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've had this drive for about 6 weeks now so I've had a good chance to extensively play with it.  Simply put, the drive is gold!  I'm using it to back up over 1000 movies, documentaries, and tv shows from an internal 2.5\" 4TB hard drive in my desktop computer and it's been rock solid.The external matte black plastic case is absolutely beautiful and the chamfered gloss edges on top is a nice touch with a nod to detail. Western Digital has a reputation for reliability and top quality which is the primary reason I purchased this drive but the external case is so attractive I would have be tempted to get this drive just for the case alone.  Luckily, I didn't have to make any compromises here, the drive is both reliable and attractive and the cost very affordable.Final verdict... I highly recommend to anyone who may have a need for a reliable external hard drive with a wink to style.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Reliable External HD with an Eye on Style\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 4, 2019",
+            "id": "amzn1.account.AHMSDMAEU2NBSZX7RYCRPLP7BKVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHMSDMAEU2NBSZX7RYCRPLP7BKVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I received the product on time and the shipping packaging was fine. I opened the package to find the original hard drive box was already opened and the hard drive appeared to be used. The hard drive was loose inside the packaging and there was no user manual. There was a piece of shoddy parchment/packaging paper in there that was crinkled and folded. The wire was shoved in the box next to the hard drive. It appeared as though someone got this, took it out of all the original packaging and then returned it. When I plugged the drive in, it would not register on my computer (windows). I contacted Amazon to see about getting a return and could barely understand the woman on the line. She did not seem to understand that I wanted to return the item and attempted to troubleshoot the item. This would have been fine if the item was new, but it was used and I did not pay for a used item. After about 30 minutes of talking to this woman and going through multiple steps trying to troubleshoot, the line disconnected. The woman could not grasp that the drive was not showing up on my computer, or in the disk manager so we went in circles over and over. I did some research on Google and eventually figured out how to fix the issue. Apparently the drive I had bought, which was supposed to be new, had been formatted for some other computer system. I worked through the process and re-formatted the drive to Windows. Now the drive works fine...The reason for the one star was the crappy customer service and the fact that I received a used item. Thanks Amazon.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Eventually it worked\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 16, 2020",
+            "id": "amzn1.account.AHKJBTBL3ZXTPMECI2SQ7OTOALFA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHKJBTBL3ZXTPMECI2SQ7OTOALFA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this a week ago and I started using it the same day and as I started to download videos and photos onto on the FIRST DAY it started messing up. It would give me a message about the attached device is not working. I contacted amazon twice to try and help me with this issue. I ran diagnostics everything is supposedly \u201cworking\u201d. It\u2019s not. Amazon said they won\u2019t an email to WD to help me further and I haven\u2019t received an email from them or a different device. I should have listened to the people who wrote bad reviews on here because they are right. This does not work. Do not waste your money. Find a different hard drive. Do not recommend.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Horrible hard drive\n  \n"
+        }
+    ]
+}
