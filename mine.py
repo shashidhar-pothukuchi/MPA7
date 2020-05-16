@@ -68,7 +68,7 @@ def aspectExtraction(input):
             prevTag=tag
     #Eliminating aspect count less than 5
     for aspect in aspectList:
-            if(aspectList.count(aspect)>2):
+            if(aspectList.count(aspect)>5):
                     if(outputDict.keys()!=aspect):
                             outputDict[aspect]=aspectList.count(aspect)
     outputAspect=sorted(outputDict.items(), key=lambda x: x[1],reverse = True)

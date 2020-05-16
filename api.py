@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restful import Api, Resource, reqparse
-import scrap
+# import scrap
 import run
 import mine
 import search
