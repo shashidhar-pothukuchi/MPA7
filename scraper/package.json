@@ -12,6 +12,7 @@
   "author": "shashidhar",
   "license": "ISC",
   "dependencies": {
+    "@jonstuebe/scraper": "^0.2.0",
     "amazon-reviews-crawler": "^1.0.4"
   }
 }

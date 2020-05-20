@@ -1,0 +1,814 @@
+{
+    "reviews": [
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 11, 2019",
+            "id": "amzn1.account.AERSA5MJQSXMXCHOEZTX6RTWMK3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AERSA5MJQSXMXCHOEZTX6RTWMK3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    For me, a highlight of an otherwise ill-spent youth was reading mathematician John Casti\u2019s fantastic book \u201cParadigms Lost\u201c. The book came out in the late 1980s and was gifted to my father who was a professor of economics by an adoring student. Its sheer range and humor had me gripped from the first page. Its format is very unique \u2013 Casti presents six \u201cbig questions\u201d of science in the form of a courtroom trial, advocating arguments for the prosecution and the defense. He then steps in as jury to come down on one side or another. The big questions Casti examines are multidisciplinary and range from the origin of life to the nature/nurture controversy to extraterrestrial intelligence to, finally, the meaning of reality as seen through the lens of the foundations of quantum theory. Surprisingly, Casti himself comes down on the side of the so-called many worlds interpretation (MWI) of quantum theory, and ever since I read \u201cParadigms Lost\u201d I have been fascinated by this analysis.So it was with pleasure and interest that I came across Sean Carroll\u2019s book that also comes down on the side of the many worlds interpretation. The MWI goes back to the very invention of quantum theory by pioneering physicists like Niels Bohr, Werner Heisenberg and Erwin Schr\u00f6dinger. As exemplified by Heisenberg\u2019s famous uncertainty principle, quantum theory signaled a striking break with reality by demonstrating that one can only talk about the world only probabilistically. Contrary to common belief, this does not mean that there is no precision in the predictions of quantum mechanics \u2013 it\u2019s in fact the most accurate scientific framework known to science, with theory and experiment agreeing to several decimal places \u2013 but rather that there is a natural limit and fuzziness in how accurately we can describe reality. As Bohr put it, \u201cphysics does not describe reality; it describes reality as subjected to our measuring instruments and observations.\u201d This is actually a reasonable view \u2013 what we see through a microscope and telescope obviously depends on the features of that particular microscope or telescope \u2013 but quantum theory went further, showing that the uncertainty in the behavior of the subatomic world is an inherent feature of the natural world, one that doesn\u2019t simply come about because of uncertainty in experimental observations or instrument error.At the heart of the probabilistic framework of quantum theory is the wave function. The wave function is a mathematical function that describes the state of the system, and its square gives a measure of the probability of what state the system is in. The controversy starts right away with this most fundamental entity. Some people think that the wave function is \u201cepistemic\u201d, in the sense that it\u2019s not a real object and is simply related to our knowledge \u2013 or our ignorance \u2013 of the system. Others including Carroll think it\u2019s \u201contological\u201d, in the sense of being a real entity that describes features of the system. The fly in the ointment concerns the act of actually measuring this wave function and therefore the state of a quantum system, and this so-called \u201cmeasurement problem\u201d is as old as the theory itself and kept even the pioneers of quantum theory awake.The problem is that once a quantum system interacts with an \u201cobserver\u201d, say a scintillation screen or a particle accelerator, its wave function \u201ccollapses\u201d because the system is no longer described probabilistically and we know for certain what it\u2019s like. But this raises two problems: Firstly, how do you exactly describe the interaction of a microscopic system with a macroscopic object like a particle accelerator? When exactly does the wave function \u201ccollapse\u201d, by what mechanism and in what time interval? And who can collapse the wave function? Does it need to be human observers for instance, or can an ant or a computer do it? What can we in fact say about the consciousness of the entity that brings about its collapse?The second problem is that contrary to popular belief, quantum theory is not just a theory of the microscopic world \u2013 it\u2019s a theory of everything except gravity (for now). This led Erwin Schr\u00f6dinger to postulate his famous cat paradox which demonstrated the problems inherent in the interpretation of the theory. Before measurement, Schr\u00f6dinger said, a system is deemed to exist in a superposition of states while after measurement it exists only in one; does this mean that macroscopic objects like cats also exist in a superposition of entangled states, in case of his experiment in a mixture of half dead-half alive states? The possibility bothered Schr\u00f6dinger and his friend Einstein to no end. Einstein in particular refused to believe that quantum theory was the final word, and there must be \u201chidden variables\u201d that would allow us to get rid of the probabilities if only we knew what they were; he called the seemingly instantaneous entanglement of quantum states \u201cspooky action at a distance\u201d. Physicist John Bell put that particular objection to rest in the 1960s, proving that at least local quantum theories could not be based on hidden variables.Niels Bohr and his group of followers from Copenhagen were more successful in their publicity campaign. They simply declared the question of what is \u201creal\u201d before measurement irrelevant and essentially pushed the details of the measurement problem under the rug by saying that the act of observation makes something real. The cracks were evident even then \u2013 the physicist Robert Serber once pointedly pointed out problems with putting the observer on a pedestal by asking if we might regard the Big Bang unreal because there were no observers back then. But Bohr and his colleagues were widespread and rather zealous, and most attempts by physicists like Einstein and David Bohm met with either derision or indifference.Enter Hugh Everett who was a student of John Wheeler at Princeton. Everett essentially applied Occam\u2019s Razor to the problem of collapse and asked a provocative question: What are the implications if we simply assume that the wave function does not collapse? While this avoids asking about the aforementioned complications with measurement, it creates problems of its own since we know for a fact that we can observe only one reality (dead vs alive cat, an electron track here rather than there) while the wave function previously described a mixture of realities. This is where Everett made a bold and revolutionary proposal, one that was as courageous as Einstein\u2019s proposal of the constancy of the speed of light: he surmised that when there is a measurement, the other realities encoded in the wavefunction split off from our own. They simply don\u2019t collapse and are every bit as real as our own. Just like Einstein showed in his theory of relativity that there are no privileged observers, Everett conjectured that there are no privileged observer-created realities. This is the so-called many-worlds interpretation of quantum mechanics.Everett proposed this audacious claim in his PhD thesis in 1957 and showed it to Wheeler. Wheeler was an enormously influential physicist, and while he was famous for outlandish ideas that influenced generations of physicists like Richard Feynman and Kip Thorne, he was also a devotee of Bohr\u2019s Copenhagen school \u2013 he and Bohr had published a seminal paper explaining nuclear fission way back in 1939, and Wheeler regarded Bohr\u2019s Delphic pronouncements akin to those of Confucius \u2013 that posited observer-generated reality. He was sympathetic to Everett but could not support him in the face of Bohr\u2019s objections. Everett soon left theoretical physics and spent the rest of his career doing nuclear weapons research, a chain-smoking, secretive, absentee father who dropped dead of an unhealthy lifestyle in 1982. After a brief resurrection by Everett himself at a conference organized by Wheeler, many-worlds didn\u2019t see much popular dissemination until writers like Casti and the physicist David Deutsch wrote about it.As Carroll indicates, the MWI has a lot of things going for it. It avoids the prickly, convoluted details of what exactly constitutes a measurement and the exact mechanism behind it; it does away with especially thorny details of what kind of consciousness can collapse a wavefunction. It\u2019s elegant and satisfies Occam\u2019s Razor because it simply postulates two entities \u2013 a wave function and a Schr\u00f6dinger equation through which the wave function evolves through time, and nothing else. One can calculate the likelihood of each of the \u201cmany worlds\u201d by postulating a simple rule proposed by Max Born that assigns a weight to every probability. And it also avoids an inconvenient split between the quantum and the classical world, treating both systems quantum mechanically. According to the MWI, when an observer interacts with an electron, for instance, the observer\u2019s wave function becomes entangled with the electron\u2019s and continues to evolve. The reason why we still see only one Schr\u00f6dinger\u2019s cat (dead or alive) is because each one is triggered by distinct random events like the passage of photons, leading to separate outcomes. Carroll thus sees many-worlds as basically a logical extension of the standard machinery of quantum theory. In fact he doesn\u2019t even see the many worlds as \u201cemerging\u201d (although he does see them as emergent); he sees them as always present and intrinsically encoded in the wave function\u2019s evolution through the Schr\u00f6dinger equation.A scientific theory is of course only as good as its experimental predictions and verification \u2013 as a quote ascribed to Ludwig Boltzmann puts it, matters of elegance should be left to the tailor and the cobbler. Does MWI postulate elements of reality that are different from those postulated by other interpretations? The framework is on shakier ground here since there are no clear observable predictions except those predicted by standard quantum theory that would truly privilege it over others. Currently it seems that the best we can say is that many worlds is consistent with many standard features of quantum mechanics. But so are many other interpretations. To be accepted as a preferred interpretation, a theory should not just be consistent with experiment, but uniquely so. For instance, consider one of the very foundations of quantum theory \u2013 wave-particle duality. Wave-particle duality is as counterintuitive and otherworldly as any other concept, but it\u2019s only by postulating this idea that we can ever make sense of disparate experiments verifying quantum mechanics, experiments like the double-slit experiment and the photoelectric effect. If we get rid of wave-particle duality from our lexicon of quantum concepts, there is no way we can ever interpret the results of thousands of experiments from the subatomic world such as particle collisions in accelerators. There is thus a necessary, one-to-one correspondence between wave-particle duality and reality. If we get rid of many-worlds, however, it does not make any difference to any of the results of quantum theory, only to what we believe about them. Thus, at least as of now, many-worlds remains a philosophically pleasing framework than a preferred scientific one.Many-worlds also raises some thorny questions about the multiple worlds that it postulates. Is it really reasonable to believe that there are literally an infinite copies of everything \u2013 not just an electron but the measuring instrument that observes it and the human being who records the result \u2013 splitting off every moment? Are there copies of me both writing this post and not writing it splitting off as I type these words? Is the universe really full of these multiple worlds, or does it make more sense to think of infinite universes? One reasonable answer to this question is to say that quantum theory is a textbook example of how language clashes with mathematics. This was well-recognized by the early pioneers like Bohr: Bohr was fond of an example where a child goes into a store and asks for some mixed sweets. The shopkeeper gives him two sweets and asks him to mix them himself. We might say that an electron is in \u201ctwo places at the same time\u201d, but any attempt to actually visualize this dooms us, because the only notion of objects existing in two places is one that is familiar to us from the classical world, and the analogy breaks down when we try to replace chairs or people with electrons. Visualizing an electron spinning on its axis the way the earth spins on its is also flawed.Similarly, visualizing multiple copies of yourself actually splitting off every nanosecond sounds outlandish, but it\u2019s only because that\u2019s the only way for us to make sense of wave functions entangling and then splitting. Ultimately there\u2019s only the math, and any attempts to cast it in the form of everyday language is a fundamentally misguided venture. Perhaps when it comes to talking about these things, we will have to resort to Wittgenstein\u2019s famous quote \u2013 whereof we cannot speak, thereof we must be silent (or thereof we must simply speak in the form of pictures, as Wittgenstein did in his famous \u2018Tractatus\u2019). The other thing one can say about many-worlds is that while it does apply Occam\u2019s Razor to elegantly postulating only the wave function and the Schr\u00f6dinger equation, it raises questions about the splitting off process and the details of the multiple worlds that are similar to those about the details of measurement raised by the measurement problem. In that sense it only kicks the can of complex worms down the road, and in that case believing what particular can to open is a matter of taste. As an old saying goes, nature does not always shave with Occam\u2019s Razor.In the last part of the book, Carroll talks about some fascinating developments in quantum gravity, mainly the notion that gravity can emerge through microscopic degrees of freedom that are locally entangled with each other. One reason why this discussion is fascinating is because it connects many disparate ideas from physics into a potentially unifying picture \u2013 quantum entanglement, gravity, black holes and their thermodynamics. These developments don\u2019t have much to do with many-worlds per se, but Carroll thinks they may limit the number of \u201cworlds\u201d that many worlds can postulate. But it\u2019s frankly difficult to see how one can find definitive experimental evidence for any interpretation of quantum theory anytime soon, and in that sense Richard Feynman\u2019s famous words, \u201cI think it is safe to say that nobody understands quantum mechanics\u201d may perpetually ring true.Very reasonably, many-worlds is Carroll\u2019s preferred take on quantum theory, but he\u2019s not a zealot about it. He fully recognizes its limitations and discuss competing interpretations. But while Carroll deftly dissects many-worlds, I think that the real value of this book is to exhort physicists to take what are called the foundations of quantum mechanics more seriously. It is an attempt to make peace between different quantum factions and bring philosophers into the fold. There\u2019s a huge number of \u201cinterpretations\u201d of quantum theory, some more valid than others, being separated by each other as much by philosophical differences as by physical ones. There was a time when the spectacular results of quantum theory combined with the thorny philosophical problems it raised led to a tendency among physicists to \u201cshut up and calculate\u201d and not worry about philosophical matters. But philosophy and physics have been entwined since the ancient Greeks, and in one sense, one ends where the other begins. Carroll\u2019s book is a hearty reminder for physicists and philosophers to eat at the same table, otherwise they may well remain spooky factions at a distance when it comes to interpreting quantum theory.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Spooky factions at a distance\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 11, 2019",
+            "id": "amzn1.account.AFMNTPVSJPCONY42YDOLQ2PJK57Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFMNTPVSJPCONY42YDOLQ2PJK57Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This book is certainly worth reading and spending considerable time thinking about.  But once you do, I urge you to address this simple question:  Is Many Worlds Science or Sci-Fi?  I give you my take below.The huge success of QM comes from using the wavefunction to compute mathematical probabilities via the Born Rule.  However in Many Worlds, every possible outcome occurs in some \"world\" ---where is the probability in having everything occur?  Philosophers and some physicists have spent the last 60 years trying to re-introduce the Born Rule into their particular Many Worlds approach because without the Born Rule, Many Worlds is a Dud.  The biggest bragging right of MWs is that it is a minimalist theory using only the deterministic Schrodinger Equation without auxiliary baggage.  But that intellectual purity is soiled by the desperate need to re-introduce the Born probability rules. Carroll attempts to insert the Born Rule into MWs (see p.140-141) by imagining \"self-locating observers \" who can \"see\" the wavefunction (which resides in Hilbert space, not ordinary 3D) and make Born-like probability computations in the (totally undefined and unobservable) infinitesimal interval between the branching of the wavefunction and an observation, whatever that really means.  That tiny interval is the only excuse Carroll cites for inserting probability into MWs.  In fact, he says it\"... gives us an opening to talk about probabilities.  In that moment after branching, both copies of you are subject to self-locating uncertainty....\" (pp. 140-141).  However, other than Carroll's bold assertion that two copies of us exist in this infinitesimal interval and imaginary observers can actually see wavefunction branches, what proof is there for these outlandish claims?  None whatsoever.  It would be ludicrous if standard Quantum Mechanics expected observers to make probabilistic Born calculations by \"seeing\" wavefunction branching --- but this (with a straight face) is Carroll's proposal for Many Worlds!Perhaps it could be argued that these are only meant to be mythical self-locating observers and shouldn't be taken literally. But if so, Carroll's version of Many Worlds rests firmly upon a myth-- not a good look in physics!  The issue of whether these observers are mythical or real is much too important to simply be left, as Carroll does, unaddressed and unanswered.  Philosophers might happily spend decades debating elaborate thought experiments using imaginary \"self-locating observers\", but physicists expect to see observers perform and produce verifiable results.  The major complaint about the Copenhagen interpretation has been its ad hoc rules, but is replacing those rules with Carroll's Sci-Fi characters an advancement?  Assuming that they aren't mythical beings, wouldn't you love to see Carroll's observers perform their Born probability calculations at the Large Hadron Collider in the minuscule time interval between decoherence/ wave function branching and an observation?  Remarkably, Heisenburg seemed to anticipate wild inventions such as 'self-locating observers' when he wrote \"There is no use discussing what could be done if we were other beings than we are.\"  Tell me that doesn't hit the mark when it comes to this book!  But, Carroll simply pretends that his mythical observers answer everything.  In fact, on p.142, Carroll congratulates himself.  In essence, \"Nothing more to see here, just have Faith!\"My criticism here of Carroll's self-locating observers can be carried over to other Many Worlds versions which also invoke phantom 'agents' that are imagined to make 'bets' based on wavefunction branches-- this in an attempt to reclaim Born probability rules.  But, let's see these gamblers get their bets down while the branching is in progress --- that, after all, is their claim.  As Carl Sagan said \"Extraordinary claims require extraordinary evidence\".  Many Worlds certainly makes extraordinary claims (e.g, you have entered untold numbers of worlds just while reading my post); but the actual evidence for MWs is, at best, underwhelming -- unless hot air (Oxford style) is your idea of evidence!  Of course theory sometimes outpaces experimental validation, but that isn't what is going on here; instead, Many Worlds has the smell of an aging philosophical construct grown unconcerned whether true scientific validation is even possible.  Sadly, here's my bet: We never see anything remotely like MW's phantom \"gamblers\" or fictional \"self-locating observers\", but Carroll's book is far from the last time Sci-Fi straight out of the Twilight Zone is pushed as science.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    WANTED: self-locating observers to save Many Worlds\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 17, 2019",
+            "id": "amzn1.account.AFIXZQ5DSE7KNZNTKV3CGY2S7O6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFIXZQ5DSE7KNZNTKV3CGY2S7O6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This book is a sham.  The author is purely getting off on showing how brilliant he thinks he is to others who purport to know a lot about quantum mechanics.  There is almost nothing here in the form of explaining what he is talking about to someone who is intelligent but isn't part of the quantum vocabulary club.  There's nothing like telling us the \"wave function collapses when it is measured\" to get across absolutely zippo about what he is talking about.Usually, in my experience, hiding behind non-explanatory lingo like this is a sign the writer doesn't really understand the subject matter.The Mr. Carroll should take a good, hard look at \"Relativity Visualized\" by Lewis Carroll Epstein if he wants to get an inkling of how to actually explain scientific phenomena to those who aren't members of the club.  Much as he seems to think relativity is merely an adjunct of Newtonian physics and not of great significance compared to quantum mechanics, maybe he'd get a clue if he'd learn a bit more about it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    You won't learn anything about quantum mechanics that you don't already know\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 17, 2019",
+            "id": "amzn1.account.AH2C47PIVPLOHTA66SL5BNIIRLWA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2C47PIVPLOHTA66SL5BNIIRLWA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    So if I understand correctly, there's another \"world\" where my wife doesn't talk on the phone so much & I bowl a 300 game...  Okay, joking aside, I am 230 pages into this 320 page book and I'm having a hard time with what Sean Carroll is putting forward as \"reality.\"  I don't understand just about any of the physics but happily he summarizes in plain English now and again.  So from what I gather, when a scientist takes a measurement in relation to an electron, the observer splits into two equal people, one of whom sees one result and the other one a different result.  Okay, but is it just that person who split or everyone else too?  If it's everyone, do scientists have the right to keep splitting me without my consent?  Also, what happens if 10 or 100 scientists all do the experiment at the same time?  What happens when the split is made and then one of the versions does the experiment again?  This is getting very complicated and very convoluted.  At one point in the book Carroll also states that in some worlds, scientists will get the wrong answers (it's just the way it works with the \"Many Worlds\" model).  But how does Carroll know he's not in one of those worlds?  This is really just all very confusing.  It seems to me that we're too early in the game to think we've figured it all out yet.  There's tons of science still to be performed in the years and decades and centuries to come.  And before you leave a comment telling me how wrong I am please remember, there's another world where you completely agree with me.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    So if I understand correctly, there's another world where my wife doesn't talk on the phone so much\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 13, 2019",
+            "id": "amzn1.account.AHLYIDKKVVOA4F4KTQS3UWWWDVGA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHLYIDKKVVOA4F4KTQS3UWWWDVGA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Whether I agree or disagree about how to study and understand QM, gravity and Everything (it's both, as I consider and reconsider, page by page) I'm finding this a clear exposition, intriguing solution and fun read.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    For me, this is highly entertaining!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 16, 2019",
+            "id": "amzn1.account.AEXIOMPTIWU4ZSW74G5GTE66QOFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXIOMPTIWU4ZSW74G5GTE66QOFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This book lacks originality.  I followed it, mostly, up until page 214.  There might be something to \u201cMany-Worlds\u201d theory, but Carroll completely rejects the idea that quantum physics has anything to do Consciousness and Will.  It\u2019s the massive error of this book.  Experiences have everything to do with Cognition; thus Will.  For a more in depth read in this, I recommend Alexander Wendt\u2019s Quantum Mind and Social Science.  Wendt \u201cwills\u201d in sharp contrast to the arguments in Something Deeply Hidden (pages 214-219).It\u2019s currently mainstream to give credence to our \u201cconsciousness not being quantum phenomenon.\u201d  I\u2019m disappointed with the claim that quantum mechanics has nothing to do with consciousness.  Organisms are quantum mechanical and the senses connecting them to the external world have a non-local aspect - I don\u2019t see why Many-Worlds would be against Quantum Cognition.Schopenhauer:  Will objectifies itself in the world.Experience is private. Quantum coherence is Life.\u201c\u2018[S]ome microscopic processes happened that caused branching, and on different branches you end up making different decisions,\u2019 rather than \u2018you made a decision, which caused the wave function of the universe to branch.\u2019\u201d  I don\u2019t think it\u2019s a preference, I think both are correct.\u201c[M]ost of our thinking has nothing to do with entanglement and the branching of the wave function.\u201d  I sharply disagree.  The universe is one wave function in Hilbert space.  Everythingis entangled in its wave function, and every branch a part.I\u2019m hoping that one day Carroll will change his mind.  He just published this book, but he could have at least researched more on consciousness and will, than to outright deny its significance in quantum theory without any analysis.We have a world to create, sustain, and/or transform - not negate.Carroll reads like an arrogant know it all.  Often in his book he speaks of a \u201cwe\u201d as if it were an organism - that he\u2019s part of - that speaks the from the righteous and empirical standpoint of the quantum physics community elite.I\u2019m deeply troubled that I was fooled by the title and synopsis, and into buying and supporting him via my purchase.I highly recommend different works in the realm of quantum physics.  If you do end up reading this, I wonder if you will find much value past page 214.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Violated.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 16, 2019",
+            "id": "amzn1.account.AGHHI7XYPTLLRIPE2D7J56N5WDHA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHHI7XYPTLLRIPE2D7J56N5WDHA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    No dumbing down. This is a well written book by one of the best theoretical physicists in the world.  The study of foundational theoretical physics whether cosmology, relativity, astrophysics, or as in this case foundational quantum mechanics by all rights ought to be at the top of all physics research programs at all university\u2019s in the world. I\u2019m sick and tired of hearing about \u201capplied physics.\u201d There is no advancement of human knowledge in \u201capplied physics.\u201d Leave that to the engineers and technologists. By the way all of our great University Doctors in all the basic sciences and liberal arts ought to be the highest paid professionals in the \u201ccosmos\u201d. The only down side to Sean Carroll\u2019s book suffers from the same problem of all other popular books of physics. Please include the equations. You don\u2019t have to derive or manipulate the equations, just present the equations then below each equation show in words how to read each symbol of the equation going from left to right. You would be astonished at what people could learn from just knowing how to read the equations. Often times I get the feeling that physicists and mathematicians are trying to protect their \u201csecret code\u201d. It seems that they really don\u2019t want the general reader, or the educated reader to really understand what they are talking about. I\u2019m not attacking Sean Carroll because he is an amazing writer of theoretical physics, and I thoroughly enjoyed his book, and so I ordered a second copy to share with others.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    No Dumbing Down\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 3, 2019",
+            "id": "amzn1.account.AHDB4MTGAFZQFPFUBC2GCW3H5MRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHDB4MTGAFZQFPFUBC2GCW3H5MRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I think this is probably closer to a 4.5 star than 5 star rating for me, but I only have integer values. I have a lot of things I don't agree with Professor Carroll, but he has great explanations and makes it clear where he is speculating. That gets it the final star for me.Carroll is a very clear and lucid writer, and that is very helpful for a book like this. He goes over quantum mechanics, quantum interpretations, and a possible way to look at quantum gravity. This is all written excellently and engagingly. Carroll is a proponent of the Many Worlds Interpretation (MWI) or Everett interpretation. This interpretation says that we have the wavefunction, and when we apply the Schr\u00f6dinger equation and get superposition, that is what happens. Our entire universe is a superposition of eigenstates of the Schr\u00f6dinger equation. There are many branches that effectively never affect each other, and so we call each branch a separate universe. Hence many worlds/universes.I tend not to find this to be as convincing. I like Chad Orzel's Metaphorical Worlds Interpretation better, because this seems like a better way of understanding what is going on. MWI advocates tend to claim that this version is the simplest, because all we have is the Schr\u00f6dinger equation. I think that they add extra suppositions about how to understand measurements as axioms. When we do measurements we don't see superpositions (whatever that would even mean), we see something happen with 100% probability. As Sabine Hossenfelder (and Peter Woit, and others) point out, the MWI proponent doesn't really solve this problem by saying on some branch the detector will see the measurement with 100%. But then, you need to update your calculations using the detector on the branch where the process did happen, then do calculations from there. Notice that figuring out which branch you are on does not involve solving the Schr\u00f6dinger equation. There are reasonable ways of doing calculations from looking at branches, but this requires rules. Thus, saying that MWI only uses the Schr\u00f6dinger equation seems incorrect to me. You still have to figure out which branch you are on in order to make predictions. The main point that everything is quantum (so we should try and derive classical results from quantum phenomena) seems sound though.I also am not so sure on the quantum foundations investigating people being looked down on angle. I'd like more historical proof than the anecdotes given in the book. Also, Peter Woit and others have shown that the quote about quantum foundations papers being blanket rejected by Physical Review is missing context that I think is crucial. It was not just about quantum foundations papers, but any papers and it is not clear it was implemented because of quantum foundations. (See the blog Not Even Wrong on \"Regarding Papers about Fundamental Theories\")My other critiques are that \"taking equations seriously\" seems like a slogan rather than a good thing. Maybe it is because I was trained as a computational physicist, but trusting equations often leads to numerical gobbledygook for solutions. You trust number crunching like that at your own risk, as you need initial conditions and all sorts of things to be right to ensure your equations go to the correct solution in the regime you are interested in. Equations seem to be approximations of reality no matter how deep we go, and so I remain distrustful of those who say we should trust the Schr\u00f6dinger equation because it is \"exact\" (how would we know? clearly it is only an approximation, anyway, because of gravity...). Besides, if we think there is more than the Schr\u00f6dinger equation to nature, then why would we take it as the equation to base all our physical intuitions off of?While I think looking at quantum foundations is a good thing, I don't think differing quantum interpretations seem all that much of a problem yet. When they yield different experimental results that can be tested, then I think it's a problem. Also, despite people loving to say that Newtonian physics doesn't have interpretational issues, I think there are big interpretational issues, it's just they have been superseded because we have better theories (special and general relativity and quantum physics) . Newtonian physics allows infinite velocities (thus you must know the state of everything in the universe to be sure that you can figure out what happens in the future or the past. Also, I mean that objects can be accelerated to arbitrary velocities in finite time), it can have solutions that are not unique (see Norton's dome), and as touched on in the book, force at a distance is a problem for gravitation in Newtonian physics if you believe in a certain type of locality.The quantum suicide discussion and problems of identity struck me as okay but not totally convincing. If you are okay with a being with essentially the same history and memories as you continuing to be conscious (whatever that means to you), then that will occur in the MWI and you can exploit that. If you are the type that is okay with a being with your memories (\"you\" in probably all relevant senses), then the suicide experiment will work, but I see no reason why you would want to do it. You'd still hurt others that care about you and if you don't care about that, then you can just wait it out as you get old. You should expect to be the oldest person because the only beings with your memories that will remain will be those who grow to be the oldest person in their universe.A side question I have is why people don't worry about merging of branches. The book answers my question in one way, using an entropy metaphor (entropy must increase). But that is for the whole universe, and I can believe that about the MWI. But aren't there local cases where similar branches \"recohere\"? Just as I can have a subsystem have its entropy decrease, but the overall entropy of the system increases?Despite my critiques, I would definitely recommend the book. It comes from an MWI advocate angle, but Carroll is usually careful about what he says and is simply an advocate and doesn't straw man his opponents. He even talks about superdeterminism without calling it a \"cosmic conspiracy\" which wins points from me (I'm not really an advocate of superdeterminism, but I think it gets an undeserved bad reputation). Plus the quantum gravity part is excellent. It points out it is speculative when it needs to, and explains fields and particles very well. Carroll answers many questions I have had about the MWI, and he certainly outlines why it's a reasonable position to take. I just don't think it's clear that it is the best interpretation. If you'd like to know more about MWI and quantum mechanics, this book is an excellent addition.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Excellent Exposition of MWI and Quantum Physics\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 9, 2019",
+            "id": "amzn1.account.AEXPM55HRSVSMP6IAO64HV4U6SBA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXPM55HRSVSMP6IAO64HV4U6SBA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    There's an episode of Frasier in which he decides to drive a prospective date on a journey of several hundred miles, so that they can get to know each other better. Barely have they set off. when he discovers that she is a religious fanatic and is going to spend the next several hours trying to convert him to her religion.This episode came back to haunt me whilst I was reading this book. I should have been warned - the critical WSJ review which brought the book to my attention had highlighted this, but, stupidly, I had ignored the warning.Rather like Frasier's prospective date, the book is initially most alluring. The first few chapters give a commendably clear description of quantum mechanics. However, the religious fanaticism presents itself in chapter 6 in the form of the many-worlds theory. The author is relentless: this MUST be the only explanation of the mysteries thrown up by quantum mechanics.I read on for a while, but it dawned on me that, whilst Frasier was obligated to complete the journey, I was not. I gave up around the halfway point.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Like listening to a religious fanatic.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 25, 2019",
+            "id": "amzn1.account.AHCBSBZKEPWUPFCI72VZ5UNG4WJQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHCBSBZKEPWUPFCI72VZ5UNG4WJQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I thought this book would persuade me to believe in Many-Worlds interpretation of quantum mechanics. But it seems like there were many questions the author did not address or handwaved on:(1) Conservation of mass/energy. How can two multiple copies of the universe conserve mass/energy if each on is a clone. The author sees to say the copies are exact but at other times claims the cloned universes are thinner in some sense.(2) How does whole universe get cloned? What is mechanism? Just building a shed in the backyard takes a week. How is an entire university almost exactly duplicated instantaneously gazillion times a second?(3) How does morality work? There is one universe in which a particular person robs a bank, and another universe in which they do not rob a bank. So everyone does the bad thing and the good thing both. And equally nuymber of universes where they do the bad thing and the good thing?(4) So to allow an ant to choose to decide to go left or to go right, two entire universes have to be created, with billions of galaxies filled with trillions of stars, just seems like a gigantic waste of resources .. Every ant that turns left or right--trillions of ants. I suppose one can argue the one universe we live in is so unfathomably big, it's not adding that much more to multiply that size exponentially.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Disappointing\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 18, 2019",
+            "id": "amzn1.account.AFSX4QVUN27UYN55GXXS2GYZRBVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFSX4QVUN27UYN55GXXS2GYZRBVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Sean Carroll is an extremely eloquent writer of science for people with many different levels of subject familiarity. I have a Ph.D. in Physics, and I really enjoy this book, but laypersons will enjoy his writing as well. He clearly lays out the arguments for the Many-Worlds interpretation of Quantum Mechanics in an engaging manner, and does not shy from discussing the thorny issues. The discussion of Gravity emerging from Quantum Mechanics was enjoyable news for me.I'm looking forward to his Quantum Mechanics textbook that he is planning to write.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A much needed layperson's level treatise on an underappreciated topic in Quantum Mechanics\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 24, 2019",
+            "id": "amzn1.account.AFDFZ3BNKPQ3UZ6E77LT5YCFHLCA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFDFZ3BNKPQ3UZ6E77LT5YCFHLCA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Carroll show that one can carefully explain many aspects of reality---in his case the physics particles and the cosmos---without using any math. The math is important many to make sure that what you say without it is actually correct. It's like when you read the label of ingredients in a food product, they don't tell you how they verified their truth in the lab, but you can usually believe them. Carroll does a very good job of this.Now Carroll has a candidly expressed goal of convincing you of the Many Worlds interpretation of quantum mechanics (QM).  Well, I don't believe it for a moment, but I still liked the books a lot. It's like reading St. Thomas Aquinas or Martin Buber. Or like having a double bourbon at the end of a long day. Somehow...There is not a grain of support for the Many Worlds (MW) interpretation. Not a grain, for or against. It is pure metaphysics to believe or disbelieve. Carroll argues that MW is just taking the Schrodinger equation (SchrE) seriously, without 'collapse.' First of all, this is just false. The  SchrE describes the evolution of a wave equation is Hilbert space. But we live in four dimensional spacetime, not Hilbert space. Attributing 'reality' to the wave equation, and alternative 'worlds' to the entities that are entangled and superimposed in the wave equation is a monster leap of faith for which there is no compelling argument.The major illegitimate assumption of MW is that every physical system has a Hamiltonian. Once you admit that you are gone. The decay of a particle, for instance, can be registered by a macro instrument (or Wigner's friend), and since the latter has a Hamiltonian, the whole system goes into superposition. But why must the instrument have a Hamiltonian? There is no reason in QM.QM assumes the system under study has a Hamiltonian. In many cases, we can find the Hamiltonian and show that the Schrodinger equation predicts. But there is no formula for finding the Hamiltonian of a system. Does my computer have a Hamiltonian? I doubt it. No one has ever found such a thing.QM seems to work universally because whenever we can find a plausible Hamiltonian, it works. But we mostly can't eve come close to finding a Hamiltonian for a complex system. We can create fake cardboard Hamiltonians by. say, representing the NY State lottery as a mechanism with a million integer outcomes. But that is not the NY State Lottery.There really is a classical world. We all live in it. There really is also a quantum world. How they fit together is one of the great mysteries of modern thought. We just don't know, and theologies like the Many Worlds approach impede our progress towards a real understanding.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Charming and informative even if you are not a Many Worlds True Believer\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 12, 2019",
+            "id": "amzn1.account.AH5BKGOMW6RIV6ZQJ6TEALW3DU5Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH5BKGOMW6RIV6ZQJ6TEALW3DU5Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Loved \"From Eternity To Here\" also by Carroll.  Real mind-blower.  So when he tackled Quantum foundations, I was first in line.He \"solves\" the measurement problem by claiming there's no collapse, the Schroedinger function simply \"branches.\"  But the problem with collapse is it puts \"observer\" into a special class outside of physics.  To say the observer causes a branching instead of a collapse is useless.  I'm sure it makes the math better since the collapse is not a continuous function while the branching is, but somehow the specialness of observing is still the cause.  Well-written, interesting, but ultimately Carroll solves the wrong problem here.Instead, try Lee Smolin \"Einstein's Unfinished Revolution.\"  Smolin makes mincemeat of the Many-Worlds argument--including a persuasive ETHICAL argument which I've not seen mentioned anywhere else.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Carroll solves the wrong problem\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 11, 2019",
+            "id": "amzn1.account.AEL5VWHM7WUADQBTJBFDSKAFWSWA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEL5VWHM7WUADQBTJBFDSKAFWSWA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have to recommend this book because it is naturally well written, as expected from Sean Carrell. I\u2019m a big fan of Carrell\u2019s wonderful Youtube channel, and his books in general.What I find most distasteful however, is this implied  \u201crealist\u201d view of \u201cmany worlds\u201d,... as if quantum mechanics (QM) predicts actual splitting multiple Worlds. It\u2019s a disservice, in my opinion, to present to a lay audience, such an interpretation, as if it were scientific, when in point of fact,.... it is literally the definition of metaphysics.It is not even necessary to regard Everett\u2019s interpretation, in such a metaphysically leaning Realist sense with actual splitting of Real worlds;... one could rather simply consider it in the form of a \u2018consistent histories\u2019 or \u2018conditional probability\u2019 derivation of the Schrodinger equation.With respect to philosophical foundations, what was discovered with QM, is not any metaphysical worlds, but rather that we can\u2019t get out of our own epistemological way... that \u201cindependent reality\u201d while objective, is conceptually formless, and that to gain predictive knowledge de facto means \u2018to add conceptual form\u2019,... given the necessarily macroscopic experimental arrangement,...  the epistemic conditions for observability to be at all possible given the nature of mind,...i.e. failure of counterfactual definiteness, contextuality, Heisenberg\u2019s cut, Born rule interpretation of the wavefunction, the fact that decoherence does not solve the measurement problem.\"There is no way to remove the observer, us, from our perception of the world, which is created through our sensory processing and through the way we think and reason. Our perception \u2014 and hence the observations upon which our theories are based is not direct, but rather is shaped by a kind of lens, the interpretive structure of our brains\" - S. HawkingAs Carrell implied in the book, the Many Worlds Interpretation is \u2018trivial\u2019 [Hawking] in the sense that it relies only upon the Schr\u00f6dinger equation\u2019s deterministic evolution of the wavefunction. But such an attitude presumes no additional interpretation,... as if mathematical idealism could legitimately supplant the job of the physicist....\u201cAs far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.\u201d \u2013 Albert EinsteinThere is an historical analogy to make this point; The great mathematician Hermann Weyl critiqued Einstein\u2019s general theory of relativity on the basis that, invoking idealized rods and clocks was inconsistent with the form of GR as a local field theory, and was a remnant of Euclidean based physics. Weyl was invoking mathematical idealism in expecting Riemannian geometry to stand on its own as a physics theory. Einstein, the proper physicists that he was, in response argued that the application of Riemannian geometry to the physical world presupposes a means of empirically confirming it, and so presupposes the existence of ideal rods and ideal clocks in order to substantiate a physical meaning for the concepts of 'unit distance' and 'unit time'. Likewise, the wavefunction and the Schrodinger equation describing its evolution, presupposes a means of empirically confirming it,.... presupposes a conceptual form, given the necessarily macroscopic experimental arrangement,... epistemic conditions for observability to be at all possible.All interpretations of QM that are empirically indistinguishable, are merely different ways of moving the probability component from one place to another in the formalism, and/or invoking metaphysical entities of one sort or another in order to deny the epistemic component of measurement, and therefore in conflating Measurement with \u2018Quantum Interaction in Independent Reality\u2019. It\u2019s rather ironic that Carrell\u2019s MWI invokes an admitted epistemic interpretation for \u201cself-locating observers\u201d to reintroduce the Born rule through the back door of the formalism,....and therefore admitting a measurement-problem that is effectively equivalent to the original.Why not just avoid all the unscientific \u2018metaphysical baggage\u2019 [Wheeler], the mathematical idealism, and the obfuscated distinction between a Measurement and Quantum Interaction,..... and acknowledge on the front end,... the empirically substantiated distinction between an Observer dependent Measurement and Wavefunction description? And admit the necessity of the Born rule probabilistic interpretation, of an epistemic wavefunction? Epistemology is at least in principle, scientific, while metaphysics is intrinsically, not.\"The doctrine that the world is made up of objects whose existence is independent of human consciousness [epistemology] turns out to be in conflict with quantum mechanics and with facts established by experiment\" - B. d'Espagnat\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Scientific Realist view of Many Worlds Theory\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 12, 2019",
+            "id": "amzn1.account.AG77HWS4GSL63BCKAHWO7RH6CH5A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG77HWS4GSL63BCKAHWO7RH6CH5A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Excellent explanation of many-worlds, entanglement and also the work of John Bell. I'm a psychologist but have always been interested in theoretical physics and the natural sciences in general. I have heard much about the Einstein-Bohr debates and now I know for sure that Einstein was no dummy. I previously read Peter Byrne's biography of Hugh Everett and would recommend reading that also for the human side of Everett. Sean Carroll's book will be a classic in quantum mechanics. Within a day or two of publication, a few negative reviews from the Copenhagen diehards were out, possibly written in advance. Understand where some of these reviews were coming from.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Everett Unhidden\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 2, 2020",
+            "id": "amzn1.account.AFHGQLLUCO6JM54FFUHLU6UKUMGQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFHGQLLUCO6JM54FFUHLU6UKUMGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Given all the hoopla about science and technology of late, I set off about a year ago to find books that might help me to understand just exactly how far along scientists are in truly understanding our universe and thus being able to manipulate its course. And what could be more cutting edge than quantum physics, although the basics have been around for a century or more.Carroll is an accomplished theoretical physicist at the California Institute of Technology and a well-established author. He is also a proponent of the Many-Worlds school of the quantum world. (Yes, you exist in many worlds but you will never meet yourself.) The book is well written and intended for an audience broader than the professional physicist. And bravo for that. Alas, however, try as he might, this book will be a slog for the average lay reader.The physics that most of us learned in school is all about particles. Quantum physics, on the other hand, is all about waves and fields. In such a fluid world, the sheer act of measuring something changes whatever it is we\u2019re measuring. (Akin to trying to catch the proverbial greased pig.)Part of the problem that scientists, particularly physicists, face is that their only vehicle for communicating what they learn is language. But language is a human convention. It is not of nature like oxygen and rain. And it is, by definition, symbolic. That\u2019s why we invented it, to facilitate communication.The universe, however, is not a human convention. It is nature itself. Nor is it symbolic. It is the universe. That\u2019s about as real as it gets.Scientists attempt to get around this by creating their own language and system of notation. It sounds impressive, but it doesn\u2019t quite bridge the gap. \u201cIs the picture we\u2019ve sketched, where the entanglement between degrees of freedom somehow comes together to define the geometry of our approximately classical spacetime, actually on the right track?\u201d He ultimately answers that complex question with the simplest of answer. \u201cNobody knows for sure.\u201dIn the end, my conclusion is that scientists are not as far along as many would have us believe. They know a lot, and there are many brilliant minds working through the issues, but \u201ca lot\u201d is a relative calibration. There is much they don\u2019t know.In a way, I admit, that is reassuring to me. I am not a religious man. I am, however, a philosopher. I am comfortable with the unknown. The great unknown gives us something to think about. And it\u2019s the thinking, rather than the ultimate conclusion, which I have come to believe is the true essence of knowledge.A very worthwhile book but you have to be willing to put in the effort.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Hamlet meets Hawking\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 4, 2020",
+            "id": "amzn1.account.AGHLPQH6MIEBMLR7T763FJUVAW6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHLPQH6MIEBMLR7T763FJUVAW6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is the best book on Quantum Mechanics I've read recently in that it is clear, concise, and presents an easy to understand description of the Everett understanding of AQM (Austere Quantum Mechanics) as defined in the book. Following Carroll's presentation he makes it clear that this understanding inevitably leads to the Multi-World outcome. However (as I included in my headline), there are MANY assumptions that have to be adopted to come to this conclusion. I'm now reading Lee Smolin's new book \"Einstein's Unfinished Revolution: The Search for What Lies Beyond the Quantum\" in which he states that the Everett understanding is an anti-realist approach, and is just simply wrong. He adopts a realist approach and maintains that the Multi-World outcome is nonsense. I have not finished Smolin's book yet, so I'm not sure he makes a compelling argument - but I'm inclined to agree with Smolin - so far. These two books make reading about the latest thoughts and ideas about Quantum Mechanics real fun. I suspect I'll write a review about Smolin's book once I finish it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    One of the best books on the topic, however...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 3, 2020",
+            "id": "amzn1.account.AFWOGAXFMZ5HOSIWG7NT67VQNRKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFWOGAXFMZ5HOSIWG7NT67VQNRKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Many folks have expressed their thoughts about the discussion of the Many Worlds/Everettian interpretation of Quantum Mechanics contained in this book, but I'd like mention another aspect of this extraordinary book.Namely its excellent description of the so-called \"Measurement Problem\" of QM; that is the exploration of how QM describes the \"Realism\" (in the technical sense) of the phenomena underlying the results of laboratory experiments.  Or, phrased another way, whether such \"real\" actual objects and interactions actually exist (as denied, for example, by the standard \"Copenhagen\" interpretation of QM).The discussion of the so-called \"Many Worlds Interpretation\" is, of course, excellent.  And the book should be praised for presenting an intelligent, detailed --and serious-- discussion of the topic, accessible to any thoughtful, careful reader.But to my mind, the book is equally (or, perhaps more) valuable for laying out and explaining the actual underlying questions that underlie this whole topic; moreover, the issue that the \"Many Worlds Interpretation\" intends to address and, perhaps more to the point, a topic that is almost never seriously addressed even in university courses in QM.(If I may suggest another book that covers much of the same material (i.e. concerning the \"Measurement Problem\"), but with additional focus on the detailed history of the discussion, the reader may wish to take a look at Adam Becker's \"What is Real?\")\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Two books in one.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 15, 2019",
+            "id": "amzn1.account.AFQILS3VVXFR4HC43B3W6HUHNNNA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFQILS3VVXFR4HC43B3W6HUHNNNA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    All bets are off as we open the door into the Quantum Matrix. We see only 4% of the universe, have no idea how atomic subatomic particles work and no idea who we are, and how our biological units interact, and exchange information and knowledge with a conscious universe. Physicsts are like frighten children of the dark, and fearful of what they may find in the room they just entered.  Materialism no longer cuts it, and we have now entered into a timeless world, where energy and matter constantly change form, can be in countless locations at once, and our understanding of intelligence and universal life has just gone out the window. It seems Sci-fi writers need to stop making cowboy and Indian movies in space, and begin to use their fertile imaginations to come up some new ideas of what's really happen on planet earth and the uncountable worlds beyond. One of the most interesting questions are our biological unites artificial creations used by unknown, unimaginable life forms of energy and light,  that are in the process of turning the universe multifaceted, highly adaptive  life forms suitable for habitation throughout the galaxies. That is just as good as a multidimensional universe that keeps repeating the same narrative form. Its seems to me physicists have taken a page out the bible and put it on steroids' and have turn Science into the latest and greatest new religion. Based on belief, and faith on a world they now so little about.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A Fanciful Book - Just This Side of Science Fiction\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 16, 2019",
+            "id": "amzn1.account.AGWMYFANU4GB6G54KQSPTAEQT3EQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGWMYFANU4GB6G54KQSPTAEQT3EQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Not for everyone but definitely worth it. It requires compromise to follow the ideas, even for a scientist. Tremendously rewarding if you make the effort. I learned about the fundamentals of quantum mechanics back at school long ago and I can tell that the dogmas that made quantum mechanics a mess (though a very precise one) are being put straight more each day. Carroll makes a leap forward toward convincing a lot of us that if we are brave enough not to limit our ideas about how the world works, we will be rewarded with a conception of reality that goes beyond any science writer wildest ideas. And is, well, probably... Real. Fun to read any way.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Deep, serious and fun.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 19, 2019",
+            "id": "amzn1.account.AG2DS6RVU3U4YZTESLLKGDZO75SA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG2DS6RVU3U4YZTESLLKGDZO75SA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    A book that is utterly straightforward and clear (mostly) about a most intimidating subject. It won\u2019t turn the reader into a QM physicist, and neither does it require a scientist to understand this book, although I think scientists might also be intrigued by it. Quantum physics is the study of matter and the energy that makes and moves matter \u2013 right down to the most miniscule particle. This book discusses the meaning and features of time and space, and also the question, \u2018Why is there space?\u201d though the answer seems very distant. Carroll makes it seem like everything - except gravity - is utterly explicable by quantum mechanics. Aspiring scientist might wish to have a look at this book to have a clearer idea where they wish to head to. For non-scientists, simple as this book is, don\u2019t read it when you\u2019re about to go to bed \u2013 it will keep you awake. Technical as it is from time to time, it is not a quick-fix guide book.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Qunatum reading\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 4, 2019",
+            "id": "amzn1.account.AGHYUUSGCTXH3ERHF3AJAK7VBPMQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHYUUSGCTXH3ERHF3AJAK7VBPMQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    A good but not great book by Sean Carroll. He does his best to explain Many Worlds to the lay reader. Although there are no bras or kets, be warned that reading this book is not easy. You have to follow a sustained chain of logic and some \u201ccartoon equations.\u201d If you follow through, you can appreciate MWI fairly well.Carrol\u2019s preference for MWI boils down to aesthetics. According to Carroll you have to accept that there is no Heisenberg cut between the classical world and the quantum. Reality is a quantum wave function. No collapse. No measurement problem. The price you pay for this simplicity is accepting those many worlds. Carroll also uses much of the book to explain why many of the criticisms of MWI are unfounded.My biggest disappointment is that Carroll fails to explain why we should care. How does it change our understanding of the world? In the last third of the book, Carroll proposes that MWI might explain spacetime as an emergent phenomenon, but most of it is speculative handwaving. I would rather that Carroll would have used the remainder of the book to explain how MWI can help me understand actual quantum phenomena like quantum computing, quantum cloning, quantum cryptography, and such.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    The aesthetics of MWI\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 26, 2019",
+            "id": "amzn1.account.AFK3XXDVSPJVMBSID5NPHNNUUGJA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFK3XXDVSPJVMBSID5NPHNNUUGJA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Sadly, it seems, the quest to make sense of quantum mechanics is not a high-status item in modern physics, and in some quarters, it is even disparaged, according to Carroll. Let this not stop the author from pursuing this matter in more detail. There are three main messages conveyed by the book: it should be understandable, real progress has been made toward understanding it, and thirdly, all of this really matters.We are introduced to some basic concepts such as the measurement problem, the wave function, probabilities, and amplitudes associated with the wave function, Schrodinger\u2019s equation, which then leads to a discussion of what is called austere quantum mechanics or AQM. This is more commonly known as the Everett or Many-Worlds model. In a measurement, we are dealing with one wave function, which includes the object of measurement (perhaps an electron) and the measurement device. The Everett formulation basically states every version of quantum mechanics features just two things: the wave function and Schrodinger\u2019s equation, which governs how wave functions evolve in time. These ingredients \u201cprovide a complete empirically adequate account of the world.\u201d Reality is described by a smoothly evolving wave function and nothing else. There is a lot to learn here. We gain an understanding of Planck\u2019s discovery of the connection of energy to frequency, which leads to Planck\u2019s constant, the Planck length, and Planck time. In a subsequent chapter, we learn that position and momentum don\u2019t even exist at the same time. There is a spread of possibilities for both quantities, neither having a definite value- very strange. This leads to what is called the uncertainty principle. \u201cIf position is concentrated near some location, momentum is completely undermined, and vice versa.\u201d Then there is complementarity, which allows more than two ways of looking at a quantum system. For example, electrons can have particle-like or wave-like properties, just not at the same time. One of the degrees of freedom (explained in the book) is spin. The author\u2019s discussion on this is interesting, if not a bit confusing to me. The next discussion is on entanglement and a feature of this is the no-signaling theorem.In section two, we delve more deeply into the Everettian world. Here every part of the universe is treated according to the rules of quantum mechanics, including the observers within it. There is a single quantum state, what Everett called the \u201cuniversal wave function.\u201d There is no Copenhagen collapse of the wave function or classical realms. The measuring apparatus itself evolves into a superposition, entangled with the state of the thing being observed. In this case, the other possible measurement outcomes exist. This is ultimately interpreted to mean branching into separate never-to-interact worlds. The collapse we see is only apparent, due to dechoerence splitting of the wave function. In a subsequent chapter the author discusses why probabilities enter into things considering that the Schrodinger equation is perfectly deterministic. In Chapter 8, we are given more insight to this many-worlds idea via a discussion between a hypothetical Alice and her father. Following this, we learn of some alternatives to the many-worlds theory. Three competitors are discussed: dynamical collapse, hidden variables, and epistemic theories. There some other theories that the author discusses, such as Bohmian mechanics, which posits hidden variables; and there is the epistemic approach, an example of which is QBism.By section III, we get into a discussion of space and the concepts of emergence and locality. We obtain an interesting take on what the \u201cvacuum\u201d means in quantum field theory. There is a lot to learn here if you are unfamiliar. I could probably reread some of these sections numerous times until it all sinks in. An interesting point made here is called the cosmological constant problem: the quantum contribution to the vacuum energy (including only contributions of wavelengths longer than the Planck length) gives a finite answer which is ten to the 122nd power greater than the value actually observed. Another interesting point is that empty space is \u201cdescribed by a stationary, unchanging quantum state, where nothing is happening from moment to moment.\u201d This is contrary to the notion that the vacuum is full of \u201cquantum fluctuations.\u201d By page 268 of the book, we begin to leave the edge of what is safely understood and venture into uncharted territory. There is some discussion of black holes and entropy; we learn of the Bekenstein-Hawking entropy, for example, and that black holes have a special property: \u201cthey represent the highest-entropy states we can have in any given size region of space.\u201d We also learn that gravity changes things. The author states that gravity leads to a \u201cfinite number of quantum degrees of freedom,\u201d which \u201cimplies a finite-dimensional Hilbert space,\u201d that in turn, \u201cimplies that there is some finite number of branches of the wave function.\u201d This would make the number of worlds in the many-worlds theory finite not infinite. Piece of cake!As you can see, the reading level for this is a bit difficult unless you have some learning in the field. So, in conclusion, it seems that \u201cwe reached a point where it is no longer practical to draw a bright line between the quantum and classical realms. Everything is quantum.\u201d\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    An exciting venture into the quantum world\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 8, 2020",
+            "id": "amzn1.account.AEYCS5JVGDFCFN43R43J6CH4QV5A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEYCS5JVGDFCFN43R43J6CH4QV5A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I enjoyed this book a lot. It helped that I have a physics degree - and many years of quantum-based research under my belt.I\u2019ve not previously read such a well-argued case for Everett\u2019s interpretation of quantum theory - so- called \u2018Many-Worlds\u2019 (which I find less misleading by thinking of it as \u2018many states\u2019)My only wish at the end of this book was to have  been able to read a little about quantum-gravity - and possible quantum-based thoughts of alternative theories for dark matter and dark energy, the pursuit of which has been so fruitless this past century.This is an extraordinary book, a labor of love, and well worth reading carefully and thoughtfully from the first to last pages.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A fine non-math review of interpretations of quantum theory and space-time.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 27, 2019",
+            "id": "amzn1.account.AEK55PGCUURY5OSYXWUY5PIGCBYQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEK55PGCUURY5OSYXWUY5PIGCBYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I understand very little of the science, but I'm awed by the topic. I read everything I can that's relevant, and some that's not! This particular book practically insists on the validity of the many-worlds or multi-universe theory, even though many physicists disagree. He's very persuasive, and I, for one, hope he's right. If he is, my existence  and yours is open-ended! When you're talking about infinity, which he is, anything that's possible to happen, no matter how unlikely, DOES happen, and it happens an infinite number of times! That includes the atoms constituting you and me and the way they're arranged recur  repeatedly. Talk about \"eternal life\"! At least that's what I get out of it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Eternal life??\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 20, 2019",
+            "id": "amzn1.account.AH27KH3NROFZELDGY226QAGCGP3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH27KH3NROFZELDGY226QAGCGP3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    While I have other books by Dr Carroll that I've enjoyed, this one was less so. I can accept the Everettian theory of Many-Worlds I just found it tedious the length and repetition with which the author tried to explain the concept. In the first and last third it was fine and little tidbits about previous physicists' roles in Quantum Theory were welcome (and not repeated over and over). Still, many of the concepts are difficult to wrap your head around.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Too Verbose\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 1, 2019",
+            "id": "amzn1.account.AETMBNUH762YZ6KVSCHNFCAWAVTQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AETMBNUH762YZ6KVSCHNFCAWAVTQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Chapters 1-6 were very informative and an interesting discussion of QM.Chapter 7-10 were painfully fantastical. There is no evidence for multiple worlds. I may have missed the purpose of these chapters that seemed to require a religious mind set I don\u2019t have. If there is no proof then why waste hours reading such tedious exposition.  It left me feeling hollow, just like I felt after reading a book on String Theory.I don\u2019t know if I will finish the book. I think Sean Carroll is a genius.  His understanding and ability to make sense of difficult scientific ideas are unique.  His previous book -The Big Picture-was wonderful. This one is too far out for me.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Too far out for my intellect. Or just too far out.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 13, 2020",
+            "id": "amzn1.account.AGSSB34SWBL6JFVDKWHGNQ3GYXKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGSSB34SWBL6JFVDKWHGNQ3GYXKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Great book for someone familiar with physics concepts (or not), it's very course grained in its description of concepts but does nail down with reasonable effectiveness the idea it sets out to - We should take QM seriously, and by this, we mean explore the full implications of QM all the way down. The most general equations of QM don't specify why we 'see' the events 'we' do from all the possibility observations the equations say are possible. Indeed , the equations of QM keep being applied to both the results that 'we see' and to the other results we didn't 'see' but could have. If you keep doing the math on these worlds that are not observed, someone might say you are wasting your time. Sean and other Many World's folks say that these worlds actually do exist, the math and physics is chugging forward in them, and we are simple in the one that we measure ourselves in (with another person finding themselves in in the other resultant world).I think this book does a great job and trying to lay that out for the average reader and i strongly recommend.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great for a novice\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 27, 2019",
+            "id": "amzn1.account.AFRAHW4JNSGPKDEW4BJHFOKITTOA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFRAHW4JNSGPKDEW4BJHFOKITTOA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I think perhaps the author took a moderately interesting concept and turned it into a lengthy book with math and terminology that took it out of the realm of the average reader.  I won't pretend to know enough to determine whether his defense of the Many Worlds theory is valid or compelling, but it certainly became less and less interesting to me as the repetition of the basic theory became just plain tedious.  The philosophical approaches to the theory made no sense to me, or at least didn't seem particularly interesting because once the proposed branching occurred I simply couldn't see any valid connection between me, and the different me's proposed by the theory.  It seemed that in the end the only philosophical point made was that somewhere, in some other branch - you might have been different.  Yes, well, so what?  And that was basically my overall response to the book - yes, well, so what.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Probably not for the lay person or someone searching for meaning in the Many Worlds theory.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 20, 2019",
+            "id": "amzn1.account.AEZ5MI4O2PM56TLLRQPZ64SUYMSA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEZ5MI4O2PM56TLLRQPZ64SUYMSA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Bought the book because I love the podcast.  I think it\u2019s great that Sean takes the time and has the ability to explain quantum mechanics to the lay persons.  Although I can\u2019t do the math, I understand quantum mechanics more now than I ever thought was possible. I am puzzled with one major claim of his or the many worlds interpretation \u2026.I don\u2019t understand why the universe has to branch after a quantum measurement has happened and the particle has been entangled to the environment.In his book he talks about only 1 wave function, which is that of the universe and that a lone particle unentangled from the universe has it\u2019s own wave function.  Why can\u2019t that just be it?  No added many worlds. No branching. Unentangle particles have a separate wave function.  Particles that entangle with the environment has their wave function merged back with the one wave function of the universe.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Really enjoyed the book\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 6, 2019",
+            "id": "amzn1.account.AH5QP6YCGLY7NCUWTXTXL2CDBC2A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH5QP6YCGLY7NCUWTXTXL2CDBC2A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I love it and grasped maybe 50-25%.  It's not for those of us who are not used to incredibly abstract or intangible thinking.  Having said that, what I did digest without heartburn was fantastic.  The Many Worlds theory is compelling.  A very fine launch pad for mental excursions that could turn your grey matter into fizzy seltzer water.  What I understood - or could conceive of, I really loved.  I'll read it again, but it's not a page turner.  It's a brain eater.Within a chapter or two I felt like I'd taken a powerful hallucinogen.  \"Reality\" begins to dissolve under your feet.  You've been warned.  It's very humbling, therefore I loved it.  I recommend to all who think they know anything. .\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    If you're not big on extremely abstract concepts, get the Cliff Notes version\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 25, 2019",
+            "id": "amzn1.account.AFLQDNMDSW67USQPNN6MO4ARJS6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFLQDNMDSW67USQPNN6MO4ARJS6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have read and enjoyed most of Carroll's writings and viewed many of his video presentations. This work is his posture on Many Worlds. He presents the theory eloquently. I still cannot believe in the theory, it is just too strange. He reviews other attempts to find the reality beneath the quantum, such as pilot wave, random wave collapse etc. It is a good read. After reading this work I suggest reading Lee Smolin on \"Einstein's Unfinished Revolution, The Search for What Lies Beyond the Quantum\".\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Carroll on \"Many Worlds\"\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 1, 2019",
+            "id": "amzn1.account.AFJXNRYOAO27EXFE7DERHCX7QN3A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJXNRYOAO27EXFE7DERHCX7QN3A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Great book. Well written. Great defense of the Many Worlds theory. Am I convinced that MW is the way? No, but I'm less skeptical and more willing to say that I'm not sure. I'm definitely less likely to laugh about it. The author makes some compelling arguments about why we shouldn't immediately dismiss it just because we can't believe there are a zillion billion \"us'\" out there. I think anyone who is interested in learning more about why David Deutsch and others strongly support the MW theory should read it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Knew I would love it from the opening introduction\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 12, 2019",
+            "id": "amzn1.account.AHT454565GBLNSOALWXTQZLN7NPA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHT454565GBLNSOALWXTQZLN7NPA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Clear, easy to understand with excellent analogies.  It is biased towards the Many-Worlds Approach to QM, but the author explains why he thinks this is the interpretation that makes the most sense.  PLUS you get an excellent overview of Quantum Mechanics in general - i.e. without an \"interpretation\" for what it means for the real world.  Loved it.Can't wait for Carroll's next book and I wish I was young enough (and smart enough) to be able to have him as a professor.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Sean Carroll Needs to Write More and More and More!!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 1, 2019",
+            "id": "amzn1.account.AE5GCPQJKM4U57NKLTR5QA2MXB3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE5GCPQJKM4U57NKLTR5QA2MXB3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is a book you can easily follow if you are not a physicist and have an interest in quantum foundations. I have read many another attempts, but this one is the winner so far.I like books that make you think and wonder. Some books can defy your current knowledge in a compelling way. And when you finish reading you end up with two feelings: one of gratitude and one of wanting more from the author.I am looking forward to Sean Carroll\u2019s next book.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Most enjoyable and engaging\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 14, 2019",
+            "id": "amzn1.account.AHYTR6RTLXLXEKSHYYM6E4DEEP7Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHYTR6RTLXLXEKSHYYM6E4DEEP7Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    For those who follow Sean\u2019s quest to bring Many Worlds to the forefront it is exactly what you hoped for.  The perfect mix of science and philosophy that many of us seek.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Outstanding\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 18, 2019",
+            "id": "amzn1.account.AEHSJFSQ45RZSCKQQ5LRO7MYO54A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEHSJFSQ45RZSCKQQ5LRO7MYO54A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is not material that can be easily grasped by a broad audience.  I have a PhD in EE, I have a better than typical grasp of QM, and I struggled with this.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Not for everyone\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 21, 2019",
+            "id": "amzn1.account.AGIPDYTIMPXWHQBS53B7WQMO3VVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGIPDYTIMPXWHQBS53B7WQMO3VVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    An excellent introduction to the Many Worlds interpretation of quantum mechanics as an alternative to the wave function collapse version.  Very mind stretching, but Sean is very skilled at making this seem plausible to a non expert like me.  I am not aware of any other book that attempts this.  He discusses entanglement and decoherence and uses Many Worlds to resolve the Schrodinger\u2019s Cat paradox.  In addition, he covers the idea of spacetime emergence from QM and how this could lead to general relativity.  Very mind bendy and an topic he is working on in his day job at Caltech.  But the flavor of the idea comes through very nicely.  Another excellent book by one of the best explainers around!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Entangle this book with your reading list!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 4, 2019",
+            "id": "amzn1.account.AFEBHEU7JNGUZQAJTR4AGODQK46A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFEBHEU7JNGUZQAJTR4AGODQK46A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    As always, Sean Carroll is interesting and thought provoking. It is however very dense and at times hard to follow for the non-phycisist that I am, as he is not one to dumb it down. This being said, it is one of Carroll's books that I had the hardest time following.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Very interesting despite being hard to grasp\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 4, 2020",
+            "id": "amzn1.account.AEZOJAIV56KBFVKTCNA47BRV27AA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEZOJAIV56KBFVKTCNA47BRV27AA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Very helpful in gaining a better understanding of basic physics and the direction quantum physics is taking in defining our reality.  I am only one third of the way through the book so far.  And although I am very interested in physics for its influence in defining reality, I am a novice who does not understand mathematical formulas involved in physics.  But I am most interested in this scientific platform and its influential icons, such as Newton, Einstein, Schrodinger (and his dead but not dead cat)  And I'm looking forward to learning from this book about \"Parallel Universes.\"\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    This intreguing book is teaching me the undergirdings of the belief in \"Parallel Universes\"...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 27, 2019",
+            "id": "amzn1.account.AEDOIWXTYKDK45L2MCVXEG5QAW2Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEDOIWXTYKDK45L2MCVXEG5QAW2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This was my third book by Carroll and I have to admit I was a little disappointed. While he surely maintained his status as an extraordinary author, he seemed a little too much vested into one particular scientific theory.  He kept on piling up argument after argument as if a layman like me was going to challenge him. He sounded as if  he was talking to some opponent from the scientific community rather than an ordinary popular science book reader. I personally prefer his previous work where he was above any particular scientific discussion.  The part that really disliked was the fictional discussion between some aging scientist, a father, debating the many-world interpretation with his young, progressive scientist daughter. It was incredibly stereotypical and politically correct. It was disappointing to see Carroll enter that territory.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Not as good as some of Carroll's previous work\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 13, 2019",
+            "id": "amzn1.account.AE2NP66GNH3E2NO5WY2B6BXPI3YQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE2NP66GNH3E2NO5WY2B6BXPI3YQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The main theme of the book is that it is the task of physics to try to say what fundamentally exists and how it behaves and that Quantum mechanics as presented in physics text books (and in the minds of most physicists) fails to do that even though it is incredibly good as a tool for making predictions of the results of experiments. This point was made by Einstein and Schroedinger (two of the main inventors of QM) but ignored by most of the physics community with a few exceptions.  Carroll's book mostly sides with the views of one of those exceptions Everett's so called \"many worlds interpretation\". He shows  how it proposes to do the task of physics and answers some bad objections to it. He mentions  some good objections Involving understanding probability) that he thinks can be answered but this is much  more controversial. He also shows how the Everett account may hold promise for dealing with the problem of constructing a quantum theory of gravity. But this is even more controversial (there are a number of approaches) and because issues are highly technical and complex (he would need at least to write another book on general relativity) this discussion is sketchy and not as accessible as the rest of the book,\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Terrific Book! Clear and mostly accessible account of the problem of understanding QM\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 10, 2019",
+            "id": "amzn1.account.AFGEZCGTT32RGF6ERUX4VW4BK2UQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGEZCGTT32RGF6ERUX4VW4BK2UQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I'm not quantum physics expert but I wanted to understand the Many Worlds theory. Sean Carroll managed to explain complex concepts in a clear and entertaining way. Reality is not what it seems to be. I highly recommend this for all of you novice physics fans out there.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A Complex Subject Made Understandable\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 1, 2020",
+            "id": "amzn1.account.AEXVZ7H5DHCAMVJ7XFYIZBQY32UQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXVZ7H5DHCAMVJ7XFYIZBQY32UQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Sean Carroll does an outstanding job clearly describing the \u201cmany worlds theory\u201d. I am a big fan of Carroll, who has a writing (and speaking) style that is approachable and pragmatic, but isn\u2019t pandering. I\u2019m excited to see if a theory of gravitation can in fact be \u201cderived\u201d from entanglement. Looks promising!This book also inspired me to read The Emergent Multiverse  by Wallace - a much more challenging read, but equally rewarding in a different way.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great writer and brilliant physicist at the top of his game!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 14, 2019",
+            "id": "amzn1.account.AH4UMA27FABQ3AWVXPL3GDYFZ7AQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4UMA27FABQ3AWVXPL3GDYFZ7AQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Good explanations. Very readable. God comparisons of multiple quantum  theories and classical physics. Reasonable, understandable  explanations of multi -world approaches.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Stretches your concept of the quantum world\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 7, 2019",
+            "id": "amzn1.account.AGINKNCPMCRQSFXLJG7RXMM5CJFA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGINKNCPMCRQSFXLJG7RXMM5CJFA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This book is a great simple explanation of Quantum Mechanics. The author does the Audible narration (which is the only way to really hear and feel the intent of the writer.) With the immersive function of the kindle reader a clear knowledge of the writer can be heard. Interesting how when reading his own words in the manuscript the author is self editing his own work.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Using immersive is best way to enjoy this book\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 1, 2020",
+            "id": "amzn1.account.AHAFKQY7OIMKZ4JUCHPLAPTHHVKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHAFKQY7OIMKZ4JUCHPLAPTHHVKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    While although it can be a bit difficult to follow in some areas, this book does an excellent job in breaking down the concepts and theories surrounding quantum mechanics. Sean Carroll has a way of demystifying the subject that makes it way less intimidating. You don't need to be a theoretical physicist or mathematician to pick up what Sean Carroll is putting down.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Amazing book. 10/10 would question the nature of reality again.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 4, 2020",
+            "id": "amzn1.account.AF7J3FYFNX4HAYWZ7D7N6UR3246A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF7J3FYFNX4HAYWZ7D7N6UR3246A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Sean Carroll is an excellent teacher.  I\u2019ve always enjoyed his lectures, and now I\u2019m enjoying his book.  The book is as engaging as his lectures.  You don\u2019t have to be a physicist to understand his book, but you do have to be intelligent.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    I love everything Sean Carroll writes.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 9, 2019",
+            "id": "amzn1.account.AGYM5KE3LG5UY3VNED7BGHOX6T7A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGYM5KE3LG5UY3VNED7BGHOX6T7A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Excellent book describing a very abstract theory-and the history of quantum physics- in a way that can be understood by average joes or janes (be they spin up or spin down particles). Yet, I may understand the basics but know I have no clue about quantum physics as a whole. And that is ok, the basics were hard enough\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great read\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 19, 2019",
+            "id": "amzn1.account.AG3WRNSKDUCLAWPW4HM2TWGH7ESA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG3WRNSKDUCLAWPW4HM2TWGH7ESA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Author thinks he has all the answers but doesn't face all the questions. Ends up with philosophically demonstdrable impossibilities. Decent survey of history. Mathematics, use of transendentals, not fully explained or justified.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Simplistic\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 9, 2019",
+            "id": "amzn1.account.AEGBUGBVJE6YB3PMVQSOSHMHBOGA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGBUGBVJE6YB3PMVQSOSHMHBOGA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Clearly written explanation of Quantum Theory, General Relativity and the implications for reality. Carroll comes down in support of the many worlds interpretation but gives a clear explanation of the other interpretations. Becomes more technical as it goes on but remains well written throughout.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Fantastic exposition on Quantum Theory\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 22, 2019",
+            "id": "amzn1.account.AH35GNE4ITG5GVWK3BOYYWH4OOWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH35GNE4ITG5GVWK3BOYYWH4OOWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Helpful for a little better understanding of a difficult subject\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Recommended\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 22, 2019",
+            "id": "amzn1.account.AE6TNXFSVXI7C57L3OIYJ3WEM3ZQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6TNXFSVXI7C57L3OIYJ3WEM3ZQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Absolutely a must read. The fundamentals of Quantum Mechanics aren't easy, but this book has done an excellent job at making it accessible. It takes a curious mind to get through, but the payoff is worth it. I highly recommend supplementing the reading with a couple of Sean Carroll's related podcasts - Mindscape.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    The most accessible book on Quantum Mechanics to date\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 17, 2019",
+            "id": "amzn1.account.AHHD6GLOS3AI6GSUMOOGD7YSVNZA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHHD6GLOS3AI6GSUMOOGD7YSVNZA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    It\u2019s amazing that Sean Carroll can stand up and rail against religion and then sit down and write a book about an untestable and quite frankly ludicrous theory that demands a huge leap of faith. The new \u201creligion\u201d for atheists\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    \u201cReligion\u201d for the atheist\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 7, 2020",
+            "id": "amzn1.account.AFKVKROK4THMU4XL2O6VX3MWBMLA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFKVKROK4THMU4XL2O6VX3MWBMLA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Incredible breakdown on a topic that is inherently difficult to understand. Sean lays it out it out in the simplest way possible yet doesn\u2019t cut corners. Anyone with interest in the quantum world would enjoy this book. It is true that you may need to read a paragraph a couple of times to really wrap your head around it and that is not in any way a knock on the way it\u2019s written but just the overall nature of the subject. It\u2019s well worth the time and really an incredible read.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Must Own For Those Interested In The Quantum World\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 2, 2020",
+            "id": "amzn1.account.AHASGEAIAGTIICNDU6JP3LSWDJFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHASGEAIAGTIICNDU6JP3LSWDJFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have always been fascinated by quantum mechanics..since me early twenties..after reading IN SEARCH OF SCHRODINGER'S CAT. This book was an excellent continuation of the science to enhance on going research in this field. Well written, interesting and easy to understand, a joy to read.I even liked the design of the book's cover,nice art work.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great read and book cover.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 17, 2019",
+            "id": "amzn1.account.AE5SHC45GF7X45AEYBZCIUD3UY3Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE5SHC45GF7X45AEYBZCIUD3UY3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Accessible to the non-technical but presented with rigor, this book explores Caroll's perspectives on the interpretation of quantum theory in an exciting way. You walk away with your mind buzzing with possibilities and with the implications of this strangest of all areas of science, thinking about the questions that will echo down the centuries.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Insightful, fascinating, and informative\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 4, 2019",
+            "id": "amzn1.account.AGEP7SRP5RRZWVRM3E2LTENQPXWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGEP7SRP5RRZWVRM3E2LTENQPXWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Excellent explantion of a difficult subject for laymen like me.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Ideal for curious laymen\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 17, 2020",
+            "id": "amzn1.account.AF52NO4WOAEVTHUAFTTHFR6SI6QQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF52NO4WOAEVTHUAFTTHFR6SI6QQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Fascinating journey, way deeper than I've been before, and really quite understandable. Amazing.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Presents ideas so clearly\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 17, 2019",
+            "id": "amzn1.account.AGKHNRXEGHDE4UZ53VXJ6WM27ILQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKHNRXEGHDE4UZ53VXJ6WM27ILQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Now that was a trip! I don\u2019t think you can get the Nobel Price for educating and promoting important science. But if you could, Sean Carroll should definitely be nominated.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Now that wa\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 18, 2020",
+            "id": "amzn1.account.AHPMWXW7GW53DDLAF2Y47VIW6HDQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHPMWXW7GW53DDLAF2Y47VIW6HDQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Well written. Even if I have re-read a paragraph here and there to try and aborb what he is trying to say.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    I liked it.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 27, 2019",
+            "id": "amzn1.account.AGUYS7TFERK45SYSMJEPLLMSC72A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUYS7TFERK45SYSMJEPLLMSC72A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Awesome book, highly recommend it\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Quantum\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 29, 2019",
+            "id": "amzn1.account.AG44UFZTEL3QGLEL4U7LZ5622RTQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG44UFZTEL3QGLEL4U7LZ5622RTQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Thank you Mr. Carroll... Worth the read as there are some real nuggets in this gem of a book.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Thank you.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 18, 2019",
+            "id": "amzn1.account.AESZM2XXVFLJ754T3XZJMEBW2ZGQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AESZM2XXVFLJ754T3XZJMEBW2ZGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Mr. Carroll, can you answer this question?  Somewhere in your early books or talks you made the comment to the effect that \"nothing happens in a Hilbert space if there is no observer\".  Now in this book you are suggesting the universe is going thru decoherence and branching independent of a conscious observer.  Why?\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Maybe the best book on Many-Worlds\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 3, 2019",
+            "id": "amzn1.account.AGUW3JOZFINKQJ4JOHQ5NAM6EZEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUW3JOZFINKQJ4JOHQ5NAM6EZEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    INTERESTING...\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    INTERESTING...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 28, 2019",
+            "id": "amzn1.account.AG4XW73OWUN3N7ANRL2UPSCOHV3A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG4XW73OWUN3N7ANRL2UPSCOHV3A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Sean Carroll has outdone himself here.  The veil of ignorance concerning quantum mechanics is beginning to lift.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    This book explains quantum mechanics in clear, simple prose.  Thank you, Professor Carroll.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 4, 2020",
+            "id": "amzn1.account.AEI2J6WNTDPMVLS6QLA46C3CG7LQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEI2J6WNTDPMVLS6QLA46C3CG7LQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Stunning analysis.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Stunnong\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 16, 2020",
+            "id": "amzn1.account.AHMV7X5WZO6HCEDLCW6DBBGMVH6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHMV7X5WZO6HCEDLCW6DBBGMVH6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    It covers a topic which is quite complex, after reading this book I feel that I somewhat understand it. That's something (deeply hidden)!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Surprisingly understandable\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 31, 2019",
+            "id": "amzn1.account.AERZILYGOS5PRSVTHE2SOHD36OFA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AERZILYGOS5PRSVTHE2SOHD36OFA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This book clarified a lot of main steam muddle about quantum mechanics.  I liked the fairly even approach among hypotheses, and the warning when bias was creeping in.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Very satisfying\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 12, 2020",
+            "id": "amzn1.account.AEMPNZFTOLJSLLNUXTTXLA4NYWWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMPNZFTOLJSLLNUXTTXLA4NYWWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Excellent read.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Excellent read\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 15, 2019",
+            "id": "amzn1.account.AFOZVX2ZM5RVQDPF2LENYA5WM5RQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFOZVX2ZM5RVQDPF2LENYA5WM5RQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Good read.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great author\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 2, 2020",
+            "id": "amzn1.account.AGKRTNIAUSSS3DAYQ3QCZWUARBRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKRTNIAUSSS3DAYQ3QCZWUARBRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Very clearly written without the lay reader confronting the \"uncertainity\" of following equations. Most understandable quantum field treaties I've read.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    John Tuttle\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 3, 2020",
+            "id": "amzn1.account.AG4QY6UTSQ4VMLLD2P25LFGELQRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG4QY6UTSQ4VMLLD2P25LFGELQRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Great book with new ideas (to me) that blend with accepted orthodoxy to expand the quantum world view. Or not. Depends on which branch of the multiverse you observe. Definitely spin up for me.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It made me poop my brain a little\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 22, 2020",
+            "id": "amzn1.account.AGFB27C3GEYUEHEAAXFBL5CFXDMQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGFB27C3GEYUEHEAAXFBL5CFXDMQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Inside cover is damaged to the point that the book will not close all the way, pages are ripped and some of the text is unreadable.  Not sure how that was missed when packaging up to ship?\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Came damaged\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 5, 2020",
+            "id": "amzn1.account.AHSEVZNC346M4ERR645GJNMNOLLA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHSEVZNC346M4ERR645GJNMNOLLA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Perfect condition. Love the hardback. Very interesting read. Seems like the perfect temperature between physicist and layperson.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Looking for a bit of a mind-bender? You're looking at the right book.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 16, 2019",
+            "id": "amzn1.account.AECAF3GQ64C3VTFXBFFW37ATVNSQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AECAF3GQ64C3VTFXBFFW37ATVNSQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Art disguised as physics.  Well readable for non scientists too!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Important read\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 12, 2020",
+            "id": "amzn1.account.AH4BVUV4TVKBBE3GZ4KVROQTMHWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4BVUV4TVKBBE3GZ4KVROQTMHWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Wonderful.  @easy to read and very enlightened.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    very good\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 5, 2020",
+            "id": "amzn1.account.AERIGQK4NGXGWEG3PIV6FZHU6CAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AERIGQK4NGXGWEG3PIV6FZHU6CAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Carroll makes an overwhelmingly convincing case for the many worlds interpretation of quantum mechanics. A must read for anyone seeking to learn about the foundations of qm.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Excellent\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 25, 2020",
+            "id": "amzn1.account.AGAAQUJEMEQRM5NZBJTIREDQGUKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGAAQUJEMEQRM5NZBJTIREDQGUKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Easy read, well written and straight forward. Presents highly complex math in an understandable way. A good dive into philosophy and physics. Thanks Sean!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Would highly recommend!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 21, 2019",
+            "id": "amzn1.account.AHXHMXPTPHV7RZZBYN6NUZBHWUOQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHXHMXPTPHV7RZZBYN6NUZBHWUOQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Great book. Very well reasoned and conveyed. Anyone with any level of knowledge about quantum mechanics can pick up this book and enjoy it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great book for anyone with an interest in quantum mechanics.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 3, 2019",
+            "id": "amzn1.account.AGUXODUFBTP42JPWR2ZG2QFJ3VLA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUXODUFBTP42JPWR2ZG2QFJ3VLA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Hard to understand but it is helping me which part should i read more. Is there any books that explain the qm more easily\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It is not easy for lay people like me to fully understand the many worlds theory. But it is intriguing me to learn more about qm and doulble slit meaning. I wonder which should i read for nest one\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 10, 2020",
+            "id": "amzn1.account.AFUCXAQNP5ASVTKG6HLEMOSDJFXA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFUCXAQNP5ASVTKG6HLEMOSDJFXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Fantastic book that an average person can understand. Well written. Great read\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Fantastic enlightening read\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 4, 2019",
+            "id": "amzn1.account.AFEIJPCJUG3DYWLRWTJHSI2KIIAA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFEIJPCJUG3DYWLRWTJHSI2KIIAA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Just Read it Thats Why You'r Here\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Couldn\u2019t Put The Book Down\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 12, 2019",
+            "id": "amzn1.account.AE54FG7N3EPIP7DZCIGH7MXO7O6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE54FG7N3EPIP7DZCIGH7MXO7O6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The author is comparably easy to understand.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    An understandable discription of the many worlds explanation of quantum mechanics.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 28, 2019",
+            "id": "amzn1.account.AGHOZ5APROC6UYDXUS4T7NUIYYCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHOZ5APROC6UYDXUS4T7NUIYYCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Thought provoking and clear. One of Sean Carroll\u2019s best!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Read it if you like thinking\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 22, 2019",
+            "id": "amzn1.account.AHACAXCDALBUKUU4JP3VXFJCQ2JQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHACAXCDALBUKUU4JP3VXFJCQ2JQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    A far deeper book than 'Particle' but very enjoyable and fascinating.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Disentangling Entanglement\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 12, 2019",
+            "id": "amzn1.account.AFMZA7P5LGWRHBP4UC4FYZQKB5GA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFMZA7P5LGWRHBP4UC4FYZQKB5GA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Very captivating. Loved it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Worth the time.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 29, 2020",
+            "id": "amzn1.account.AEUM2QJIHOGIO3OUQ3FARKMNNETA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEUM2QJIHOGIO3OUQ3FARKMNNETA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    For personal interest.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Know a bit about physics.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 5, 2020",
+            "id": "amzn1.account.AFO4Q3H7MXV4PGNRXR5FO4IQTD5A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFO4Q3H7MXV4PGNRXR5FO4IQTD5A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Good book. Very interesting.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Good book\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 27, 2019",
+            "id": "amzn1.account.AHK7F2XT6U3NVG63MTLVDL5FQ63A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHK7F2XT6U3NVG63MTLVDL5FQ63A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Good book\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Good book\n  \n"
+        }
+    ]
+}

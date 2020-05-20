@@ -70,6 +70,7 @@ def aspectExtraction(input):
     for aspect in aspectList:
             if(aspectList.count(aspect)>5):
                     if(outputDict.keys()!=aspect):
+                        if(len(aspect)>5):
                             outputDict[aspect]=aspectList.count(aspect)
     outputAspect=sorted(outputDict.items(), key=lambda x: x[1],reverse = True)
     print(outputAspect)

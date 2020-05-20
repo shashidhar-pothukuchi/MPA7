@@ -2,7 +2,7 @@ var reviewsCrawler = require('amazon-reviews-crawler')
 var fs = require('fs')
 let rev = []
 let itr = process.argv[2].slice(0,process.argv[2].indexOf('.'));
-let id = process.argv[2].slice(process.argv[2].indexOf('.')+1)
+let id = process.argv[2].slice(process.argv[2].indexOf('.')+1);
 console.log(id+' '+itr);
 reviewsCrawler(id, {
     page: 'https://www.amazon.com/product-reviews/{{asin}}/?pageNumber='+itr,

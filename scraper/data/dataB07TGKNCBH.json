@@ -1,0 +1,814 @@
+{
+    "reviews": [
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 24, 2017",
+            "id": "amzn1.account.AF4D4E7L674PJJ5VSOZGTDX5V5WQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF4D4E7L674PJJ5VSOZGTDX5V5WQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Solid, well-designed quality product.I'm running Windows 7 Pro 64-bit -- on all of my seven computers in the house -- and this is about as plug-and-play easy as it gets.Literally: (1) open plastic enclosure (2) insert 3.5\" hard drive (3) slide cover back on (4) plug the AC power adapter into the enclosure (5) connect the USB cable from the enclosure to your computer (6) press the power button on the enclosure to \"on\" (i.e. \"on\" is when the button is depressed; \"off\" is when the button sticks out a little bit). When you're connected to a computer that is on, and the hard drive enclosure power is on, the blue LED light will light up after a few seconds.Windows 7 will automatically find and install the necessary drivers for both the enclosure, and the drive (we're talking maybe 10-20 seconds here). Probably best to be connected to the Internet, just in case Windows needs to find a driver.(If you're using WinDoze 10, I will say a prayer for you -- but the enclosure works for all versions of Windows, from XP to Windows 10).If you are simply moving an existing hard drive -- one that is already in use and has information on it -- to the hard drive enclosure, that's it. You're done.NOW LISTEN CAREFULLY! If you are using a NEW hard drive, you still need to initialize the drive in order for your computer (i.e. Windows) to recognize and use the NEW drive. This applies to whenever a NEW drive is connected to a computer, and has nothing to do with the enclosure!SO, I don't want to read any \"the enclosure sucked, the drive was defective, etc.\" comments due to you not initializing your NEW hard drive. Capisce?Also remember, USB connected hard drives are NOT intended for booting your Windows computer from (if it would even let you try). So, do not install, or attempt to install, your OS onto a drive in an external USB enclosure!I bought six of these, and have already put three into service -- flawlessly.Primarily, I needed an inexpensive way to remove full-to-the-max hard drives from my computers, and still be able to access them when needed. This enclosure does this perfectly! Plus the extra bonus of now being able to connect the drives archived in the external enclosure, via USB, to any other USB equipped computer.A word about Windows XP...Windows XP will only recognize hard drives up to 2 TB in size. If you try using a hard drive larger than 2 TB with Windows XP, it won't be able to see the entire drive. The work-a-round with XP, with drives larger than 2 TB, is to partition the hard drive into multiple volumes of 2 TB or less.DO NOT try to partition a hard drive that already has files on it! You will most likely lose data, and be very, very sorry.As a rule, partitioning a hard drive is something you do with a NEW drive -- and you know why you're doing it!If you don't know why you want or need to partition a hard drive into multiple volumes, then DON'T do it.For most people, you want to create what Windows refers to as a \"Simple Volume\" (i.e. the entire hard drive is one single volume), when you initialize and format a NEW hard drive.When you initialize and format a NEW hard drive, you will be asked to choose between MBT (Master Boot Record) or GPT (Globally Unique Identifier Partition Table) when you setup the drive.Basically, if your hard drive is 2 TB or less, you should choose MBT. If your hard drive is larger than 2 TB, you should choose GPT.I have been using 1 TB, 2 TB and 4 TB hard drives in this enclosure effortlessly and with no issues whatsoever.Personally, I wouldn't put drives larger than 4 TB in an external, sealed enclosure of this type (i.e. potential heat issues on thicker multiple-platter drives), although larger drives should still work.FWIW, I have even been using one of my enclosures as a means to format new hard drives before installing them into computers. This way, I have my new drive ready-to-go before I remove an existing drive from a computer, and just pop it in to replace the drive I'm removing. Then, the drive I just removed gets transferred to one of these great hard drive enclosures and, just like that, I have an instant archive :)FYI, I'm using these enclosures as a way to archive 4 TB hard drives that I have filled full-to-the-max, so that I can fill-up even more hard drives.I'm working with a lot of video files, and this allows me to easily access files on drives that I have archived to the external enclosure.Finally, heat is just not an issue with this enclosure.My 4 TB Western Digital 5400-RPM drives idle at about 85 degrees Fahrenheit (7200-RPM drives might run a bit warmer) in this enclosure.Even when I perform a complete format, lasting 10-12 hours, the drives never go higher than 100 degrees Fahrenheit -- which is well within the safe temperature zone for hard drives.TIP: If you're using this enclosure for archiving hard drives (e.g. you don't need to access the drive all the time), then just leave it off. You don't have to leave hard drives running unless you're going to be accessing them. And, a drive that's not running generates no heat at all :)Great product at an affordable price.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    About as Plug-and-Play Easy as it Gets\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 3, 2018",
+            "id": "amzn1.account.AHWUFN5UWV4VRPJUYTV6MQF6WEKQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHWUFN5UWV4VRPJUYTV6MQF6WEKQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Was needed on short-notice and picked for the price, but didn't expect it to be THIS cheaply built. The back cover is held on only by two clips and the tracks on the side...it can come off if you handle the device at all. Also, there's NOTHING to hold the disk in besides the cover and the SATA connector. Some form of clips on the sides or opposite end would be useful for this. As it stands, you definitely do not want to turn it upright with the cover off (disk will fall out or possibly hang by/break off the connector). With the cover on, the drive lays on the cover when the unit is upright. I'll probably end up putting a few rubber bands around it to secure the cover a bit better.On the plus side, it works and they included two little foam pieces to help with noise. Assembly is self-explanatory. It's fine for a user who just needs a spot for an extra disk, but if you need something that's remotely durable, look elsewhere.A tools-required version of this with screws for the cover and to retain the drive would likely be a decent product...\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Meh, have definitely used better ones\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 19, 2018",
+            "id": "amzn1.account.AEFFWVEZPNKBCUO5FGZNBOBIKTXA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEFFWVEZPNKBCUO5FGZNBOBIKTXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Should have tested it sooner.  Changed hard drive to SSD few months ago, wanted to used old hard drive for backup.  Bought this thinking that it would work.  It doesn't.  This is a piece of crap.  It is very cheaply made.  The power button feels like it will fall off.  Build quality feels like it came out of a gumball machine.  Hooked it up and the enclosure cycles on and off.  It won't even stay on long enough for the computer to recognize the drive.  Should have stuck with my Antec hard drive enclosure that is larger, but has worked flawlessly for the past 5 years.  Next time I will remember NOT to buy the Amazon brand.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    More Landfill - this is a piece of crap\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 7, 2018",
+            "id": "amzn1.account.AGDKIEZDYTFY2MQ6IMGRXJU4GFJQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGDKIEZDYTFY2MQ6IMGRXJU4GFJQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is the second of these enclosures I ordered and returned to Amazon.....both for the same reason...they wouldn't even power up right out of the box.  I'm asking for credit now and will look for another enclosure.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Two in a row that failed for the same reason...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 3, 2018",
+            "id": "amzn1.account.AFLMVJ5JVMBTXRASJIGM23SNHQ6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFLMVJ5JVMBTXRASJIGM23SNHQ6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Listen up guys, I've never even seen the inside of a computer until my electronic porn storage device from 2007 decided to explode. I pulled the HD out after busting the old machine open and ordered this baby.  They sent instructions with it which I immediately burned, preferring to try and handle the problem myself. With little to no effort, I managed to plug this thing into my new PC and pull off all my old and extremely important files with literally no training.  If your device blows up and you need to pull out the old hard drive, you should strongly consider this to save your very, very valuable belongs.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Legally computer impaired and I managed to use this thing\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 20, 2017",
+            "id": "amzn1.account.AFJSBAD4CLHGLC2O4NCJV2G5EPCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJSBAD4CLHGLC2O4NCJV2G5EPCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Being used to my all-metal external hard drive, this enclosure is a touch flimsier than I had expected, but that's the difference between being used to metal.  It's good enough to protect the drive.It's a basic enclosure for a 3.5\" SATA hard drive--essentially a \"no-tool\" solution:  just open the case, slide in the drive and close the case.  Done.Once I plugged into my computer (MBAir) it launched DiskUtility since it couldn't recognize the drive, but it was a new drive that needed to be formatted.  Formatting took less than thirty seconds and the drive booted up as a volume on my system.It comes with some foam padding to act as a buffer I suppose when the enclosure is on it's side, but given how the drive itself slides into the SATA connection, I just lay it flat on my table.  Comes with the power cable and USB 3.0 connection cable.Only thing I don't like is how the connections are where the power button is located.  Just seems odd to me but in no way is it a deal breaker.  For the price and ease of use, it was worth the purchase.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    EZ to setup and install\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 27, 2018",
+            "id": "amzn1.account.AHYMY5HBGNATQTEHNTQKNMPCX5ZA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHYMY5HBGNATQTEHNTQKNMPCX5ZA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this to replace an enclosure I was using for my Time Machine backup on my 27\" 5K iMac (2015).I've had a (large) number of enclosures over the years, so I'm generally used to their behaviors.  This one was weird.  It would spin up (loudly) at odd times, even though there was no Time Machine backup happening.And after I installed it I started to notice that my iMac would get slow and seem to \"hang\" at the oddest times.  Apps that normally start right up would take 30 seconds to launch, or tabs in Safari would partially load and take a minute or more to complete.  Sometimes Safari would just stop loading (but it hadn't \"stopped responding\" according to Activity Monitor) and I would have to quit it and relaunch to get the page to load.I kept thinking this couldn't be related behavior, but yesterday I figured I'd try switching back to the enclosure I had replaced (because it had a fan that was making noise).  Lo & behold, all of the problems went away!  Immediately!  And they haven't come back.I tried a similar enclosure from Orico (3.5\", tool-less installation) on my dock for my MacBook to allow me to use a 2Tb desktop drive I had sitting around, and had similarly odd behaviors from it, especially when trying to eject it so I could take my MacBook on the road.  I wonder if these very similar enclosures share similar electronics that have some bugs that need to be worked out...Regardless, I'm not using this enclosure any more.  Maybe it works well on a Windows or Linux system, but I can't recommend it for Mac.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    There's something wrong with this enclosure...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 5, 2018",
+            "id": "amzn1.account.AG6KERVWBAMSOA42XTS77MFJKTEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG6KERVWBAMSOA42XTS77MFJKTEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Design:This enclosure is very easy to use, and the tool-less design makes it very easy to change different hard drives---almost like a docking station. The only strange part is that: the design seems to be up-side-down. The most reasonable placement of this enclosure should be lid-on-top, but the text printed on this enclosure suggests lid-on-bottom, very strange. The plastic material is okay, though I really prefer a metal enclosure.Quality:Pro:1. Support high capacity drives very well. Tested with a 6TB hard drive, no problem. Don't know what's the maximum capacity of this enclosure.2. Data transfer rate is very high. It seems to be limited by HDD's own speed, at least 200MB/s. Don't know the maximum speed of this enclosure.3. Perfect S.M.A.R.T. data and other metadata pass-through.4. Work on both Windows and Mac, no driver needed.Con:I suspect that the USB 3.0 cable that comes with this enclosure is bad. The cable is very short and thin. Most importantly, the enclosure keeps getting disconnected and reconnected on Windows, especially when there is a heavy workload. It is almost unusable. It is much better on mac though, and I can transfer 50-100Gs of data without encountering a disconnection in most cases. But it can still get disconnected once a while. The problem was eventually solved (both on mac and windows) after I replaced the USB 3.0 cable coming with this enclosure with a different one from another enclosure.I once considered to return this product due to the disconnecting issue, and I actually purchased another enclosure for this reason. But after I found that the problem was from the USB cable. I decided to keep this enclosure, since I love its tool-less design (I also kept the new enclosure to host my most frequently used hard drive). I hope my experience may help people who also suffer from disconnection issues on this product.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Good design, but with disconnection issue (seems low quality USB cable)\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 8, 2018",
+            "id": "amzn1.account.AH6TZK3ILF7I6WYWQSWRX2YD2YNA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH6TZK3ILF7I6WYWQSWRX2YD2YNA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    What a POS!  Works fine on pc but when setting up for Xbox one x you can tell it sucks donkey D.  Randomly sees the 2 tb data 3.5 inch drive in system.  Followed Microsoft.com setup instructions for more than one Ext hd setup for Xbox one x.  Failed , would see drive then just error out.  Bought Best Buy 3.5 inch data housing. Threw in data drive and bam installed everything I needed.  The post that says it works must be lucky people because it works with a 1 tb sata as an Ext backup on all my PCs but fights with the Xbox one x.  Don\u2019t be fool wrap your tool and just by a housing from a retail store.  The few that got it to work.  Book a flight to Vegas with them.  Hah\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Post are lies.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 5, 2018",
+            "id": "amzn1.account.AHFWI7SOUFCKZTVANQZPOH7RNJUQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHFWI7SOUFCKZTVANQZPOH7RNJUQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    It says it doesn't need drivers and yet Windows 7 keeps trying (and failing!) to install a driver for it. It was recognised all of once for about 30 seconds before disappearing from being accessed--it doesn't show up in any menus, no longer shows up in the removable devices menu in the taskbar...it acknowledges when I unplug it and replug it by making a sound notification, but I cannot for the life of me get ANY of my computers to recognise it. Seeing as I know the hard drive itself works, it's gotta be the enclosure, so I ordered another one from a different brand and will give that a go. It's not even worth trying to return.This is the first AmazonBasics product I've gotten that just outright sucked. I'm surprised. But I guess you get what you pay for. All I want to do is get some data off a hard drive from an old computer before I trash it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Would be nicer if it worked\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 26, 2018",
+            "id": "amzn1.account.AFXPTYRG3EYDOTYMWC4LKOVIVA2A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFXPTYRG3EYDOTYMWC4LKOVIVA2A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Great little device. This review is the for 2.5 inches size which is average laptop hard drive size. You just put the hard drive inside, plug it up to another computer and in a few seconds you can open up the folders on the hard drive for viewing/uploading/whatever you need to do with them. The charging port on my old laptop finally fried and it was not worth fixing since the machine was really old so I removed the hard drive and slipped it into this little guy right here and it's good to go. You may have to remove the mounting bracket from your hard drive first to get it to fit, but once you do that it should slide in with no trouble.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great little device\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 15, 2018",
+            "id": "amzn1.account.AGTHFCWEPHP33P6SEV53D3DL7XRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGTHFCWEPHP33P6SEV53D3DL7XRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    These enclosures work well and I believe give you all you can get out of your HDD. It has a blinking blue light which is nice to have to know that it's on and being used, has a simple usb 3.0 hookup and compes with the AC/DC adapter. Pretty much plug and play.The problem is that these enclosures don't have any rubber feet, so their likely to slide off your desk. Their edges are angled so you can't easily stack these on their sides and they are really large. Granted, 3.5\" drives are large but these things seem excesive.Amazon really cut every corner as possible to make these things cheap but at what cost. The cover slides on/off pretty easily where two screws in my opinion would have been better, and rather than using the standard drive side mounts, they rely on a piece of foam to hold the drive in place.The AC/DC adapter is also a joke in that the plug is 90 degrees wrong and takes up 3 spots on your surge protect. Not a big deal if you get 1 ft extension cords but still a nuisance.Buy this if you need the cheapest way to get access to your HDD I guess, but I'd look elsewhere if you want a longer term solution to building a media server or something.P.S. I bough two and used the cardboard box it shipped in two hold two together. Works well in that I can now hold it on it's side but still pretty dissapointed here.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Its cheap and works, but its pretty plain...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 24, 2019",
+            "id": "amzn1.account.AEUAXVAUWJFDX44V2Q3OZFFYDZWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEUAXVAUWJFDX44V2Q3OZFFYDZWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Its performs flawlessly. you turn it on it mounts in Windows 10 and dismounts with a touch of the power switch. There is an integrated brush metal surface and some foam inserts. The cover is frustrating until you learn to grasp it at the very end and gently tug. Off it comes. With repeated cycles it comes off easier over time of use. Still sturdy.Test:2TB Seagate FireCuda (New SSHD Gaming and then there was...), 2TB WD Black Edition and Red Edition hard drives 2/4TB  units 7 years or so old and still rocking. Some Kingston and Samsung SSD'sTASK: Sector by sector security wiping duration for each, 6-10 hours per 2TB (HD) 100 percent load activity average., the SSD's not so much, in fact a way shorter time span. Note to self: retire all hard drive and replace with high density SSD storage...done.SSD'S no thermal issues.The hard drives: Thermal issues but not waffle griddle hot.Conclusion: pull the cover off and place a fan on the assembly.No test subjects were permanently harmed during the evaluation.Great buy.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Best used as an open caddy-performance hardrives get warm in here\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 6, 2018",
+            "id": "amzn1.account.AG27LUNZAFNF5BNUPB5FNHJMOV2A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG27LUNZAFNF5BNUPB5FNHJMOV2A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Works well. Placed a 2TB WD Green hard drive into the enclosure. Benchmarked speeds up to 155 MBps sequential via USB 3.0.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works well. Placed a 2TB WD Green hard drive ...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 17, 2018",
+            "id": "amzn1.account.AFLGPQCU2NKJOZGJOPECAEHZODYA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFLGPQCU2NKJOZGJOPECAEHZODYA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I was hesitant to buy at first and my instinct to get something else proved to be correct. The enclosure was dead on arrival. I tried multiple hard drives and multiple power outlets but I could not get it to power on. Also the enclosure felt cheaply made and didn't have any kind of feet to prevent it from sliding around. I would not buy again even if it did work. I do love how easy Amazon makes it to return things though. 5 stars for customer service\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DOA\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 28, 2018",
+            "id": "amzn1.account.AE6L2AQWYSHFZVADIYTRT26TBVDQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6L2AQWYSHFZVADIYTRT26TBVDQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The enclosure seems to work fine.  I've used it several times with no problem.  There were 2 issues with it that should have been mentioned in the documentation.First, to open the sliding cover, you need to press down slightly where it mates against the rest of the box.  Small fingers lock under that edge and you have to release them by pressing down.  Once you do that it slides easily.  If you don't press down, it's almost impossible to open.The second issue is that it will not power up without the USB cable attached to it and the computer.  Given that the enclosure has wall power, that seems odd.  I put a drive in it, plugged in the wall power and pressed the button.  Nothing happened.  I ended up spending some time trying different power plugs, etc. because it behaved as if it wasn't getting any power.  Finally decided I had a dead enclosure.  For some reason I then tried it with the USB cable attached and it powered up ok.  Seems odd that it needed the USB cable for power but it did.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Good Basic Enclosure\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 28, 2019",
+            "id": "amzn1.account.AGPCZSLOZPX244LLCM7CSB4UZEEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGPCZSLOZPX244LLCM7CSB4UZEEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Old Desktops had small, (compared to today's standard 1TB) bulky 3.5\" HDD\u2019s that ran on slow SATA I, II, or worse connections. While plugged into their housing, their transfer speed was acceptable, but getting data outside the housing required working through the old computer, usually through a USB 2.0 port or an Ethernet set up. Moving multiple hundreds of GB's in this manner take hours to days, and usually fails. This device saves that time. Not only because it\u2019s transfer speed likely matches or outpaces older HDD\u2019s, because why bother transferring it at that point? The speed is sufficient to stream HD video directly from the drive without moving it to you newer device, and it\u2019s already organized the same way you had it on the old one. For the price of this device you don\u2019t have to wait for the transfer at all, thanks to the speed, it allows you to use it indefinitely as an external HDD without the old drawbacks of data rate.Pro:-Relatively cheap.-Included spacers for cushioning/ accounting for manufacture variations- USB 3.0 Speed matches or exceeds older drives, and would be acceptable on any newer mass storage device short of a network server.- A usable amount of chord to place this permanently if wanted, but no excessive that makes it a pain to move.-The power button! It\u2019s nice to be able to plug this into a network USB port and use it as an actual network drive, but turn it off without need to unplug it. Safe way to disconnect from it.Cons:-Cheaper than desired plastic. The thickness is fine, but the finish is meh. Mat finish without texture wins over textured any day. Hides scratches, too. This doesn't setract from value, but does aethieetically make this look and feel cheap.Personal Gripes:None really. Work very well and I saved my first ever desktop, a 2005 Dell XPS 400, with much more ease. As I was cleaning, the drive out I realized\u2026 I didn\u2019t need to. Just keep it. Done.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Best way to salvage an old desktop\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 12, 2020",
+            "id": "amzn1.account.AEQUUJ7X7OMZXRUTN6VTBSLACGFA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEQUUJ7X7OMZXRUTN6VTBSLACGFA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought seven different enclosures[1], and ran a 20-minute benchmark using the same SATA-3 HDD inside each enclosure, on the same Ryzen 3 laptop with USB \"3.0\" port (officially 3.1 rev 1), running Linux Lite (with no other activity happening on the laptop). They all had virtually the same performance. For the money, the Amazon Basic is the clear winner. I've read reviews saying it's built poorly. But, it seemed as sturdy as any other to me. (Be sure to put the foam pad inside so the drive doesn't rattle around).The Startech was the only one that performed differently. It had the fastest large-file sequential write speed. (It was substantially better in that one test). But, the Startech's large-file sequential read (and random, small reads and writes) were not as good as the other enclosures. Excluding Startech, the rest performed virtually the same. Very small differences). So, why pay more? IMO, the only one that might justify paying more is the Vantec (because it's steel & vented. But, none of my 20-minute benchmark tests caused any enclosure to feel hot.).[1] Amazon Basic - ASIN: B01N5RLG2CStartech (no housing) - USB3S2SAT3CBUgreen - 30848Sabrient - EC-UASPVentec NexStar 6G - NST-266S3-BKSIIG - JU-SA0T12-S1Ventec NexStar 3.1 - NST-270A31-BK\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works as well as any of the other 3.0/Sata3 enclosures\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 15, 2019",
+            "id": "amzn1.account.AEI3RRTH7WM2V25OY54EAKPPZ2SA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEI3RRTH7WM2V25OY54EAKPPZ2SA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have had this enclosure for several months now.  The design is really bad.  There seemed to be no way to securely attach the disk drive to the enclosure.  It simply slides into  the connector slot.  There are no side screws to anchor the drive to anything.  The only thing that holds the drive in place from what I can see, is the enclosure cover that slides into place and loosely fits into slots on the rest of the case.  This design means there is no air space around the HDD, so it gets very hot during use.  Also on occasion the part of case cover that slides into place will come loose and the drive will also, enough that it disconnects.  Many times my computer will not recognize the drive until I fiddle with the case and its on/off switch.  Just a VERY bad design.  Don't waste your money.  There are better cases available.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Don't buy\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 11, 2018",
+            "id": "amzn1.account.AH3MINDZZRMKMGFGSX2QFSS2ZP4A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH3MINDZZRMKMGFGSX2QFSS2ZP4A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I got this enclosure so I could put an external HDD on my Xbox One for video capture purposes. When it *would* stay powered on for more than a minute, I got tons of read errors. The Xbox didn't even recognize the file system as NTFS and recommended I format the drive (It was already formatted and had data stored on it.) I disconnected the drive from the Xbox in order to check it on my PC and my Windows 10 device didn't even see that I'd plugged anything into the USB slot at all. I wish I'd checked the 1-star reviews here first because apparently this is a known issue, but that still doesn't change the fact that this enclosure powers on and off whenever it feels like it, rendering it completely useless at best and a serious risk to data integrity at worst. I'm filing for a refund.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DOA junk\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 7, 2019",
+            "id": "amzn1.account.AHTV4YBF7FGRG222HGXY2ZXGAHZQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHTV4YBF7FGRG222HGXY2ZXGAHZQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I am disappointed Amazon is selling this case, I have been pleased with other Amazon Basics items and expected better when I ordered this. The case does not have an adequate positive closure. The drive socket does not have a means to hold the drive in place so the drive can disengage if the case is moved at all. The controls and cords are all on the same side which means they are all on the back, the only activity light I can see is the blue light leaking from around the loose fitting case. There are no bump-ons (feet) so the case slides around. It is simply too Basic to add value as a drive enclosure. It is little more than a wiring harness with a plastic box.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Too basic to be functional\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 27, 2018",
+            "id": "amzn1.account.AEQFZV7QHPGVO6DD3PG5Z2UDWZXQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEQFZV7QHPGVO6DD3PG5Z2UDWZXQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    What can I say...  I did exactly what it was supposed to do. I am not tech savy at all. I got on youtube to figure out how remove my hard drive from my laptop which is where I even got the idea about the SATA Hard Drive Enclosure in the first place.  Anyway I followed the instruction on the hard drive enclosure to save my files and much to my surprise it worked like a charm (the first time).  I copied everything from the hard drive.  In my case it was about 39gb.  Fortunately purchased a 64gb flash drive to save everything on and while it took a full day to save the information it was worth it.  Most people are not trying to save everything and the kitchen sink, but I was.  Depending on what you're trying to save it may only take a few minutes to a few hours and much less external memory to save your data on.  Regardless I am very satisfied with the purchase.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    How much data you are saving.  How much external memory such as a flash drive or another computer.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 6, 2019",
+            "id": "amzn1.account.AEMCY74QT5YYIBNTWIVFWNY5HISQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMCY74QT5YYIBNTWIVFWNY5HISQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Product was DOA out of the box.  I put the same drive into a similar enclusure by Olugable and it worked fine.  Tried again in this enclosure.  Wiggled it, powered it on and off, removed and replaced hardrive, and nothing.  Not even a power light.This is not my first experience with a DOA Amazon Basics product.  The other was long ago; I think it was a simple 4-connector USB 2.0 hub, and I don't think I wrote a review.My experience with Amazon Basics products has been disappointing.  I am sure some of their products work fine, but they need better quality control.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    DOA\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 28, 2019",
+            "id": "amzn1.account.AEOBBK2UZI2426YPHITOJGNFWFJQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEOBBK2UZI2426YPHITOJGNFWFJQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The quality of the enclosure is on par with what you would expect from AmazonBasics products; basic but functional. However, there is a huge flaw that cannot be overlooked: you have to install the drive upside down. This means that when the enclosure is in the correct orientation, the drive is upside down.While it shouldn't hurt a disk drive to be run upside down, the concern is the lack of support for the drive while it's inside the enclosure. Since the drive is upside down, there's a lot of weight and pressure being exerted on the SATA header. This could lead to damage to either the drive, the enclosure, or both; SATA headers are known for being fragile. The foam pads that were included with the enclosure are not sufficient.The only way around this issue is to use the enclosure upside down. This isn't a huge problem by itself, but it's counter-intuitive and not something most people are likely to do.Aside from the issue mentioned already, the only other complaint is the fact that they decided to use a USB 3.0 Type B instead of a USB 3.0 *MICRO* Type B. The former of the two is somewhat uncommon, while the latter is backwards compatible with the extremely common USB 2.0 \"micro USB\" connection. If you lose or damage the cable that comes with the enclosure, you might have a hard time finding a replacement.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    One Major Flaw\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 26, 2018",
+            "id": "amzn1.account.AF7HJLFM2MIP6HPGUFFQFRPITXDQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF7HJLFM2MIP6HPGUFFQFRPITXDQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I got tired of waiting for Gigabit ethernet to synchronize systems so I decided to try sneaker-netting them via a 3.5\" hard drive and USB 3.0.  I am able to xfer about 100 GBytes per hour with this on USB3.0.  Much better than what I have been doing for backups.  The enclosure has a type B USB 3.0 socket.  I've used 'standard' (blue) USB 3.0 type A and type C ports with no problems.  I agree with comments that this is to use in the office - it is not hardened for portability.  But carrying it from room to room works well.  Immediately worked on any of several Windows 10 systems.  Good purchase - I'll probably buy several more.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    If you do backups over your intranet, this is much faster.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 25, 2019",
+            "id": "amzn1.account.AFBGJQ67T2JNM3VFWYGCLEDT76YQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFBGJQ67T2JNM3VFWYGCLEDT76YQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This is five stars more for me realizing how important it is to back up your data, but in any event I'm still thrilled with this purchase. I had a couple of older hard drives around the house, all 3.5 inch SATA's, so I picked up this enclosure just to get all the data off of them and be able to have some extra storage handy if needed. Having an extra external drive will be helpful, but what's been really great has been having the chance to back up years of photos we hadn't gotten around to. It's been quite a walk down memory lane all thanks to this enclosure. Good times.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Simple set up w/huge ROI\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 10, 2019",
+            "id": "amzn1.account.AHPJHWUFX7DFIVS5B3XNEK7JLSAQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHPJHWUFX7DFIVS5B3XNEK7JLSAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Well, 99% of the time I'm happy as can be with AmazonBasics stuff. I rarely have problems with it. However this was that 1% of the time when something went wrong, but Amazon was still cool about it and handled the return.Basically, it arrived without a power button (mainly just a cosmetic thing, which I may have asked for getting it as a good-condition warehouse item) and my HDD wouldn't work once installed in this enclosure. I was moving from another enclosure that has been frustrating me because it has a habit of going to sleep all the time, and while the previous enclosure shows that my HDD is fine, this one just did... nothing. The PC saw the enclosure, but didn't see a hard drive in it. I tried checking cables, reseating the drive, and changing USB ports. Nothing. The drive would spin up, but then pass no data to the PC.So unfortunately, this was a rare AmazonBasics miss for me. Sometimes they get hardware from suppliers that don't meet their normally high standards, and I think this may be one of those cases. I hope Amazon considers a new supplier for this item, because most of their stuff has high standards. For now, though, I'm happy with their handling of the return and will seek another hard drive enclosure for a little more money.Two stars for the hardware itself. Another star added for Amazon's policies making it easy to deal with the hardware not living up to expectations.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Sadly, dead on arrival.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 20, 2019",
+            "id": "amzn1.account.AFV6L23Z2LZDVTS4LJ6LSSKBBUFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFV6L23Z2LZDVTS4LJ6LSSKBBUFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I had a hard drive start to fail recently in one of my PC's.  Unfortunately, this machine is rigged for only one HD.  So, once I installed a new drive/OS/data, I had no way to look at what was left on the old drive to make sure everything was copied.  It's not going to be a permanent installation, so didn't care if it was 'cheap', just that it worked at least once.  This was perfect.Packaging is the standard Amazon Basics arrangement.  Very easy to open.  The enclosure is right on top, with power and USB cable below.  The top of the case slides off.  Plug in the hard drive, close the case, hook up the cables, and you're up and running.  My computer recognized the drive right way.One thing to be aware of - there are no air holes, and the enclosure doesn't have a lot of space for air.  Not sure how much heat a hard drive generates when running all the time.  But, that might be something to consider, if you were planning to use this as a permanently attached drive.As for me, I verified the data was copied, and since the drive is damaged - it's heading out to pasture.  But, I will keep the enclosure to use the next time.  In fact, will probably buy a cheap drive in the interim for an additional data backup and just keep it in the safe.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    5 minutes from opening box to looking at my data\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 5, 2019",
+            "id": "amzn1.account.AF5LBZF3I5FVQWY6LXMMZDM5QQ2Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF5LBZF3I5FVQWY6LXMMZDM5QQ2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Well, the enclosure is plug and play, and it works. Haven't had any issues with it. The only thing I didn't realize is, is that it wasn't compatible with SSDs, so when I tried to use one it didn't work, but that's my fault for not reading all the way and isn't a huge drawback for me. Drives are easy to install and remove from the enclosure. The top is easy to remove and replace. I would have liked the activity light to be on top of the enclosure, but not a big deal. There are some foam pieces included to reduce vibration. Air flow is zero if the case is closed, but can be left open if you are not worried about any kind of interference with the drive. So if you are gonna leave the drive on for extended periods of time, I would recommend letting it breathe some and taking the top of the enclosure off here and there. But, this is definitely a good buy and would recommend it for external storage. Oh, and I use it primarily for my XB1 external storage, so it does work for those that are wondering.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It works well\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 3, 2019",
+            "id": "amzn1.account.AGGMZEWASXU7FO73LMRIESC3YULQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGMZEWASXU7FO73LMRIESC3YULQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this unit because it was the least expensive, and my old external hard drive croaked. I used my old one for Wii U games and I already have a Sabrent USB 3.0 to SATA External Hard Drive Enclosure (which I highly recommend), so I took apart my old external and found that the drive was fine, but rather the USB controller died. So I figured I would try this Amazon Basics enclosure this time around, it was a few dollars cheaper.First and foremost, it did not work with the Wii U at all. The unit has an LED that turns on when connected to the system and blinks for access. This is NOT a power LED, as it only turns on when whatever it is plugged into recognizes it (for example, my home computer). It work fine on my PC, but if I left it idle, the LED would turn off and it seemed to go to sleep. This meant it would need to wake up to work again on my PC which made it seem rather slow. The Wii U would have the LED eventually come on after power up, but then it would turn off. This is the only USB storage device I have ever used that will not recognize with the Wii U.On top of my technical issue, the casing of the enclosure is very thin and does not lock in place very well. The cords are extremely short, which may or may not be inconvenient to you. On Windows, it was easy to use, but noticeably slower than my Sabrent USB 3.0 to SATA External Hard Drive Enclosure. If you absolutely can't afford a few more dollars, this will work in a pinch for basic needs, like accessing a hard drive of a dead machine. But if you can afford a few more dollars, I recommend the Sabrent USB 3.0 to SATA External Hard Drive instead. It works with game systems too, like the PS4, PS3, Wii U and XBOX One.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Cheap Enclosure, Maybe too Cheap!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 10, 2019",
+            "id": "amzn1.account.AGFJWRDF4HJYAQTWXLTGO43LZCBQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGFJWRDF4HJYAQTWXLTGO43LZCBQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought a full size 3.5\" 4TB Western Digital hard drive for my new PC, which I built to be virtually silent. The drive made a \"click\" sound every 15 or 20 seconds, so I decided to replace it with another SSD drive and put it in a case. This one was reasonably priced and had the same features as virtually every other case, so I made the purchase so I could still use the 4TB as a periodic backup of my system. The case works as expected and I was able to transfer data back to the new SSD successfully. The only complaint I would have is that other cases that I've purchased for 2.5\" drives always offered a little space to place even thin pieces of foam around the drive to reduce shock. This case did include a couple of pieces of foam, but I'm assuming it was in case you had a thinner drive. If you have a full size, full thickness drive like mine, there is zero room for any foam, which makes for a snug fit, but leaves no extra room for any type of foam or padding.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Needs a bit more room to get 5 stars\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 1, 2019",
+            "id": "amzn1.account.AHPQ7KJVGTRHD5IXHYTPGHNN2FZQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHPQ7KJVGTRHD5IXHYTPGHNN2FZQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I had a sabrent hard drive enclosure of a similar style, but after a year or so it crapped out so I sought for a replacement, and ordered one of these. First one was DOA but they sent a replacement as soon as I reported it and it arrived the next day. The enclosure is made of cheap plastic and the 12v jack is not a standard size, so i'm forced to use the bulky international adapter that the unit comes with. Build quality is not this units strongsuit, but it will be kept in a foam lined case so i'm not worried about /mine/ breaking, one solid drop and I fear the unit would shatter.The unit itself is easy enough to operate, just slide in the hard drive, apply the right sized foam pad to the top cover, and then slide the cover into place. The drive fits snugly when fully assembled and the top cover has a block at the end to prevent the drve from sliding out of place.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works good enough\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 7, 2019",
+            "id": "amzn1.account.AHEWIDAPZMH6YDAMBYBGYP2BCCTQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHEWIDAPZMH6YDAMBYBGYP2BCCTQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've owned this enclosure for several months. Here's what I've observed.This enclosure would often freeze or even completely disconnect, especially when transferring large amounts of data at once. If I tried to write too much too the drive, it would generally cut out after a minute or two and then disconnect from my computer, along with the blue light on the enclosure turning off (like power went out, despite being plugged in with the button pushed in).Video content on the hard drive would occasionally freeze or even sometimes drop the audio for some reason.This would work in a pinch, but I would never recommend anyone buy this model until Amazon fixes the power reliablilty issues I've been facing. This enclosure was never 'good'. but unfortunately I was unable to return it due to holding up hopes that there was another issue I could resolve (such as the HDD being seated more tightly or a weight on the enclosure to hold it more firmly) I missed the 30 day window.Don't be like me. Just keep looking!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Unreliable Enclosure Randomly Freezes or Drops\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 1, 2018",
+            "id": "amzn1.account.AHZK63AAUXAKGE4PXORK6OC35MRQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZK63AAUXAKGE4PXORK6OC35MRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The most difficulty I had was salvaging a 3TB HDD from a wonky Toshiba External drive system that does not use screws on the enclosure (you open it once, and never again)... HDD slid right in, added the included foam cushion pad to stabilize the drive inside the enclosure, closed the case, connected the included USB 3.0 cable and the power adapter and it has been up and running since.I like the on-off power button.  I have this connected to my Linksys EA9200 router and it is my network media server, which does not see a lot of action.Would be perfect if it included some rubber feet/pads so it does not slide around.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Can't be any simpler\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 9, 2018",
+            "id": "amzn1.account.AEW6S6ZGWEXX45GQKVKUAKHP2TWQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEW6S6ZGWEXX45GQKVKUAKHP2TWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've got two 2TB drives - one WD Caviar Green and one Seagate. Both drives work in my old USB 2.0 enclosure, but only the WD Caviar works in this enclosure. The Seagate spins up, is recognized by the computer momentarily, and then spins down, repeat forever. No idea what the difference is.Construction feels pretty cheap and as others have mentioned, the USB cable is super short. These things wouldn't have bothered me too much if it had worked with my drive.Amazon customer service took care of me and sent another after this happened with the first one...but the second one had the same problem. Definitely getting a refund.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Doesn't work with all drives apparently\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 16, 2020",
+            "id": "amzn1.account.AGFAPBCH4WOJJ5HCXBWX63UYEP4A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGFAPBCH4WOJJ5HCXBWX63UYEP4A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    While it worked, it worked well -- but it failed after only 18 months of infrequent use. I bought it in mid-OCT'18 and one day in mid-APR'20 it just didn't work any more, using different SSDs and different USB ports (3.0 and 2.0) on different computers (desktops and laptops). I used it exclusively with SSDs of various sizes from different manufacturers for backups, cloning, temporary file transfer storage, etc.  I would have expected it to last longer than that.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Failed after 18 months\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 20, 2019",
+            "id": "amzn1.account.AEYYSVIDQDQTX32KD636WDBHIMEQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEYYSVIDQDQTX32KD636WDBHIMEQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The drive was easy to install in this enclosure, the usb-micro end of the cable was a tight fit into the case's socket ... there isn't much difference between getting it started and jamming it ... had to be gentle until I knew it would slot home.This enclosure uses a Via chip / chipset and seems to function entirely without gremlins.the system recognized it immediately, and backup -- waiting in the wings -- took off and ran smoothly.  No impacts to other bits of my system or other systems on my desk.  Just works.Backup was waiting because I'd started with an inateck enclosure which stepped badly on my wifi; my system showed unknown CPU use and HDD activity with that enclosure plugged in.  details can be found in my review of that enclosure.  no evidence of unexpected activity or interference with wifi or anything else.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Seamless with intel NUC7, Ubuntu Linux 18.04\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 14, 2019",
+            "id": "amzn1.account.AE55V2JVGJMRU4AHYCKOIZORTDEQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE55V2JVGJMRU4AHYCKOIZORTDEQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This thing has drove me crazy trying to make it work. I have tried 2 different HDD's. Both 3.5\" 1 is a 2TB 1 is a 1TB. Both drives do the same thing. After installed, if I go to disk manager it shows there as no partitions and auto prompt to initialize andnifni try to I get error \"device not ready\". I can't format it assign drive letters, nothing. It shows up 0mb drive.In the CMD window using diskpart it will show up there and show as online. But it has no partitions or volume so can't format or anything there.Using AOMEI disk partition software, it shows there as last drive. It will let you click clean but you can't format or create partitions or volume or initialize it. There you get error \"there is a program preventing it\" yet no programs are running.I removed the HDD from enclosure and put it in my desktop and connected a SATA cable and power. Go to disk manager and prompts to initialize like before but works fine. I create a partition and assign it a letter. Now the drive shows up under this PC with my other drives. I wrote some files to it and deleted them to test and works fine. Removed the HDD and put back in enclosure now that I am 100% certain it is formated and working properly and guess what? Won't show up and disk manager says \"DEVICE NOT READY\" and will not work. This thing is a piece of trash and wasted 2 days of my life.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Windows won't see any drive through this that I have tried. So frustrating!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 12, 2019",
+            "id": "amzn1.account.AHF6KDISAJU3YMXIHVGT2J73Z44Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHF6KDISAJU3YMXIHVGT2J73Z44Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Trying to use 2 of these in an office environment with 1 tb drives (western digital and seagate).  They are not recognized by 7 different computers (some windows 7pro, some windows 10pro). Tech support person had such a deep accent I had no clue what he/she was saying.  No help there.When I went into my device manager to see if I can refresh drivers, or manually add it, it kept refreshing itself to the point that I could never get past the first window.Yes, my 7 internal hard drives themselves are good.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    NO-go!  Doesn't work on any of my 7 computers.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 26, 2019",
+            "id": "amzn1.account.AGORXLJTP33DETHUMFQDJA47MLYA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGORXLJTP33DETHUMFQDJA47MLYA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    My MacBook managed to fry my LaCie Rugged External HD. I needed the data fast and figured it probably fried the USB bus and not the drive. This was the perfect low risk (low priced) Hail Mary to save my data. I took the HD out of the LaCie and popped it right into this case. It fit perfectly and booted right up. It obviously isn't as Rugged as the LaCie Rugged HD but this case is solid, I've had zero issues with it over the past year of use. If I had anothe HD that needed a case, I'd certainly buy this again\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Grear basic case, really all you need.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 7, 2018",
+            "id": "amzn1.account.AFIUKDDKNPDKGSUQ4WZQDOPEN2TQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFIUKDDKNPDKGSUQ4WZQDOPEN2TQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Initially the unit was DOA  Light came on for a few seconds, then stopped  I wanted to move my 1Tb drive to a backup status, and replace it with a solid state device. DId some checking - The power supply was producing 12v DC,  I ordered another USB cable, to no effect once I hooked it up.BUT -- I left everything plugged in and restarted my computer. VOILA -- now it works. The instructions indicate all you have to do ie to plug it in -- well not on my Windows 10 machine. So try hooking everything up and then restarting the PC.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Nice Unit -- But it Took a bit to get working\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 31, 2018",
+            "id": "amzn1.account.AFM4SFVIJLS2SKRGUX4WFWZVV2NQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFM4SFVIJLS2SKRGUX4WFWZVV2NQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The enclosure works fine. The 12V power supply that came with it does not. It had a removable faceplate that was supposed to lock to the transformer, it did not. It also didn't make contact. I ended up splicing another 12V power supply that I own to the connector of the transformer supplied because I needed this to work RIGHT NOW. Hopefully I can find a transformer that fits out of the box to not have this very jury-rigged solution.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    The enclosure works fine. The 12V power supply that came with it ...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 26, 2018",
+            "id": "amzn1.account.AFRXL4L3KCR5AIBB6QI3VSE7XHDA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFRXL4L3KCR5AIBB6QI3VSE7XHDA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought this item from Amazon in July 2018. After it arrived I misplaced it and found it again a few days ago. When I went to use it I saw that the cable that came with it was a Type A Male - Mini B Male USB 2 cable, not a USB 3 cable. I installed a Samsung EVO 860 SSD in it and it works but at USB 2 speeds.UPDATE: I called Customer Service and she sent me a new, proper USB 3 enclosure shipped overnight, so I got it yesterday. The quality of the replacement was much better, it opened without screws and the SSD drive slipped right in and worked fine. Thank you Amazon.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Check the enclosure closely. Mine was USB 2 - should be USB 3\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 24, 2018",
+            "id": "amzn1.account.AGF2SXLH6IAQFYDKOF2DS7DSLSSQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGF2SXLH6IAQFYDKOF2DS7DSLSSQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Ok.. it IS cheaply made... if you want to move it around constantly I'd spend some more $ and get a better constructed one.  IF its just going to sit and be used as an external backup...  its perfect.  The Data cord is CHEAP... thin, flimsy and SHORT.  (24in)  so take that into account.  If you're backing up a desktop its gong to have to sit ON TOP of the case to reach the usb port.  I popped in the backup HD and my computer read it as soon as I powered up the unit.. so no problems there...  Its my emergency backup .... needed it once.. saved my butt.  (I use Acronis btw)  SO.. don't expect the moon..  but for less than $20 its fine.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works and its less than $20\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 17, 2019",
+            "id": "amzn1.account.AEAL7ZW3HRALDOYZJ6C5OTDDQS6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEAL7ZW3HRALDOYZJ6C5OTDDQS6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    There isn't much that can be said as it's an external hard drive case.  I use them for backing up my system and recommend to my customers to have one.  If a hard drive crashes you are dead without another drive, and since it has its own power switch, if you'd end up with a virus that destroys the hard drive in the computer you have a way to get the system back.  Backing up to the same hard drive is useless if the virus corrupts your main drive.  OH another plus is that a virus can't turn on a manually switched device :)\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It's an external case\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 5, 2018",
+            "id": "amzn1.account.AGPE3RIET6GO6PYT2AWJJ5E2NF6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGPE3RIET6GO6PYT2AWJJ5E2NF6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Does what it is meant to do.  There were no issues connecting a drive or recognizing my 4tb drive when I used it.  That said, the design could use a little tweaking.  When it is face up, your hdd is actually face down and there is a gap between the drive and the enclosure so you can hear it moving around a little if you flip it right side-up.  I've seen hdd enclosures with a better design but, unfortunately, not without major issues like not being able to handle larger drives (cough, Sabrent, cough, cough!).  So, if you're looking for a cheap hdd enclosure that works, this is it.  Go for it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works great\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 12, 2018",
+            "id": "amzn1.account.AEPPAAFH3YZD3GM4JSXTRJ6NJ67A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEPPAAFH3YZD3GM4JSXTRJ6NJ67A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    After only about 4-5 uses the power botton fell out and disappeared somewhere, it also intermittently decides not to read the disk or identify itself with my computer. I usually have great luck with Amazon Basics, but this one needs work.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Not impressed\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 21, 2019",
+            "id": "amzn1.account.AFJU75JAOKTGTPKUSZ3CP7SZRTIQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJU75JAOKTGTPKUSZ3CP7SZRTIQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n    Por bastante tiempo mi esposa se estuvo quejando de su computador anterior (un macbook pro). Un dia dejo de funcionar, empezaron a salir unas lineas achuradas en la pantalla y nunca mas cargo al menu de inicio, tenia todos sus documentos, fotos, videos, etc alli, no queriamos pagar mas de 600 dolares para que lo arreglaran, asi que decidi comprar este producto.La verdad.. funciona excelente, no es la mayor maravilla en cuanto a material, y como esta construido, pero hace su trabajo excelente, ella recupero toda su informacion y lo bueno es que funciona para windows como para mac.VIVA CHILE CONCHETUMARE !!!\n  \n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n    Hace su Trabajo\n  \n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 26, 2019",
+            "id": "amzn1.account.AHHFVL64D3CGTNXS3AHDJVIZEWCA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHHFVL64D3CGTNXS3AHDJVIZEWCA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    For the price I guess I can't really complain, but it would be nice if the case itself secured better.It comes with two electrostatic sponges and different thicknesses to accommodate thicker HDDs and thinner SSDs, but they're not very long/wide so if not put in the right spot the drive may rattle in the case.  Not a problem with SSDs as far as physical damage is concerned, but may be an issue with HDDs.The case also splits into two parts, then slides and locks into place with a tab on the inside (think batter cover), but the case is made with a cheaper plastic, so pressure may cause the case to slide open; exposing the drive.  I would have liked to see the parts be secured with small screws instead.Aside from build materials, and physical shortcomings, the device works well.  I would definitely buy more, but only if pairing it with a SSD.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works well; cheap build quality\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 15, 2020",
+            "id": "amzn1.account.AFTODNFWHCJ2YKLO2CS2OPPT5IFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFTODNFWHCJ2YKLO2CS2OPPT5IFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    When I tried to use my Seagate Barracuda hard drive in the enclosure my computers did not detect a hard drive.  They did detect the Amazon hard drive enclosure, but not the hard drive.  I am not very strong and I was unable to take the enclosure apart to see if there was something wrong with how I had put my hard drive in the enclosure. I eventually found this information in the questions and answers \"Turn over the enclosure [back], with thumbs on the larger part of the enclosure press forward to open.\"  I followed the instructions and I was finally able to get the enclosure open. I saw my hard drive was not properly connected, so I connected it properly. I was then able to get my computers to detect the drive.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    How I got it to work when hard drive not detected\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 23, 2019",
+            "id": "amzn1.account.AGINNXCUISLKGJE3JKHYDLLKBNVA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGINNXCUISLKGJE3JKHYDLLKBNVA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Simple to install and use. Cheaply made and has very little in anti-vibration.With my toshiba x300 4TB 7200rpm drive, the sequential read and write were comparable to where they would be using sata.  However, the 4k read/writes were a little less than half of where they should be, .6MBs-.7MBs vs 1.2MBs-1.38MBs.  Copying a grand theft auto v folder to another directory on the drive was around 50MB/s.  Using an internal sata connection it is 90-112MB/s.Transferring files from my nvme to the enclosure and vise versa doesnt show a negative impact in performance.  So if i want to make a copy of files on the enclosure for modding purposes, its quicker to back up to my nvme than to copy to another directory on the enclosure.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    cheap, speed takes a negative hit in some uses\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 15, 2019",
+            "id": "amzn1.account.AGZUL3235N7RRBHXSESURU2GDYYA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGZUL3235N7RRBHXSESURU2GDYYA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Was looking to re-purpose old SATA hard drives I had sitting around since my Xbox One memory was full. Used a regular 3.5 HD. Easy to install, once you have the enclosure open, 1. slide the HD in place, 3.5 or 2.5 works.  2. Make sure you use the appropriate foam piece it came with. Small piece is used for 2.5 and large for 3.5. It is used to fill the space between the top of the hd and the case. I left mine with the sticky tape on in-case i need to use the enclosure for something else.  3. Plug power and USB in to whatever device you need to use it on.  4. (optional) My Xbox required a new reformat but if its an old HD then you shouldnt need it.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works with Xbox ONE.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 6, 2019",
+            "id": "amzn1.account.AFKEHSHH7TNUBQEW3GC33KM2HZ7Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFKEHSHH7TNUBQEW3GC33KM2HZ7Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    My only concern is that there's nothing except a couple friction joints holding drives in. For my situation, it's fine. The drive will sit on a shelf for most of it's life, and rarely move. If this were actually frequently thrown in a laptop bag and moved around, I think it would fall appart at an inopportune time, and allow the drive to fall and hit the floor.  I'd really like to see either a better way to secure the drives, or a better way to secure the lid (so the drive then can't move). I think a screw would work great in either case.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    fast, easy to assemble... but...\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 1, 2019",
+            "id": "amzn1.account.AGR7CKNKEKU7ETSJMLMY7FFXBJNQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGR7CKNKEKU7ETSJMLMY7FFXBJNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I installed an existing & formatted HDD in this enclosure in less than 5 minutes.  No screws, no cables, 3 steps and I was ready to plug it into my computer USB3 port.Despite the rather limited instructions (which need a magnifying glass to read parts of), I didn't have to do any setup on my computer.  Drive was immediately recognized and assigned a drive letter, ready for use.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Amazing Price, amazing easy to set up and use.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 3, 2018",
+            "id": "amzn1.account.AGJWM775XGUZVCDWFYCX2S3HEDYQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGJWM775XGUZVCDWFYCX2S3HEDYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    After years of heavy use, I found my laptop hard drive was damaged and needed to be replaced. I was no longer able to boot an os from it, but I suspected the disk would still work long enough for me to retrieve my files from it. I replaced the laptop drive and installed the old drive into this casing and was able to copy most of my data over without issue. It was incredibly easy to use, and though some competitor's products do not come with a usb 3.0 cable, this one does. It's small enough to be portable and was a much better solution than paying someone else to recover my stuff.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Worked like a charm!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 1, 2019",
+            "id": "amzn1.account.AG544OFDAZULKAETUX22KFGDZN3A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG544OFDAZULKAETUX22KFGDZN3A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought these so I could use a couple laptop HDs I had.  They worked perfectly out of the box, and I used them for a whole day backing up data.  No glitches no problems.They are made a little cheap, (they are after all.... cheap) but they work.  Don't beat them up and they should do what they are suppose to for a long time. I use them for backups.Overall, these things are a great deal, even if you have to buy a new cheap HD for $50 it still beats the cost of USB thumb drives for cheap storage.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It works very well\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 15, 2019",
+            "id": "amzn1.account.AHTP7AHAPYBSUVKSEARAHPVIAVKA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHTP7AHAPYBSUVKSEARAHPVIAVKA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've started associating \"Amazon Basics\" with Apple quality, cost-effective products but this is not up to that standard. Unlike every external, removable hard drive enclosure in my experience where the disk loads from the top, this design loads from the bottom. In other words, the lid is on the bottom so if you want to remove the disk you must lift up the enclosure and turn it right side up. In addition the LED activity light is on the rear but some may find that preferable. Pass on this and look at a Ugreen, Inateck, Sabrent, or other higher quality device.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Upside down design\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 23, 2019",
+            "id": "amzn1.account.AFFBPH5AAFQE47BYPGVSMRDII3IA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFBPH5AAFQE47BYPGVSMRDII3IA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've been using a Newer Voyager Q for a few years, and the damn socket fell into the case and bent on the pcb board.  Since then, it just hasn't worked the same.  This one from Amazon - it works very well and it's easier to use.  Just plug it in and it connects!  Fast USB 3, and reliable for both bare HDD and SSD.  Just remember that there is no fan, so using old HDD 3.5\" drives will heat up.  I recommend just using it for backups or SSD because of this.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Just Works\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 26, 2018",
+            "id": "amzn1.account.AFPARH3CAINAM4D64X35ET4MWKBA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFPARH3CAINAM4D64X35ET4MWKBA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    It's a cheap and simple SATA to USB 3.0 case for your 2.5\" notebook hard drives. I used mine with a SSD and it runs perfectly.You have to put the hard drive in at an angle and the connector isn't \"floating\" so I don't know how I'd feel about removing and inserting a drive too many times. If you intend to do it once or twice that's probably fine.The case is plastic and only the top face is metal. I was hoping the whole thing was metal for aesthetic reasons, but oh well. The blue power LED isn't terribly piercing or bright so it isn't irritating.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It's cheap, it works, no problems!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 15, 2019",
+            "id": "amzn1.account.AHZGSLYNAVMYTKSYOVBTCTDFTWPQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZGSLYNAVMYTKSYOVBTCTDFTWPQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I was (rather stupidly, might I add) trying to access my 3.5 in. drive with a SATA to USB adapter until I realized the adapter couldn't possibly provide enough power... I then went on Amazon and found this cheap enclosure and hey presto, I now have an external drive.It powers up, I can access the drive and everything seems to be in working order. I have not done speed tests but I doubt it really matters since the drive is a 7200 RPM anyway.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Let's Me Access Hard Drive\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 8, 2018",
+            "id": "amzn1.account.AFGBAGXBEODHJGPI7XRBF2BRHULA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGBAGXBEODHJGPI7XRBF2BRHULA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I ordered a different case. It had a nice aluminum body, but the connector broke as soon as I attempted to load my hard drive. Night and day difference with this one. Loaded simply and worked as advertised. Other reviewers have questioned the durability of this case. It seems to me as long as you don't throw it down a flight of stairs, you'll be alright. Hard drives are, by nature, fragile. If you keep that in mind, this case will work. I could not be more satisfied.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Can't Be Simpler\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 22, 2019",
+            "id": "amzn1.account.AH67PXSGISDANPDA24Z4G2WC4D6Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH67PXSGISDANPDA24Z4G2WC4D6Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I purchased this to house a backup drive that is used infrequently. The enclosure worked great for months until one day it just wouldn\u2019t power up. The power adapter has been tested working and alternate power supplies have been tested with the enclosure.This enclosure lived its whole life sitting unmoved on a desk with rather light usage. I could probably count the number of times it was used. It\u2019s an inexpensive product and if it\u2019d lead a hard life I could understand, but given the ultra light-duty life this unit had I\u2019m rather disappointed in the return on investment. Don\u2019t think I\u2019ll be repeating this purchase.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Disappointing Durability\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 3, 2018",
+            "id": "amzn1.account.AFICGLG6WS5FCLAEJJW6F5TQYKEQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFICGLG6WS5FCLAEJJW6F5TQYKEQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I needed to connect my older PC's drive with all my data to a new PC. The new PC's power supply does not have enough juice to power the old SATA drive inside it.  This product is simply styled and economically priced. Arrived reasonably fast and VERY well packaged. Very easy and strait forward to connect. I'm very satisfied and would recommend it to anyone.  I would have preferred a smaller grayish 'amazon basics' logo but it could be blacked out with a sharpie if it were an issue. All cables (2) go in the back with the on/off button and the drive's activity blue (read/write) LED. It is logical that the drive's activity led be at the back where all the electronics are encased, but I was a little disappointed because one usually expects to have visual confirmation the drive is reading or writing (lead blinking), but it is in the back and you don't see it directly and it is blue (I would have expected it to be red or amber). This is really not an issue, just thought you should be warned. All in all it is an excellent product.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    strait and simple\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 23, 2019",
+            "id": "amzn1.account.AEMN4LS4NLI2YQYDTAVVDMOHLCCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMN4LS4NLI2YQYDTAVVDMOHLCCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Follow very simple instructions and you will have an external hard drive set up in seconds. I bought this enclosure to utilize an old 1TB 3.5\" WD Blue drive for a Wii U. Drive was previously used in my gaming pc for game storage.Instructions:Take off the lid.Insert dive in the SATA port.Replace cover.Plug external drive in system of choice.Format if necessary.Super simple.My only small complaint is that there is no pre-installed or added \"feet\" to keep the enclosure from sliding all over. Overall, a very good enclosure. I recommend !\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Basically plug and play\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on December 30, 2018",
+            "id": "amzn1.account.AFTPIPZNXK27WU5ERM7S7BFA2HIA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFTPIPZNXK27WU5ERM7S7BFA2HIA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Installation was very easy. The on/off button came out and I just stuck it back on.This enclosure is great if you are installing a hard drive to use as backups every now and then.I doubt it will last if you continually use it as an external drive because it gets too hot.Has no heat dissipation since its made of plastic and it is 100% sealed, no vents.I backup all my important data from the desktop pc and then shown unplug and save away.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Gets too hot.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 3, 2018",
+            "id": "amzn1.account.AFGB5KJ55YCPSH2V7RQ27JB4KO4A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGB5KJ55YCPSH2V7RQ27JB4KO4A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought five of these as I upgraded my older laptop with three 2.5\" ssds (two internal and an optical bay caddy), and I had two other 2.5\" drives laying around.These are very nice enclosures, especially for the price. It takes less than 15 seconds to go from opening the box to plugged in to your PC. The plastic is quite thick and rigid as well. The small included foam pads make it a breeze to use with either thickness 2.5\" drives.Overall, this is another solid product in the AmazonBasics line.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    AmazonBasics is a good choice every time\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 20, 2018",
+            "id": "amzn1.account.AF6W25NJ2IE4EQ3L5L5JZVQ7BMGA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF6W25NJ2IE4EQ3L5L5JZVQ7BMGA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I recently replaced my late 2011 Macbook Pro with one of the new 2018 models. Sad to see the ol' Pro go, but it had to be done. A few years ago, I swapped the 2011 Macbook's HD with a Sandisk Ultra II SSD (960 gigs). With the old Macbook now heading to the recycling bin, I figured that it would be best to turn the internal SSD into an external one. Much to my dismay, upon trying to insert the Sandisk into the Amazon Basics enclosure, I realized that the dimensions were slightly off, making it impossible to connect the SSD to the enclosure. Drat! Further research has shown that Inateck's enclosures are compatible with Sandisk's Ultra series of SSD. If you have a Sandisk Ultra SSD, you might have better luck with Inateck.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Sandisk Ultra II Does Not Fit! Try Inateck's Enclosures, Instead.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 25, 2018",
+            "id": "amzn1.account.AG22V77YFRGMFAHPT2PBGDLWOCCQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AG22V77YFRGMFAHPT2PBGDLWOCCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I purchased this item to resurrect a hard drive from a PC with a dead mother board.  Worked fine the first time I installed it and copied the contents of the drive.  I did notice the power connector was loose at the case housing. The USB cable was intermittent so I replaced the one supplied with a spare that I have from another portable device.When I later chose to connect the device with a different drive, the power connector broke free from the circuit board with almost no effort. This device is designed to be portable and any connector should not fail after one use.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Failed upon second use.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 23, 2018",
+            "id": "amzn1.account.AEAK5H3VYQZCBJTFQMJAX2CGURXA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEAK5H3VYQZCBJTFQMJAX2CGURXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I bought two of these drive enclosures.  Neither one would initiate any drive over 1tb.  I tried three 2-terrabyte drives and neither enclosure would initiate the drives.  Nothing wrong the drives which were Seagate and Western Digital drives.  Drives 1tb or less worked fine.  I've asked for a refund.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    These don't seem to be able to initialize drives over 1tb.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 2, 2018",
+            "id": "amzn1.account.AHD5WVJO6A3UMAN3YDLBSTBDZ3TQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHD5WVJO6A3UMAN3YDLBSTBDZ3TQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I had an extra 2.5\" laptop drive lying around that I wanted to put to use. I've purchased a variety of drive enclosures before, but this one from Amazon Basics is very easy to use. It assembles easily and my computer recognized the drive the instant I plugged it it. The USB 3.0 speeds are great! Considering how inexpensive this enclosure it, it sure is of high quality. I would definitely recommend getting this for your 2.5\" drive.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great external HD enclosure!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 18, 2020",
+            "id": "amzn1.account.AFN2FX4ANELKUJVYLRV4QA2BFSVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFN2FX4ANELKUJVYLRV4QA2BFSVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This was a lot lighter than I expected with the case being completely plastic and having no mounting screws for the drive. The drive is held in place by friction from adhesive pads that you applied to the inner case that and hold HD in place. It still seems to be very sturdy and locks together solidly. I put a 2tb drive inside to use as a full system backup and that worked great.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Lighter than expected but still seems solid\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on October 17, 2019",
+            "id": "amzn1.account.AH2QUEH4PSIKSDWHQQVWWQZLIATQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2QUEH4PSIKSDWHQQVWWQZLIATQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Had a spare 2TB HDD that I wanted to use with my Xbox One. Bought this, had it up and running in no time. Case slide off, used the thinner foam piece on the slide off part to help hold the HDD. Plugged it into my computer and clear off some old data. Plugged into my Xbox One and it recognized it right away. Named, formatted, and now I have an extra 1.86TB of storage for games!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works with Xbox One!\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 1, 2019",
+            "id": "amzn1.account.AFYGA6K5H2XTWIKOJ3R2B6EQFXSA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFYGA6K5H2XTWIKOJ3R2B6EQFXSA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I needed an enclosure for a spare 3 TB 3.5\" hard disk to use as a Time Machine backup, and arrived here. It is basically the same as the Orico unit but without branding.The drive is easy to install and the unit comes with a power supply and appropriate cables. The hard drive inside sits on rubber dimples; no screws involved. This cuts down on vibration noise, so it is silent. Transfer rates are great.The power supply is the standard L-shape that is likely going to occupy two outlet on a regular extension cord.My only complaint is the material and build quality: it is not great. Cost of manufacture is probably less than $1 so the sales price has a stiff margin. Worst is the power button which is so flimsy it is likely to fail after a dozen or so toggles. Mine is always on so no problem there, but if you are switching this on and off every day you may want to look further.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Good HDD enclosure marred by poor build quality\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 18, 2019",
+            "id": "amzn1.account.AHDLCMVBPGPTG637F3RFY7HVQOZA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHDLCMVBPGPTG637F3RFY7HVQOZA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This enclosure is a snap to assemble and use, but it does spin the drive down very quickly, as in about 1 minute.  Because of this, the delay is nearly always an issue, which is pretty annoying.I would not recommend using this for a system drive, but rather just for extra storage.Perhaps there is some trick to change the timeout, and I will look for one, but it seems unlikely.  I will add to/edit this review if I learn anything new.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great value, but goes to sleep very quickly.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on July 4, 2018",
+            "id": "amzn1.account.AHCEFAZHZWAYJXOZFUYRQPJVIE2Q",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHCEFAZHZWAYJXOZFUYRQPJVIE2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Perfect for my needs.  Added a 500gb SSD as an extension to the xbox one and this helps load times.  Pretty basic set up.  I don\u2019t move it much so no worries about things coming apart.  This usb 3.0 enclosure is more than what i needed for the xbox.  It was cheap and fits the bill.Was able to plug in SSD, transfer my games over from the internal HDD to this SSD with ease.  Load times have decreased by half the time it would normall take.  Of course, this is due to the drive that went inside this enclosure, but this enclosure has no issues working with the console.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Perfect for Xbox One\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 8, 2019",
+            "id": "amzn1.account.AHNM2X2QGKCQYUKSS3RH2WFJSGSQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHNM2X2QGKCQYUKSS3RH2WFJSGSQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    This doesn't actually work with 3.5\" drives. It reads a 2.5\" just fine but when connecting a 1tb seagate barracuda 3.5 sata drive it continuously connects and disconnects while the hard disk itself pulses instead of spins. I assumed it was my HDD but then tried connecting it to my other external HDD system and it spins just fine\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    doesn't work\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on March 29, 2018",
+            "id": "amzn1.account.AHJ4US64QGWJADWM2LWREZKJN2EA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHJ4US64QGWJADWM2LWREZKJN2EA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Works with Xbox One X with an SSD installed. I had trouble with another Sabrent enclosure not being recognized by the Xbox One but this enclosure works great!\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Works with Xbox One (X)\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on November 9, 2018",
+            "id": "amzn1.account.AFUPRTFJW62FFUC7Q6P22DY75Y6A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFUPRTFJW62FFUC7Q6P22DY75Y6A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    The documentation does not indicate that there are two push to release latches on the top at the edge next to the electronics package. It just says to pull the top back and up. Also the power cord and USB cable are very short: I cannot put the unit on the  desk, It has to sit right on top of the computer box. Otherwise, it worked just fine and since this box is a replacement for one that failed, the disk was already recognized by Windows. Negative side: NO COOLING, plastic box. Need to drill some ventilation holes in the top and bottom.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Weak documentation, NO COOLING\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 13, 2019",
+            "id": "amzn1.account.AGL42LFS5P7JJ37L2HY3FJDPEOYQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGL42LFS5P7JJ37L2HY3FJDPEOYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Not well made but it works. This is the third brand of hard drive enclosures that Iv'e tried and the first one to actually work. The two others I had to return. But, this one has some problems. The cover is difficult to remove and difficult to put on. The power button sticks. I have to jiggle the power cord connection to make the blue power light come on.Normally I would return this one but then I might not get another one that works.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    It works but has problems.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 27, 2018",
+            "id": "amzn1.account.AHWPELOD5TQKNNSLRFV7LL5WW3YQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHWPELOD5TQKNNSLRFV7LL5WW3YQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I usually don't leave reviews but felt that this item warranted a review.  It does not work with Windows 10 out of the box.  I waited to receive a replacement through Amazon and neither the original nor the replacement works with my computer.  I am fairly tech savy, but this item simply doesn't work with Windows 10.  Don't buy if you have Windows 10 or later.  Cheap materials with poor reliability.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Do Not Buy!  Does Not Work\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 5, 2019",
+            "id": "amzn1.account.AEL4BV6SWQELXAKUQOMOQRPGRY2A",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEL4BV6SWQELXAKUQOMOQRPGRY2A/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    My motherboard blew up (ok, I helped a little) and I needed a way to get to the data on my hard disk, until I could get my computer running again. So I got this case, popped in the drive, connected it to my laptop, and voila--there was my data. I only needed it for a few days, but it sure came in handy. Plastic seemed a little flimsy, so I wouldn't want to bang it around too much, but hey you don't want to bang your hard disk either, right?\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Did the job, no problems.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on January 28, 2018",
+            "id": "amzn1.account.AEYTL6EEQHOMLGJM323OWT7BENEA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEYTL6EEQHOMLGJM323OWT7BENEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    great for if you need to access your hard drive from another computer or device with usb. that's about all i can say. currently holds a Toshiba 2TB hard drive that was in my wife's previous computer, is now plugged into an zotac zbox fanless i5 computer. hasn't had any issues so far.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    use internal hard drive as external\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 28, 2020",
+            "id": "amzn1.account.AGWGXNGI2YZTMDA7MZLQY32F66YA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGWGXNGI2YZTMDA7MZLQY32F66YA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I've used a few different enclosures and adapters for USB/SATA connections, and this one has worked the best by far. I've used it for data recovery, system cloning, and backups and it works great. Currently I mostly use it on a headless Linux server for occasional backups to bare drives and it's done great with every drive I've used.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    A solid SATA enclosure\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 19, 2019",
+            "id": "amzn1.account.AEJU5W4LREUCS6KZ35MPHSASIHVQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEJU5W4LREUCS6KZ35MPHSASIHVQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Works just as advertised and cannot beat for the price..Open the box. Slide the lid off. Plug in a drive and you are good to go. So easy even the most computer illiterate can handle.The material does seem a bit flimsy, but for 20 dollars its really unbeatable.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Great plug and play for cheap\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on August 17, 2019",
+            "id": "amzn1.account.AGPEL5QMRHDB3K2J5TY5KQPUHFKQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGPEL5QMRHDB3K2J5TY5KQPUHFKQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Product received and installed, and created another mobile drive. You do not have the impact protection like the more expensive ones, Works with no issues. Been using this for around a year with no failures. Would buy another as a backup\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Amazon Basics SATA 2.5 Drive\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on September 1, 2018",
+            "id": "amzn1.account.AFBGRLWHQXTTPA74DBPGMHUZPOUA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFBGRLWHQXTTPA74DBPGMHUZPOUA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 1,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    Power supply reads a steady 12 volts but the unit won't power on.Died in the middle of a disk operation and crashed my system.I'm lucky I didn't lose any data.Don't take a chance on this unless you have time to waste waiting for returns. My entire weekend is shot now. I should have gone to Fry's.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Died Within 5 Minutes of Use\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on April 18, 2019",
+            "id": "amzn1.account.AE6PNODRJPZCVP6QKIYCUF7WBGLQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6PNODRJPZCVP6QKIYCUF7WBGLQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 2,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I have a Dell XPS 8700, plenty of RAM but I ran out of space for an internal HDD so I bought this.  Whenever it is plugged in, eventually, I get BSOD with the message power management issues?  I have disconnected the drive and have not had BSOD since.  WHY?  The only thing I can come up with is because the encasement is powered it is causing a conflict with my PC?\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    BSOD\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on June 27, 2019",
+            "id": "amzn1.account.AGEX6RB7TOYB6MNCUNCEQTCMS7XA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGEX6RB7TOYB6MNCUNCEQTCMS7XA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 5,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    If you need a cheap big black box to cram a 3.5\" hard drive inside..  well this does that and the price is right.You get pure function.  I wouldn't call it portable,  I definitely wouldn't call it handsome.  I hide it behind my router in a piece of furniture and don't think about it.  No problems with WD Green (that's the reduced power/heat/speed/noise one) 3.5\" drive in there.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Simple & ugly, but gets the job done.\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on February 9, 2020",
+            "id": "amzn1.account.AEAWL6AQHJOTZGDAGSW5VRX7LUFQ",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEAWL6AQHJOTZGDAGSW5VRX7LUFQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 4,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    1star reduces because it doesn\u2019t support 10TB drive.As long as the drive is 2.5\u201d or 3.5\u201d, it should work. The only problem is that the description and the cs doesn\u2019t give clear information about the maximum capacity supported.It is good, and even better than some of the $30-$70 docks I have, especially with the on-off switching dock, for drive capacities it supports. (Max. drive capacity should be 8TB)\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Maximum support capacity should be 8TB\n  \n"
+        },
+        {
+            "author": "Not found",
+            "date": "Reviewed in the United States on May 4, 2018",
+            "id": "amzn1.account.AHGNABKXWUYOBOFYB7FATWPO5IRA",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHGNABKXWUYOBOFYB7FATWPO5IRA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+            "rating": 3,
+            "text": "\n\n\n\n\n\n\n\n  \n  \n    I don't want to be unfair because it may be that I was trying to access files from a different operating system. This unit was recognized by windows 10 but I couldn't access the files (windows 7) even though I initialized the drive.  Luckily for me, I put the drive back in the old computer and was able to gt it up and running and back up to an external drive.  But I have other drives and will try to see if this is a problem.  If it works, I will update the review.\n  \n",
+            "title": "\n\n\n\n\n\n\n\n  \n  \n    Didn't work for me but not certain why not.\n  \n"
+        }
+    ]
+}
